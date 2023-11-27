@@ -18,7 +18,7 @@ CCTV13,https://epg.pw/stream/f775810be10706600c58373ca47c369fa14a21c1fb1fb953645
 CCTV13,https://epg.pw/stream/5eff6ce6035c5ed07464e6c1a9482968c86bde95d5625615c4b87c15ef745dba.m3u8
 
 
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+
 CCTV13,http://1.195.111.251:11190/tsfile/live/0013_1.m3u8
 CCTV13,https://epg.pw/stream/2ea6e420e70d1542debdbf9ffe845619efcf35461b57f9c2ee2ba6ebc7637e77.m3u8
 
@@ -86,7 +86,7 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 
 CCTV13,http://111.59.63.32:9901/tsfile/live/1020_1.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-CCTV13,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 中央新影_老故事,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226236/index.m3u8?
 
