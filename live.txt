@@ -261,13 +261,11 @@ CCTV-怀旧剧场,http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
 河南卫视,http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2000296103.m3u8
 河南卫视,http://117.148.179.144/PLTV/88888888/224/3221231514/index.m3u8
 
-云南卫视,http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?
+云南卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226709/1.m3u8
 
 甘肃卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226662/1.m3u8
 
-内蒙古卫视,http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/wh7f454c46tw2228825807_1324573507/ott.mobaibox.com/PLTV/3/224/3221227557/index.m3u8
-内蒙古卫视, http://yuwentao114.f3322.net:4022/rtp/239.252.219.48:5140
-内蒙古卫视,https://cntv.sbs/live?auth=230612&id=nmws
+内蒙古卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226685/1.m3u8
 
 老电影,#genre#
 地下尖兵,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/188d5706e5774f06850e06e4f181c4bd/850.m3u8
