@@ -26,9 +26,6 @@ CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/32212261
 CCTV10,http://222.71.90.218:8888/newlive/live/hls/11/live.m3u8
 
 
-CCTV11,http://cfss.cc/api/ysp/cctv11.m3u8
-CCTV11,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel41/index.m3u8
-CCTV11,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel11/index.m3u8
 CCTV11,http://[2409:8087:2001:20:2800:0:df6e:eb23]/wh7f454c46tw105619488_1866436632/ott.mobaibox.com/PLTV/3/224/3221228289/index.m3u8?icpid=3&RTS=1668594900&from=40&popid=40&hms_devid=2291&prioritypopid=40&vqe=3
 CCTV11,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225628/2/index.m3u8
 CCTV11,http://106.39.160.155/live.aishang.ctlcdn.com/00000110240328_1/playlist.m3u8?CONTENTID=00000110240328_1&AUTHINFO=FABqh274XDn8fkurD5614t+1RvYajgx+a3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom+XaXZYzB/QfYjeYzGgKhP/do+Xpr4quVxlkA+ubKvbU1XwJFRgrbX+nTs60JauQUrav8kLj/PH8LxkDFpzvkq75UfeY/VNDZygRZLw4j+Xtwhj/IuXf1hJAU0X+heT7g==&USERTOKEN=eHKuwve/35NVIR5qsO5XsuB0O2BhR0KR
