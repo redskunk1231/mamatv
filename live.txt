@@ -265,7 +265,15 @@ CCTV-怀旧剧场,http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
 
 甘肃卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226662/1.m3u8
 
-内蒙古卫视,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226685/1.m3u8
+内蒙新闻,http://live.qiyuevod.com/tyoetv/nmgtv.php?id=nmgxw
+内蒙文体,http://live.qiyuevod.com/tyoetv/nmgtv.php?id=nmgwt
+内蒙生活,http://live.qiyuevod.com/tyoetv/nmgtv.php?id=nmgsh
+内蒙新闻,http://1.183.178.135:8097/meytv/239.29.0.208:5000
+内蒙经济,http://1.183.178.135:8097/meytv/239.29.0.212:5000
+内蒙文体娱乐,http://1.183.178.135:8097/meytv/239.29.0.211:5000
+呼市都市,http://1.183.178.135:8097/meytv/239.29.0.36:5000
+呼市新闻,http://1.183.178.135:8097/meytv/239.29.0.35:5000
+呼市影视,http://1.183.178.135:8097/meytv/239.29.0.37:5000
 
 老电影,#genre#
 地下尖兵,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/188d5706e5774f06850e06e4f181c4bd/850.m3u8
@@ -375,7 +383,6 @@ CCTV-怀旧剧场,http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
 凤凰资讯,http://nsszds.f3322.net:8081/hls/36/index.m3u8
 凤凰资讯,http://120.84.96.21:808/hls/28/index.m3u8
 
-TVB翡翠台,http://r.jdshipin.com/qClQf
 TVB翡翠台,http://113.64.147.180:8081/hls/67/index.m3u8
 TVB翡翠台,http://r.jdshipin.com/62WM7
 TVB翡翠台,http://r.jdshipin.com/n90gt
@@ -408,7 +415,7 @@ TVB明珠,http://113.117.74.20:8081/hls/26/index.m3u8
 无线财经资讯,http://107.167.12.58:27347/livehttpplay?channel_id=30019
 无线财经资讯,http://107.167.12.58:27347/livehttpplay?channel_id=30022
 
-TVBS新聞 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
