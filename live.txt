@@ -363,11 +363,6 @@ CCTV-怀旧剧场,http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
 
 港台地区,#genre#
 
-凤凰中文,http://223.109.210.41/1301-tx.otvstream.otvcloud.com/otv/skcc/live/channel52003/index.m3u8
-凤凰中文,http://gxdl-lhs.8866.org:85/tsfile/live/1083_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
-凤凰中文,http://gwtv.cnv8.tv:8097/weishichinese_twn/playlist.m3u8
-凤凰中文,https://epg.pw/stream/fdd2516b5d14e79741090413c895c89931e7c874af81d8ab7b7a194f0328bfbc.m3u8
 凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
 凤凰中文,http://113.117.74.26:8081/hls/37/index.m3u8
 凤凰中文,http://113.117.74.18:8081/hls/37/index.m3u8
@@ -381,24 +376,16 @@ CCTV-怀旧剧场,http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
 凤凰资讯,http://nsszds.f3322.net:8081/hls/36/index.m3u8
 凤凰资讯,http://120.84.96.21:808/hls/28/index.m3u8
 
-TVB翡翠台,http://113.64.147.180:8081/hls/67/index.m3u8
-TVB翡翠台,http://r.jdshipin.com/62WM7
-TVB翡翠台,http://r.jdshipin.com/n90gt
-TVB翡翠台,http://113.117.74.20:8081/hls/25/index.m3u8
 TVB翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
 
-TVB明珠,http://r.jdshipin.com/ZQ4kN
-TVB明珠,http://113.64.147.180:8081/hls/26/index.m3u8
 TVB明珠,http://113.117.74.20:8081/hls/26/index.m3u8
 
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
 无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 无线新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=153399
 
 年代新聞 HD,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?
 年代新聞 HD,http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8
 
-三立新聞 HD,mitv://135.148.104.228:19806/ff825aef42f04c589354d7d999b37792
 三立新聞 HD,http://123.51.230.124:8531/.m3u8
 三立新聞 HD,http://123.51.230.64:18559/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
 
