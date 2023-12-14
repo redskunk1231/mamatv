@@ -1044,98 +1044,36 @@ CCTV13HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw2444616252
 港台地区,#genre#
 
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
-凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
-凤凰中文,http://113.117.74.26:8081/hls/37/index.m3u8
-凤凰中文,http://113.117.74.18:8081/hls/37/index.m3u8
-凤凰中文,http://nsszds.f3322.net:8081/hls/37/index.m3u8
-凤凰中文,http://120.84.96.21:808/hls/29/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
-凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
-
 凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
 凤凰中文,http://r.jdshipin.com/cCCzW
-凤凰中文,http://kkwk1122.top/fh.php?id=fhzw
 
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
-凤凰资讯,http://113.117.74.18:8081/hls/36/index.m3u8
-凤凰资讯,http://nsszds.f3322.net:8081/hls/36/index.m3u8
-凤凰资讯,http://120.84.96.21:808/hls/28/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
-东森新闻,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
-东森新闻,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
-东森新闻,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
-台视新闻,http://198.16.100.90:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
 台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-非凡新闻,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+
 中视新闻,http://198.16.100.90:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 中视新闻,http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 
 TVB翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
 
-TVB明珠,http://113.117.74.20:8081/hls/26/index.m3u8
-
 无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
-无线新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=153399
 
-年代新聞 HD,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?
-年代新聞 HD,http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8
-年代新聞 HD,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
-
-星河台·粤语,http://113.117.74.45:8081/hls/135/index.m3u8
-
-三立新聞 HD,http://123.51.230.124:8531/.m3u8
-三立新聞 HD,http://123.51.230.64:18559/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
-
-无线财经资讯,http://1.65.195.85:9981/stream/channelid/1781676223?profile=pass
-无线财经资讯,http://radius.8866.org:800/hls/83/index.m3u8
 无线财经资讯,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
 无线财经资讯,http://50.7.238.114:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
-无线财经资讯,http://107.167.12.58:27347/livehttpplay?channel_id=20121
-无线财经资讯,http://107.167.12.58:27347/livehttpplay?channel_id=30019
-无线财经资讯,http://107.167.12.58:27347/livehttpplay?channel_id=30022
 
-TVBS新聞,http://gwtv.cnv8.tv:8097/tvbs_n/playlist.m3u8
+TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
 
-民视新闻台,http://gwtv.cnv8.tv:8097/ftvnew_taiwan/playlist.m3u8
 民视新闻台,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
 民视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-
-壹新聞 HD,mitv://135.148.104.228:19806/c4815d36091444f4b75aa85a2d8e301f
-壹新聞 HD,http://60.251.59.180:8501/.m3u8
-
-中天娱乐,http://gwtv.cnv8.tv:8097/ctient/playlist.m3u8
-
-镜新闻,http://awei.beimua.com/iptv.php?id=52
-
-
-中视新聞,http://gwtv.cnv8.tv:8097/zhongshinews_twn/playlist.m3u8
-
-非凡新聞,mitv://135.148.104.228:19806/a900ce1aac5d489b88d221c7b3ca098e
-非凡新聞,http://123.51.230.124:8569/.m3u8
-非凡新聞,http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8
-
-東森新聞 HD,mitv://135.148.104.228:19806/a9b20866a39f45cbafacba9a002ee334
-東森新聞 HD,http://awei.beimua.com/iptv.php?id=44
-
-台视,http://gwtv.cnv8.tv:8097/ttv_taiwan/playlist.m3u8
-三立综合,http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8
-三立台湾,http://gwtv.cnv8.tv:8097/sanlitaiwan/playlist.m3u8
-民视台湾,http://gwtv.cnv8.tv:8097/ftvtaiwan_twn/playlist.m3u8
-民视第一,http://gwtv.cnv8.tv:8097/lunghuajingdian_twn/playlist.m3u8
-民视,http://gwtv.cnv8.tv:8097/ftvhd_taiwan/playlist.m3u8
-靖天国际,http://gwtv.cnv8.tv:8097/jingtianintl_twn/playlist.m3u8
-华视,http://gwtv.cnv8.tv:8097/ctshd_tw/playlist.m3u8
-公视,http://gwtv.cnv8.tv:8097/ctv_taiwan/playlist.m3u8
 
 东森财经,http://gwtv.cnv8.tv:8097/ettvcaijing_twn/playlist.m3u8
 东森LIVE,http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8
