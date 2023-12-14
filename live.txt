@@ -889,6 +889,7 @@ CCTV13HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw2444616252
 
 
 老电影,#genre#
+
 地下尖兵,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/188d5706e5774f06850e06e4f181c4bd/850.m3u8
 闪闪的红星,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b90fcf1a5425479baf3a045282a1f263/850.m3u8
 上甘岭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c91f7aae9b8b4c578a7d9ecdf94b9dca/850.m3u8
@@ -896,7 +897,6 @@ CCTV13HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw2444616252
 神秘的旅伴,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef95b9f13e2c47b882b67ef52139786a/850.m3u8
 前哨,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e9c4ffe4002492484c0f50235299759/850.m3u8
 刘三姐,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/680e102dc8614632862cf49a236def6e/850.m3u8
-举起手来-追击阿多丸,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/a1093561ad0a4071b68eeae884de01e7/850.m3u8
 鸡毛信,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/41fcf9fefcf247c78e2d64c7af5d6edd/850.m3u8
 马兰花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c89d105b9661464bb8c5c5f46977f6c4/850.m3u8
 南征北战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9557e1bfd91b4319975dfeffcc44d6b7/850.m3u8
@@ -1043,13 +1043,21 @@ CCTV13HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw2444616252
 
 港台地区,#genre#
 
+凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
 凤凰中文,http://111.20.40.166:80/PLTV/88888893/224/3221226547/index.m3u8
 凤凰中文,http://113.117.74.26:8081/hls/37/index.m3u8
 凤凰中文,http://113.117.74.18:8081/hls/37/index.m3u8
 凤凰中文,http://nsszds.f3322.net:8081/hls/37/index.m3u8
 凤凰中文,http://120.84.96.21:808/hls/29/index.m3u8
 凤凰中文,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+凤凰卫视,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 
+凤凰中文,http://php.17186.eu.org/phtv/fhzw.m3u8
+凤凰中文,http://r.jdshipin.com/cCCzW
+凤凰中文,http://kkwk1122.top/fh.php?id=fhzw
+
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8
+凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰资讯,http://111.20.40.166:80/PLTV/88888893/224/3221226546/index.m3u8
@@ -1067,6 +1075,9 @@ TVB明珠,http://113.117.74.20:8081/hls/26/index.m3u8
 
 年代新聞 HD,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?
 年代新聞 HD,http://gwtv.cnv8.tv:8097/niandainews_twn/playlist.m3u8
+年代新聞 HD,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
+
+星河台·粤语,http://113.117.74.45:8081/hls/135/index.m3u8
 
 三立新聞 HD,http://123.51.230.124:8531/.m3u8
 三立新聞 HD,http://123.51.230.64:18559/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
@@ -1094,9 +1105,11 @@ TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C935847339358473
 壹新聞 HD,http://60.251.59.180:8501/.m3u8
 
 中天娱乐,http://gwtv.cnv8.tv:8097/ctient/playlist.m3u8
-
+镜新闻,http://awei.beimua.com/iptv.php?id=52
 中天新聞 HD,http://211.72.65.236:8541/.m3u8
 中天新聞 HD,http://gwtv.cnv8.tv:8097/ctinews/playlist.m3u8
+中天新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+中天新聞 HD,http://awei.beimua.com/iptv.php?id=43
 
 中视新聞,http://gwtv.cnv8.tv:8097/zhongshinews_twn/playlist.m3u8
 
@@ -1105,6 +1118,7 @@ TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C935847339358473
 非凡新聞,http://gwtv.cnv8.tv:8097/feifannews_twn/playlist.m3u8
 
 東森新聞 HD,mitv://135.148.104.228:19806/a9b20866a39f45cbafacba9a002ee334
+東森新聞 HD,http://awei.beimua.com/iptv.php?id=44
 
 台视,http://gwtv.cnv8.tv:8097/ttv_taiwan/playlist.m3u8
 三立综合,http://gwtv.cnv8.tv:8097/sanlizhonghe/playlist.m3u8
@@ -1119,6 +1133,34 @@ TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C935847339358473
 东森财经,http://gwtv.cnv8.tv:8097/ettvcaijing_twn/playlist.m3u8
 东森LIVE,http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8
 TVBS,http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8
+
+壹 新 聞,http://81.69.20.196/mqlive.m3u8?ip=60.250.216.209:1888&id=live1676
+寰宇新聞,http://81.69.20.196/mqlive.m3u8?ip=60.250.216.209:1888&id=live1222
+中天新闻,http://81.69.20.196/mqlive.m3u8?ip=60.250.216.209:1888&id=live1675
+TVBS HD,http://81.69.20.196/mqlive.m3u8?ip=60.250.216.209:1888&id=live1063
+三立新闻,http://81.69.20.196/mqlive.m3u8?ip=60.250.216.209:1888&id=live1016
+TVBS HD,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+TVBS 新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+
+香港J2频道,http://r.jdshipin.com/Nr5jq
+澳门莲花,https://cntv.sbs/tv/lhws.php
+澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
+澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
+澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
+
+愛爾達體育,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+愛爾達體育1台,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
+愛爾達體育1台,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
+愛爾達體育1台,http://awei.beimua.com/iptv.php?id=79
+愛爾達體育2,http://50.7.238.114:8278/eltasport2_twn/playlist.m3u8?tid=ME3E4844502848445028&ct=19317&tsum=035fc643389fcb4a6bf124bca1248aab
+愛爾達體育2台,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
+愛爾達體育2台,http://198.16.100.90:8278/eltasport2_twn/playlist.m3u8?tid=MB2B3966739039667390&ct=19249&tsum=20bdbd3a22909e8d89aabe7a923c8c5b
+愛爾達體育2台,http://awei.beimua.com/iptv.php?id=80
+愛爾達體育2台,http://awei.beimua.com/iptv.php?id=81
+
+ELEVEN 體育1台,http://50.7.238.114:8278/golfchannel_twn/playlist.m3u8?tid=MFBF2798068027980680&ct=18393&tsum=d8204023f67120512c75a8882f121120
+ELEVEN體育1台,http://198.16.100.90:8278/bs181_japan/playlist.m3u8?tid=MEBE3981057839810578&ct=19225&tsum=d6fa49cd7b45b3bea924647730100283
+ELEVEN體育2台,http://198.16.100.90:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
 
 
 
