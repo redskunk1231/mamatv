@@ -1140,13 +1140,6 @@ TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C935847339358473
 东森财经,http://gwtv.cnv8.tv:8097/ettvcaijing_twn/playlist.m3u8
 东森LIVE,http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8
 TVBS,http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8
-
-香港J2频道,http://r.jdshipin.com/Nr5jq
-澳门莲花,https://cntv.sbs/tv/lhws.php
-澳门莲花,https://p.ggiptv.com/v/macaulotustv.php
-澳门莲花,http://anren.live/HK/BiIOU11uLA.m3u8
-澳门莲花,http://nettvpro.live/hls/lotustv.php?zgangd
-
 愛爾達體育,http://50.7.238.114:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 愛爾達體育1台,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=md3567b35401611916221&ct=17874&tsum=be2a069324faa7f0737ca0d396d43745
 愛爾達體育1台,http://198.16.100.90:8278/eltasport_twn/playlist.m3u8?tid=MF1F8884668388846683&ct=19249&tsum=b676f636b8ef285596dc6512fc4659d4
