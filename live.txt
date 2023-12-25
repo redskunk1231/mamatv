@@ -1126,6 +1126,8 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 民视新闻台,https://ythls.armelin.one/channel/UC2VmWn8dAqkzlQqvy02E1PA.m3u8
 民视新闻台,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
 
+壹新闻,http://www.yshmzmc.top/gtjm.php?id=live1242
+
 东森财经,http://gwtv.cnv8.tv:8097/ettvcaijing_twn/playlist.m3u8
 东森LIVE,http://gwtv.cnv8.tv:8097/ettvnews/playlist.m3u8
 TVBS,http://gwtv.cnv8.tv:8097/tvbs/playlist.m3u8
