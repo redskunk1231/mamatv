@@ -1119,10 +1119,8 @@ TVBS欢乐,rtmp://9sv2.mine.nu:1935/sat/tv421
 中视新闻,http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
 中视新闻,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 
-TVB翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
-壹新闻,mitv://147.135.39.171:9906/5ede0911000cbd09b8e8e6d42be1693c.ts
-壹新闻,https://usb.bozztv.com/ssh101/NEXTTVHD/NEXTTVHD/playlist.m3u8
-壹新闻,http://stream.nexttv.com.tw:80/n001/hd/live.m3u8
+东森新闻,http://51.79.193.109:8080/hlsok/1ecdeb5a/index.m3u8
+壹新闻,http://51.79.193.109:8080/hlsok/cc4d59da/index.m3u8
 无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 
 无线财经资讯,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
