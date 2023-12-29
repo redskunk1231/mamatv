@@ -125,6 +125,7 @@ CCTV10,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212261
 
 CCTV11,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001309/index.m3u8
 CCTV11,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+CCTV11,http://116.232.118.28:4000/rtp/239.45.3.50:5140
 CCTV11,http://61.148.223.18:8888/newlive/live/hls/12/live.m3u8
 CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225776/index.m3u8
 CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
