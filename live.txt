@@ -1120,7 +1120,7 @@ TVBS欢乐,rtmp://9sv2.mine.nu:1935/sat/tv421
 中视新闻,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 
 TVB翡翠台,http://120.236.57.77:9901/tsfile/live/1076_1.m3u8
-壹新闻,http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+壹新闻,mitv://147.135.39.171:9906/5ede0911000cbd09b8e8e6d42be1693c.ts
 无线新闻,http://1.65.195.85:9981/stream/channelid/2051586642?profile=pass
 
 无线财经资讯,http://198.16.100.90:8278/tvbcaijing_twn/playlist.m3u8?tid=MD3D9552893795528937&ct=19254&tsum=77d4c2db4fa7537d7dd3eb19f933526d
