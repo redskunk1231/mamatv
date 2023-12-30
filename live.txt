@@ -651,10 +651,6 @@ CCTV13HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw2444616252
 西藏-卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001302/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 兵团-卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001304/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 厦门-卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001306/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-延边-卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001307/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-安多-卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001311/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-农林-卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001312/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-康巴-卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001313/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 内蒙古-卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001035/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 大湾区-卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001305/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
@@ -1135,7 +1131,7 @@ TVBS欢乐,rtmp://9sv2.mine.nu:1935/sat/tv421
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
 
 
-体育频道,#genre#
+体育直播,#genre#
 
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
@@ -1172,6 +1168,17 @@ Sky Sports Cricket 2,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2143.ts
 Sky Sports Main Event,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2091.ts
 Sky Sports Premier League,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2092.ts
 Sky Sports Football,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2093.ts
+
+Abu Dhabi Sports,https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
+Bein Sports 2 Max,https://streamermytvc.com/Bein-Sp-Max-1-LB ph===---/cache/Bein-Sp-Max-2-LB/m3u8/hls_m3u8_Bein-Sport-Max-2.m3u8
+Sony Liv,https://drmhls.redcdn.online/live/1080p.m3u8
+
+Bein Sports,http://185.53.88.103:88/live/226448369414368/226448369414368/13794.m3u
+Bein Sports 1,http://62.182.82.104/L_1_ENGLISH/index.m3u8?token=test
+Bein Sports 2,http://185.53.88.103:88/live/226448369414368/226448369414368/83.m3u
+Bein Sports Xtra,https://siloh.pluto.tv/lilo/production/bein/1/master_1.m3u8
+Bein Sports Xtra ñ,https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
+Fox Sports,https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8?token=pU4axaEnLcFXBvrIpJSy40Us0Gtrgq
 
 
 斗鱼直播,#genre#
