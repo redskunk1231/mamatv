@@ -1088,20 +1088,15 @@ CCTV13HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw2444616252
 2019年,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
 
 经典剧集,#genre#
+
 我爱我家,https://live.metshop.top/yy/1382735557
-东北一家人,https://live.metshop.top/yy/1355273385
-丧尸鬼片恐怖惊悚,http://epg.112114.xyz/douyu/96577
+东北一家人,https://www.goodiptv.club/douyu/7642724
 【鹿鼎记】金庸经典,https://live.metshop.top/yy/28265277
 弹幕天团 下饭神剧,https://live.metshop.top/yy/23512910
-【盜暮笔记】24h,https://live.metshop.top/yy/1382702247
-武林外传,https://live.metshop.top/yy/1354752120
-斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105
+武林外传,https://live.metshop.top/yy/1353852605
 超级吓人鬼片 恐怖片,https://live.metshop.top/yy/1355641195
-绝版电影 600部,https://live.metshop.top/yy/1382764593
 林正英-经典电影,https://live.metshop.top/yy/34229877
-倚天屠龙记,https://live.metshop.top/yy/1449856066
 经典港片800部,https://live.metshop.top/yy/1382800018
-绝版电影 女鬼,https://live.metshop.top/yy/1454587259
 电影 古惑仔全集,https://live.metshop.top/yy/1354507447
 笑傲江湖 4K超清,https://live.metshop.top/yy/1354282410
 我和僵尸有个约会,https://live.metshop.top/yy/1354143966
@@ -1110,9 +1105,6 @@ CCTV13HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw2444616252
 雍正王朝 高清 护眼版,https://live.metshop.top/yy/23206872
 YY恐怖电影,https://live.metshop.top/yy/24066336
 封神榜,https://live.metshop.top/yy/1353426319
-放羊的星星,https://live.metshop.top/yy/1355260662
-武侠电视剧,https://live.metshop.top/yy/1459331991
-大秧歌,https://live.metshop.top/yy/1460463356
 英叔僵尸 3000部,https://live.metshop.top/yy/1353685311
 经典鬼片3000部,https://live.metshop.top/yy/29460894
 【赌神片 动作片 港片】,https://live.metshop.top/yy/1355112116
@@ -1132,18 +1124,13 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 天龙八部,https://live.metshop.top/yy/1351814644
 国内外惊悚恐怖片,https://live.metshop.top/yy/1356075281
 港片鬼片全集,https://live.metshop.top/yy/1459869766
-爆笑小品,https://live.metshop.top/yy/1354931503
 经典电影,https://live.metshop.top/yy/1355142167
 天龙八部蓝光,https://live.metshop.top/yy/1355652820
 【炊事班的故事】下饭剧,https://live.metshop.top/yy/1382656457
 港片赌片 3000部,https://live.metshop.top/yy/1355076627
-探案！探案！,https://live.metshop.top/yy/1382829413
-神探狄仁杰2,https://live.metshop.top/yy/1382828767
 鬼片赌片经典电影,https://live.metshop.top/yy/1351496216
 狄仁杰等你哦,https://live.metshop.top/yy/1457579747
-倚天屠龙记,https://live.metshop.top/yy/1354755003
 【港片】赌片 动作,https://live.metshop.top/yy/24921161
-武林外传,https://live.metshop.top/yy/1353852605
 星爷经典-百看不厌,https://live.metshop.top/yy/1382736808
 新白娘子传奇-女神赵雅芝,https://live.metshop.top/yy/1354930969
 古惑仔全集,https://live.metshop.top/yy/1460889796
@@ -1151,7 +1138,6 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 鹿鼎记-高清全集,https://live.metshop.top/yy/1382704650
 惊恐鬼怪盗暮,https://live.metshop.top/yy/1382749525
 敢死队-精彩动作电影,https://live.metshop.top/yy/1382735573
-好先生,https://live.metshop.top/yy/79382500
 【成龙经典】动作,https://live.metshop.top/yy/34460526
 笑傲江湖,https://live.metshop.top/yy/1354930909
 【神雕侠侣】金庸经典,https://live.metshop.top/yy/1382704651
@@ -1170,7 +1156,6 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 盗慕恐怖惊辣,https://live.metshop.top/yy/1382748585
 林正英 九叔 僵尸 鬼片,https://live.metshop.top/yy/1382828957
 高分港片电影,https://live.metshop.top/yy/28099939
-变形金刚,https://live.metshop.top/yy/1382736803
 布丁-玄幻电影正在直播,https://live.metshop.top/yy/1455460998
 绝版电影超好看,https://live.metshop.top/yy/59719179
 寻秦记-穿越剧经典,https://live.metshop.top/yy/1382749900
@@ -1183,7 +1168,6 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 张国荣与周润发的兄弟情,https://live.metshop.top/yy/1354930961
 赌神-发哥,https://live.metshop.top/yy/1354889044
 木乃伊全集,https://live.metshop.top/yy/1354889024
-枕上书正在直播,https://live.metshop.top/yy/1351844200
 三国演义【1994】,https://live.metshop.top/yy/1354930932
 三国演义,https://live.metshop.top/yy/32788000
 中国味道 第4季-美食纪录片,https://live.metshop.top/yy/1382736845
@@ -1191,9 +1175,7 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 24小时播放,https://live.metshop.top/yy/29067083
 TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
 【玄幻电影】,https://live.metshop.top/yy/1355065896
-【动漫】斗罗斗破超清全屏,https://live.metshop.top/yy/1382689904
 粉红女郎,https://live.metshop.top/yy/1354888671
-你最爱的宋小宝,https://live.metshop.top/yy/1354936198
 绝版鬼片 超恐怖,https://live.metshop.top/yy/1382788850
 鹿鼎记,https://live.metshop.top/yy/1356059275
 易中天品三国,https://live.metshop.top/yy/1354931498
@@ -1203,30 +1185,8 @@ TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
 蓝色星球-自然-纪录片,https://live.metshop.top/yy/1354930936
 舌尖上的中国第一季,https://live.metshop.top/yy/1354930952
 男亲女爱-经典港剧,https://live.metshop.top/yy/1382736715
-走进狗的世界,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/25c049869a174f5fa5806e57a2c376bd/1200.m3u8
-圣斗士星矢,http://epg.112114.xyz/douyu/8458270
-猫和老鼠,http://epg.112114.xyz/douyu/7888428
-名侦探柯南1,http://epg.112114.xyz/douyu/6484910
-名侦探柯南2,http://epg.112114.xyz/douyu/5377297
-名侦探柯南3,http://epg.112114.xyz/douyu/1783144
-名侦探柯南4,http://epg.112114.xyz/douyu/1487654
-【蜡笔小新】国语高清，24小时直播哦！,http://zzy789.xyz/bili.php?id=10375360
 【蜡笔小新】绝版画质,http://zzy789.xyz/bili.php?id=21570935
-蜡笔小新24h睡觉背景音,http://zzy789.xyz/bili.php?id=11579951
-【蜡笔小新】你回来了～,http://zzy789.xyz/bili.php?id=22804740
-蜡笔小新,http://zzy789.xyz/bili.php?id=1895574
-【蜡笔小新】24小时无限大放送,http://zzy789.xyz/bili.php?id=21333965
-涂糊涂的蜡笔小新,http://zzy789.xyz/bili.php?id=49132
-【蜡笔小新】高清国语24h直播,http://zzy789.xyz/bili.php?id=22356720
-蜡笔小新国语轮播,http://zzy789.xyz/bili.php?id=22765729
-【蜡笔小新】国语高清，24小时直播哦！,http://zzy789.xyz/bili.php?id=23684726
-野原新之助蜡笔小新新番24H随机播放,http://zzy789.xyz/bili.php?id=21507503
-[蜡笔小新]高清国语24小时轮播,http://zzy789.xyz/bili.php?id=22683218
-【日语配音】24H陪你看蜡笔小新~,http://zzy789.xyz/bili.php?id=24609114
-蜡笔小新剧场版【高清】【测试】,http://zzy789.xyz/bili.php?id=7441943
-你回来了-【蜡笔小新】,http://zzy789.xyz/bili.php?id=24872140
 蜡笔小新全集高清在线24h播放,http://zzy789.xyz/bili.php?id=23190944
-【粤语老歌】,https://vdse.bdstatic.com//06c6164d2434f16bca0da3e4d37c06b5.mp4
 
 
 港台地区,#genre#
@@ -1251,93 +1211,6 @@ TVBS欢乐,rtmp://9sv2.mine.nu:1935/sat/tv421
 东森超视,rtmp://9sv2.mine.nu/sat/tv331
 东森财经,rtmp://9sv2.mine.nu/sat/tv571
 
-年代新闻,http://8.217.19.107:18128/islitve/twiptv.php?id=live1192
-东森新闻,http://8.217.19.107:18128/islitve/twiptv.php?id=live1014
-中天新闻,http://8.217.19.107:18128/islitve/twiptv.php?id=live1015
-民视新闻,http://8.217.19.107:18128/islitve/twiptv.php?id=live1204
-三立新闻,http://8.217.19.107:18128/islitve/twiptv.php?id=live1016
-TVBS新闻,http://8.217.19.107:18128/islitve/twiptv.php?id=live1051
-TVBS,http://8.217.19.107:18128/islitve/twiptv.php?id=live1251
-非凡新闻,http://8.217.19.107:18128/islitve/twiptv.php?id=live1013
-非凡商业,http://8.217.19.107:18128/islitve/twiptv.php?id=live1012
-东森财经,http://8.217.19.107:18128/islitve/twiptv.php?id=live1017
-寰宇新闻,http://8.217.19.107:18128/islitve/twiptv.php?id=live1222
-壹新闻,http://8.217.19.107:18128/islitve/twiptv.php?id=live1242
-
-无线新闻,http://sc2022.stream-link.org/tv2306.php?id=h04
-无线新闻,http://sc2022.stream-link.org/list.php?id=h008
-无线新闻,https://dispatch.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&timestamp=1686276774&rand=8TEOYmNn7s&uuid=9b647b3816b2a66a&from=web&sign=7ac7590c5e773941963ee188ef367054
-无线新闻,https://dispatch.ulivetv.net/v/live/ccns1uzk2bwg.m3u8?stream_id=ccns1uzk2bwg&timestamp=1686312720&rand=HIPVSHSf0B&uuid=9b647b3816b2a66a&from=web&sign=4859e57314ef365b4b28bcd602d53309
-无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
-无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
-无线新闻,http://162.19.247.76:22222/live/tvbnews/index.m3u8
-无线新闻,http://c-leung.homeip.net:8012/bysid/83
-无线新闻,http://tv.beimua.com/tvs.php?id=13
-
-TVBS新闻台,http://sc2022.stream-link.org/tv2306.php?id=t13
-TVBS新闻台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941622&extension=ts&play_token=E9ymAxKoVJ
-TVBS新闻台,http://tv.beimua.com/tvs.php?id=3
-TVBS新闻台,http://158.101.151.82:9000/jmsytb.m3u8?c=3
-TVBS新闻台,http://123.58.201.173:52411/test/lshotel.php?id=44
-TVBS新闻台,http://140.238.155.232:9000/jmsytb.m3u8?c=31
-TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS亚洲,http://sc2022.stream-link.org/tv2306.php?id=t16
-TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571185&extension=ts&play_token=wD7CZpooiF
-TVBS亚洲,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941621&extension=ts&play_token=vFR5CkmzbA
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS亚洲,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-东森新闻,http://sc2022.stream-link.org/tv2306.php?id=t01
-东森新闻,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
-东森新闻,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
-东森新闻,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
-东森新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=2
-东森新闻,http://tv.beimua.com/tvs.php?id=1
-东森新闻,http://61.221.81.93:8527/hls/65/807/ch843.m3u8
-东森新闻,http://123.58.201.173:52411/test/lshotel.php?id=40
-东森新闻美洲台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
-民视新闻台,http://sc2022.stream-link.org/tv2306.php?id=t06
-民视新闻台,http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻台,http://123.58.201.173:52411/test/lshotel.php?id=42
-民视新闻台,http://tv.redrainl.site:9500/live.m3u8?c=01
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-中天新闻,http://sc2022.stream-link.org/tv2306.php?id=t03
-中天新闻,https://dispatch.ulivetv.net/v/live/cg1049vjg14w.m3u8?stream_id=cg1049vjg14w&timestamp=1687273579&rand=h3ALX2S9Hm&uuid=9b647b3816b2a66a&from=web&sign=5144bb53cd17b74f7bd3b3acc9ef3429
-中天新闻,http://107.151.203.111:2209/hls/zt.m3u8
-中天新闻,http://198.13.47.184:8500/live.m3u8?c=1
-中天新闻,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
-中天新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=5
-中天新闻,http://123.58.201.173:52411/test/lshotel.php?id=41
-中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
-中天新闻,http://104.192.80.27:9500/live.m3u8?c=2  
-中天新闻,http://152.69.224.242:9500/jmsytb.m3u8?c=1
-中天亚洲台,http://sc2022.stream-link.org/tv2306.php?id=t15
-中天亚洲台,http://162.19.247.76:22222/live/ztyz/index.m3u8
-中天亚洲台,http://198.16.100.90:8278/ctiasia_twn/playlist.m3u8?tid=MC3C8838319088383190&ct=19226&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
-中天亚洲台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
-中天亚洲台,http://50.7.220.74:8278/ctiasia_twn/playlist.m3u8?tid=MFFF9983745599837455&ct=19193&tsum=ee61e179a8c619a076c515514d68e24e
-中天亚洲台,http://198.16.64.10:8278/ctiasia_twn/playlist.m3u8?tid=MC3C8838319088383190&ct=19226&tsum=6eaf7a477dd08b06a5dc54b4c05e52e1
-非凡新闻,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-非凡新闻,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-非凡新闻,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-非凡新闻,http://123.58.201.173:52411/test/lshotel.php?id=46
-三立新闻,http://sc2022.stream-link.org/tv2306.php?id=t10
-三立新闻,http://158.101.151.82:9000/jmsytb.m3u8?c=9
-三立新闻,http://123.58.201.173:52411/test/lshotel.php?id=43
-三立新闻,http://140.238.155.232:9000/jmsytb.m3u8?c=23
-三立新闻+,http://sc2022.stream-link.org/tv2306.php?id=t11
-壹新闻,http://123.58.201.173:52411/test/lshotel.php?id=50
-镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
-寰宇新闻,http://sc2022.stream-link.org/tv2306.php?id=t07
-寰宇新闻,http://sc2022.stream-link.org/tv2306.php?id=t08
-年代新闻,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-年代新闻,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
-年代新闻,http://61.221.81.93:8532/hls/65/807/ch843.m3u8
-年代新闻,http://123.58.201.173:52411/test/lshotel.php?id=39
 
 
 体育直播,#genre#
@@ -1382,10 +1255,6 @@ Sky Sports Main Event,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2091.ts
 Sky Sports Premier League,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2092.ts
 Sky Sports Football,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2093.ts
 
-J SPORTS 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-J SPORTS 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-J SPORTS 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
-J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 
 
 
@@ -1410,7 +1279,7 @@ J Sports 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccod
 小粤兒,https://www.goodiptv.club/douyu/5033502
 名侦探柯南之银色子弹,https://www.goodiptv.club/douyu/6484910
 丶丶丶九月,https://www.goodiptv.club/douyu/10338873
-东北一家人,https://www.goodiptv.club/douyu/7642724
+
 芒果酱Mangoo,https://www.goodiptv.club/douyu/138959
 波奶瓶,https://www.goodiptv.club/douyu/6241733
 飘洋过海来,https://www.goodiptv.club/douyu/9548850
