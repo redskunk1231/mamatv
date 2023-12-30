@@ -1087,7 +1087,127 @@ CCTV13HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw2444616252
 2018年,https://txmov2.a.kwimgs.com/bs3/video-hls/5212635188105848764_hlshd15.m3u8
 2019年,https://txmov2.a.kwimgs.com/bs3/video-hls/5239093835831655107_hlshd15.m3u8
 
-
+经典剧集,#genre#
+我爱我家,https://live.metshop.top/yy/1382735557
+东北一家人,https://live.metshop.top/yy/1355273385
+【鹿鼎记】金庸经典,https://live.metshop.top/yy/28265277
+弹幕天团 下饭神剧,https://live.metshop.top/yy/23512910
+【盜暮笔记】24h,https://live.metshop.top/yy/1382702247
+武林外传,https://live.metshop.top/yy/1354752120
+【战狼3吴京】首播,https://live.metshop.top/yy/1456668939
+斗破苍穹玄幻剧,https://live.metshop.top/yy/1356051105
+超级吓人鬼片 恐怖片,https://live.metshop.top/yy/1355641195
+绝版电影 600部,https://live.metshop.top/yy/1382764593
+康熙微服私访记,https://live.metshop.top/yy/1352811698
+林正英-经典电影,https://live.metshop.top/yy/34229877
+倚天屠龙记,https://live.metshop.top/yy/1449856066
+经典港片800部,https://live.metshop.top/yy/1382800018
+绝版电影 女鬼,https://live.metshop.top/yy/1454587259
+电影 古惑仔全集,https://live.metshop.top/yy/1354507447
+笑傲江湖 4K超清,https://live.metshop.top/yy/1354282410
+我和僵尸有个约会,https://live.metshop.top/yy/1354143966
+恐怖鬼片,https://live.metshop.top/yy/1355485328
+鬼片恐怖片,https://live.metshop.top/yy/1335509613
+雍正王朝 高清 护眼版,https://live.metshop.top/yy/23206872
+YY恐怖电影,https://live.metshop.top/yy/24066336
+封神榜,https://live.metshop.top/yy/1353426319
+放羊的星星,https://live.metshop.top/yy/1355260662
+武侠电视剧,https://live.metshop.top/yy/1459331991
+大秧歌,https://live.metshop.top/yy/1460463356
+英叔僵尸 3000部,https://live.metshop.top/yy/1353685311
+经典鬼片3000部,https://live.metshop.top/yy/29460894
+【赌神片 动作片 港片】,https://live.metshop.top/yy/1355112116
+港片电影集,https://live.metshop.top/yy/1455225203
+新白娘子传奇,https://live.metshop.top/yy/1354490667
+济公游记,https://live.metshop.top/yy/1355265814
+动漫,https://live.metshop.top/yy/25055036
+宰相刘罗锅,https://live.metshop.top/yy/1382745191
+动漫,https://live.metshop.top/yy/26664495
+港片电影,https://live.metshop.top/yy/33897188
+高分经典电影,https://live.metshop.top/yy/1382754187
+83射雕英雄传,https://live.metshop.top/yy/1354210357
+丫头动漫 斗罗斗破,https://live.metshop.top/yy/1458722520
+神雕侠侣,https://live.metshop.top/yy/1351762426
+鹿鼎记-周星驰版,https://live.metshop.top/yy/1354658049
+武林外传爆笑全场,https://live.metshop.top/yy/1355269576
+经典鬼片 绝版好看,https://live.metshop.top/yy/1353850051
+天龙八部,https://live.metshop.top/yy/1351814644
+国内外惊悚恐怖片,https://live.metshop.top/yy/1356075281
+港片鬼片全集,https://live.metshop.top/yy/1459869766
+爆笑小品,https://live.metshop.top/yy/1354931503
+经典电影,https://live.metshop.top/yy/1355142167
+天龙八部蓝光,https://live.metshop.top/yy/1355652820
+【炊事班的故事】下饭剧,https://live.metshop.top/yy/1382656457
+港片赌片 3000部,https://live.metshop.top/yy/1355076627
+探案！探案！,https://live.metshop.top/yy/1382829413
+神探狄仁杰2,https://live.metshop.top/yy/1382828767
+鬼片赌片经典电影,https://live.metshop.top/yy/1351496216
+狄仁杰等你哦,https://live.metshop.top/yy/1457579747
+倚天屠龙记,https://live.metshop.top/yy/1354755003
+【港片】赌片 动作,https://live.metshop.top/yy/24921161
+武林外传,https://live.metshop.top/yy/1353852605
+星爷经典-百看不厌,https://live.metshop.top/yy/1382736808
+新白娘子传奇-女神赵雅芝,https://live.metshop.top/yy/1354930969
+古惑仔全集,https://live.metshop.top/yy/1460889796
+港剧悬疑破案,https://live.metshop.top/yy/10425097
+鹿鼎记-高清全集,https://live.metshop.top/yy/1382704650
+惊恐鬼怪盗暮,https://live.metshop.top/yy/1382749525
+敢死队-精彩动作电影,https://live.metshop.top/yy/1382735573
+好先生,https://live.metshop.top/yy/79382500
+雪中悍刀行,https://live.metshop.top/yy/1354943110
+【成龙经典】动作,https://live.metshop.top/yy/34460526
+笑傲江湖,https://live.metshop.top/yy/1354930909
+【神雕侠侣】金庸经典,https://live.metshop.top/yy/1382704651
+破案港剧,https://live.metshop.top/yy/1350670730
+经典动漫,https://live.metshop.top/yy/22777075
+少年歌行【蓝光】,https://live.metshop.top/yy/1450556636
+新三国,https://live.metshop.top/yy/26744898
+【电影】超然巨作,https://live.metshop.top/yy/29170933
+【天龙八部】蓝光超清,https://live.metshop.top/yy/28996058
+经典动漫,https://live.metshop.top/yy/24180320
+经典港片电影,https://live.metshop.top/yy/1382793140
+鬼片 恐怖片超好看,https://live.metshop.top/yy/1382780025
+【林正英】僵尸 鬼片,https://live.metshop.top/yy/30668277
+读心神探,https://live.metshop.top/yy/1382736875
+24小时循环播电视剧,https://live.metshop.top/yy/53320802
+盗慕恐怖惊辣,https://live.metshop.top/yy/1382748585
+林正英 九叔 僵尸 鬼片,https://live.metshop.top/yy/1382828957
+高分港片电影,https://live.metshop.top/yy/28099939
+变形金刚,https://live.metshop.top/yy/1382736803
+布丁-玄幻电影正在直播,https://live.metshop.top/yy/1455460998
+绝版电影超好看,https://live.metshop.top/yy/59719179
+寻秦记-穿越剧经典,https://live.metshop.top/yy/1382749900
+林正英 经典鬼片,https://live.metshop.top/yy/1353312849
+国产喜剧,https://live.metshop.top/yy/1382736856
+24H欧美惊悚科幻,https://live.metshop.top/yy/1382656234
+精彩玄幻电影,https://live.metshop.top/yy/1382688400
+我的体育老师,https://live.metshop.top/yy/1382745169
+血色浪漫,https://live.metshop.top/yy/1354926676
+张国荣与周润发的兄弟情,https://live.metshop.top/yy/1354930961
+赌神-发哥,https://live.metshop.top/yy/1354889044
+木乃伊全集,https://live.metshop.top/yy/1354889024
+枕上书正在直播,https://live.metshop.top/yy/1351844200
+三国演义【1994】,https://live.metshop.top/yy/1354930932
+三国演义,https://live.metshop.top/yy/32788000
+中国味道 第4季-美食纪录片,https://live.metshop.top/yy/1382736845
+动漫,https://live.metshop.top/yy/23993334
+24小时播放,https://live.metshop.top/yy/29067083
+金婚,https://live.metshop.top/yy/1382736832
+TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
+【玄幻电影】,https://live.metshop.top/yy/1355065896
+【动漫】斗罗斗破超清全屏,https://live.metshop.top/yy/1382689904
+粉红女郎,https://live.metshop.top/yy/1354888671
+你最爱的宋小宝,https://live.metshop.top/yy/1354936198
+绝版鬼片 超恐怖,https://live.metshop.top/yy/1382788850
+鹿鼎记,https://live.metshop.top/yy/1356059275
+易中天品三国,https://live.metshop.top/yy/1354931498
+寻味顺德-美食纪录片,https://live.metshop.top/yy/1382736844
+来自星星的你,https://live.metshop.top/yy/1354930976
+王朝-自然-纪录片,https://live.metshop.top/yy/1354930927
+蓝色星球-自然-纪录片,https://live.metshop.top/yy/1354930936
+舌尖上的中国第一季,https://live.metshop.top/yy/1354930952
+男亲女爱-经典港剧,https://live.metshop.top/yy/1382736715
+相声相声搜38528频道,https://live.metshop.top/yy/34025318
 
 
 港台地区,#genre#
@@ -1109,249 +1229,41 @@ CCTV13HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw2444616252
 TVBS新闻,rtmp://9sv2.mine.nu/sat/tv551
 TVBS欢乐,rtmp://9sv2.mine.nu:1935/sat/tv421
 
-TVB无线新闻台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e291b2-4abc-4a95-8da7-a22ebf402964/index.m3u8?by=yeslivetv.com
-TVB无线新闻台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153399
-香港有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/playlist.m3u8
-香港有线新闻台,http://cm61-10-2-143.hkcable.com.hk/live_freedirect/hd110_h.live/chunklist_w1764144865.m3u8
-TVB无线新闻台,mitv://generationnexxxt.com:19806/5040e457197b4ac791e199f0e406f48f
+无线新闻,http://r.jdshipin.com/CkuBd
+无线新闻,http://radius.8866.org:800/hls/82/index.m3u8
 
-东森新闻台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-77e58926-5ddd-4f34-92b1-1b1be2babd73/index.m3u8?by=yeslivetv.com
-东森新闻台,
-东森新闻台,https://epg.pw/stream/d6cad1cb0bdc2192885f5fb7689d8234c282c7f07401c1093a000ab83142bd95.m3u8
-TVBS新闻台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-721adc40-fec7-40e6-8501-5ee4af74afa5/index.m3u8?by=yeslivetv.com
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS新闻台,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MECE3233774032337740&ct=19225&tsum=47a22a993d8e9b29582dfde5631c78b0
-年代新闻台,https://pull-f5-spe.ixigua.com/live/YesLiveTV-4aabc0bf-888d-41f2-95d9-a91c7933fa8b/index.m3u8?by=yeslivetv.com
-年代新闻台,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MBCB9184423891844238&ct=19249&tsum=ac0331d98099429b19c53fe6d20972ec
-年代新闻台,http://198.16.100.90:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
-中天新闻台,http://8848.iptv8.top/微信公众号：阿猫电视/xxx/live.php?id=ztxw
-中天新闻台,http://gofuxkyourself.online:8500/live.m3u8?c=003
-中天新闻台,mitv://generationnexxxt.com:19806/a1472a61fc55474a851b87c601ec0787
-中天新闻台,http://gofuxkyourself.online:8500/live.m3u8?c=002
-中天亚洲台,mitv://generationnexxxt.com:19806/32caa156f6c34c7f96095f49def81bfe
-中天亚洲台,http://50.7.238.114:8278/ctiasia_twn/playlist.m3u8?tid=mfc2c5bc6c101&ct=18335&tsum=d074a602fcd98718afeb8fc9a18fa964
-中天亚洲台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571212&extension=ts
-中天亚洲台,
-三立台湾台,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
-三立台湾台,
-三立都会台,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
-非凡新闻台,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=MFDF6578546865785468&ct=19249&tsum=bbb5f2ee12e8ae89846875a83db08997
-非凡新闻台,
-台视台,http://162.19.247.76:22222/live/taishi/index.m3u8
-华视台,http://50.7.238.114:8278/ctshd_twn/playlist.m3u8?tid=MC3C3582911835829118&ct=19249&tsum=f2c0c86801d43be647206c4ddb8e9ce6
-民视台,rtmp://219.80.97.77/sat/tv051
-中视台,http://162.19.247.76:22222/live/zhongshi/index.m3u8
-中视台,http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
-中视台,http://50.7.238.114:8278/zhongshihd_twn/playlist.m3u8?tid=MBDB6720263767202637&ct=19249&tsum=edd778f298b53c39b3b9706700032605
-公视台,http://198.16.100.90:8278/ctv_taiwan/playlist.m3u8?tid=MDCD6096520560965205&ct=19249&tsum=64237c7ffa0c00b62657a938247bcab0
-公视台,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?ct=17990&tid=13765524&tsum=03eb77c1c186944b97737f14e95076c0
-公视台,http://50.7.238.114:8278/ctv_taiwan/playlist.m3u8?tid=MD4D6839548568395485&ct=19193&tsum=56b3e3b150f4fcbc1877e081b313bcd4
-东森财经新闻台,http://50.7.238.114:8278/ettvcaijing_twn/playlist.m3u8?tid=MD5D9010164090101640&ct=19225&tsum=cc229773020f89af853b23d81e0e6371
-台视新闻台,http://50.7.238.114:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
-台视新闻台,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-中视新闻台,http://50.7.238.114:8278/zhongshinews_twn/playlist.m3u8?tid=MAAA4459856044598560&ct=19193&tsum=1b7bdea69c00cd48e31f13442c75c376
-中视新闻台,http://198.16.100.90:8278/ca73a13c37/playlist.m3u8?tid=mee3f06f682eb&ct=18335&tsum=7491cceca17c1e2af05824583855f8bd
+无线新闻,https://sc2022.stream-link.org/tv2306.php?id=h04
+无线资讯,https://sc2022.stream-link.org/tv2306.php?id=h05
+无线新闻,https://sc2022.stream-link.org/tv2306.php?id=h06
+无线资讯,https://sc2022.stream-link.org/tv2306.php?id=h07
 
-TVBS新闻台,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8 
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新闻台,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新闻台,rtmp://219.80.97.77/sat/tv551
-TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-TVBS新闻台,rtmp://119.81.124.89/sat/tv551
-TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-TVBS亚洲台,http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
-TVBS亚洲台,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
-中天新闻台,http://107.151.203.111:2209/hls/zt.m3u8
-中天新闻台,http://107.151.203.111:2209/135/hk.php?id=ztxw
-三立新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视台,mitv://generationnexxxt.com:19806/2f066b929805456b9bca22da1389a7cf
-台视台,mitv://generationnexxxt.com:19806/47bedd4dd49b4b7ab10f582da5ed68fd
-中视台,mitv://generationnexxxt.com:19806/abdc2f45e1ed4b2683aa3d89257ba2ce
-华视台,mitv://generationnexxxt.com:19806/b0db01e11c8e4a5faae9c97029c3213d
-公视台,mitv://generationnexxxt.com:19806/571b93c0233f4f028ea9123c11cd1d3e
-三立台湾台,mitv://generationnexxxt.com:19806/ff88ce6aba084bf8a48815bf68817024
-三立都会台,mitv://generationnexxxt.com:19806/0a288e88befe4fb887764323efe4b536
-东森超视台,mitv://generationnexxxt.com:19806/989faa8666d0429abfea71d773ce05eb
-壹电视新闻台,mitv://generationnexxxt.com:19806/dce6e992452d488b87003cf7f904d417
-年代新闻台,mitv://generationnexxxt.com:19806/375c61404d404b698e3596b8e9663c4e
-东森新闻台,mitv://generationnexxxt.com:19806/b64056bac1874555b68df75cf78c1c42
-中天新闻台,mitv://generationnexxxt.com:19806/a1472a61fc55474a851b87c601ec0787
-民视新闻台,mitv://generationnexxxt.com:19806/341c2c8a2dab4b65834683ed1ce7b6bb
-三立新闻台,mitv://generationnexxxt.com:19806/e4229dbebe73401f8cdc3191ed01692c
-TVBS新闻台,mitv://generationnexxxt.com:19806/6ef2f466ab1a4e969ef812f621e7507e
-TVBS台,mitv://generationnexxxt.com:19806/6e34604750674689bc88a479e940db7e
-东森财经新闻台,mitv://generationnexxxt.com:19806/142e79cca17d4ba6b118ba4a75b727cf
-非凡新闻台,mitv://generationnexxxt.com:19806/cba1e94940ea49ec93591c8b9843aaa9
-公视3台,mitv://generationnexxxt.com:19806/028e069d93224520b476a8fc1e2697ca
-台视新闻台,mitv://generationnexxxt.com:19806/b354dfc0032e452a9b8b36e135470026
-寰宇新闻台湾台,mitv://generationnexxxt.com:19806/72cb814dcec343baa8ce24484b910fd3
-台视财经台,mitv://generationnexxxt.com:19806/f2aeb26b71754548961d0ef27e504f99
-中视新闻台,mitv://generationnexxxt.com:19806/dae18334155348a9a59f64124ddd0587
-寰宇新闻台,mitv://generationnexxxt.com:19806/24bab65917394094b1546ab3d6aedc2f
-华视新闻台,mitv://generationnexxxt.com:19806/5d483ac9c4cd4f018fd5d5b7ff36bd55
-NHK新闻资讯台,mitv://generationnexxxt.com:19806/8379ae57c2be49228bf056036ab87ec1
-壹电视综合台,mitv://generationnexxxt.com:19806/2531c4364bfd446692279d2d202836bb
-三立综合台,mitv://generationnexxxt.com:19806/613e0b4c21c94b21bc2110aade469fae
-靖天资讯台,mitv://generationnexxxt.com:19806/215d2d98f4d149d18f8d8e4b4d8ea995
-台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台视新闻台,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-台视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-台视新闻台,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-台视新闻台,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-民视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-华视新闻台,http://seb.sason.top/sc/hsxw_fhd.m3u8
-台视台,http://162.19.247.76:22222/live/taishi/index.m3u8
-中视台,http://162.19.247.76:22222/live/zhongshi/index.m3u8
-华视台,http://162.19.247.76:22222/live/huashi/index.m3u8
-民视台,rtmp://219.80.97.77/sat/tv051
-民视台,rtmp://119.81.124.89/sat/tv051
-台视台,rtmp://219.80.97.77/sat/tv071
-台视台,rtmp://119.81.124.89/sat/tv071
-中视台,rtmp://219.80.97.77/sat/tv091
-中视台,rtmp://119.81.124.89/sat/tv091
-华视台,rtmp://219.80.97.77/sat/tv111
-华视台,rtmp://119.81.124.89/sat/tv111
-东森财经新闻台,rtmp://219.80.97.77/sat/tv571
-东森财经新闻台,rtmp://119.81.124.89/sat/tv571
-华视台,http://162.19.247.76:22222/live/huashi/index.m3u8
-华视台,rtmp://219.80.97.77/sat/tv111
-台视台,http://162.19.247.76:22222/live/taishi/index.m3u8
-台视台,http://162.19.247.76:22222/live/taishi/index.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-台视新闻台,http://50.7.238.114:8278/ttvnews_twn/playlist.m3u8?tid=MBBB6637589866375898&ct=19234&tsum=d2c641a325bf02e0b68c4f245e0165b0
-台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台视新闻台,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台视新闻台,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-东森超视台,http://50.7.238.114:8278/ettvsuper/playlist.m3u8?tid=MB0B9022098390220983&ct=19249&tsum=594e3a93afe766cf27fd21b8addee391
-民视台,mitv://generationnexxxt.com:19806/7acb3706e5fd41e79e0e9da4e0a755ad
-台视台,mitv://generationnexxxt.com:19806/6bb225a21dea4701a4e289a07295cb51
-中视台,mitv://generationnexxxt.com:19806/27edc14467794170b61d34c97099b44a
-华视台,mitv://generationnexxxt.com:19806/0ba0460e78b1404c91140818a8300a58
-公视台,mitv://generationnexxxt.com:19806/db7993da46f2429b83c996eff78dd333
-台视台,mitv://generationnexxxt.com:19806/ddb207a9b7de4637a960076cb165910d
-中视台,mitv://generationnexxxt.com:19806/3860b039196148d4a21b0fe5ce4ea718
-华视台,mitv://generationnexxxt.com:19806/3e785f9469404e32abab0e1b5d032ab8
-民视台,mitv://generationnexxxt.com:19806/27081f7a9f754bf3af37436ce3580d25
-TVBS新闻台,mitv://generationnexxxt.com:19806/c1b2f17f4407489e913a7ca60631e3df
-TVBS亚洲台,mitv://generationnexxxt.com:19806/52b66c4260b24e4683a9dac1cbba2d4d
-中天新闻台,mitv://generationnexxxt.com:19806/4de4dc627c4148b383ce782c14820398
-民视新闻台,mitv://generationnexxxt.com:19806/577090a13b854852ac775d1327b457a4
-三立新闻台,mitv://generationnexxxt.com:19806/131a5cb312dc40848709bb4ddb7f873b
-东森新闻台,mitv://generationnexxxt.com:19806/8aa1c84f49b449d796ba9adfd014dd55
-东森新闻台,mitv://generationnexxxt.com:19806/76b546b1ad8440f2b548241ef8c0147d
-东森财经新闻台,mitv://generationnexxxt.com:19806/ecfdeb3992584f02a9e3e8034edd99b4
-中视新闻台,mitv://generationnexxxt.com:19806/bf35e79386874157b07deff10e5417ce
-寰宇新闻台,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8547/.m3u8
-寰宇新闻台,https://ktpremium.com:443/M919HR/5577/857803?c=台湾
-寰宇新闻台,mitv://generationnexxxt.com:19806/b706155342ff416b83cbf9caaa3b5a8a
-寰宇新闻台湾台,mitv://generationnexxxt.com:19806/c26ffbf7e5c54efb807a9d919176f726
-华视新闻台,mitv://generationnexxxt.com:19806/c597c3e346ed4feb8ff2df9aedf4ae5c
-台视新闻台,mitv://generationnexxxt.com:19806/ea00a2f7a7c042aab53ea2368ca6159b
-非凡新闻台,mitv://generationnexxxt.com:19806/7301e6eca95f48eb967856087ab3bd40
-壹电视新闻台,mitv://generationnexxxt.com:19806/f659ed494e3b4d5c9c851bf8581e36bc
-年代新闻台,mitv://generationnexxxt.com:19806/a9552463d73b4b35af05c816beedf9eb
-镜新闻台,mitv://generationnexxxt.com:19806/49c7679409e541d3bead64e82c4a9948
-三立台湾台,mitv://generationnexxxt.com:19806/914c42010b76419ea79262729589e7e8
-三立都会台,mitv://generationnexxxt.com:19806/6d3785140d444ccea9e6f786a2c3114a
-东森超视台,mitv://generationnexxxt.com:19806/1f293cd8d0fd458b8ee61a4bf664880e
-三立iNEWS,mitv://generationnexxxt.com:19806/2f0faeb2d1e14d9d87648b5c181a25f7
-三立综合台,mitv://generationnexxxt.com:19806/3b06c9e627c74fca8a9a68db50d5fb7f
-壹电视综合,mitv://generationnexxxt.com:19806/d50000a0e78c4317bd1107fd8356590b
-民视台湾台,mitv://generationnexxxt.com:19806/ded565977e6943fbb3d076a78d409905
-卫视中文台,mitv://generationnexxxt.com:19806/ae283604fb0142ff8e1e52cc0bfdce6d
-东森财经新闻台,rtmp://119.81.124.89/sat/tv571
-东森财经新闻台,rtmp://219.80.97.77/sat/tv571
-中天新闻台,http://seb.sason.top/sc/ztxw_fhd.m3u8
-TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+民视新闻台,http://seb.sason.top/sc/msxw_fhd.m3u8
+中天新闻,http://seb.sason.top/sc/ztxw_fhd.m3u8
+三立Live新闻,http://seb.sason.top/sc/sllive_fhd.m3u8
+三立iNews,http://seb.sason.top/sc/slinews_fhd.m3u8
+三立台湾,https://setlive-lh.akamaihd.net/i/settaiwan_1@301196/index_1080_av-b.m3u8?sd=10&rebase=on
+三立都会,https://setlive-lh.akamaihd.net/i/setmetro_1@132201/index_1080_av-b.m3u8?sd=10&rebase=on
 东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
-三立iNEWS,https://ytm2.yuanhsing.cf/SETLIVE.m3u8
-三立iNEWS,https://ytm2.yuanhsing.cf/setmoney159.m3u8
-三立新闻台,http://seb.sason.top/sc/sllive_fhd.m3u8
-寰宇新闻台,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
-民视台,mitv://generationnexxxt.com:19806/7acb3706e5fd41e79e0e9da4e0a755ad
-民视台,mitv://generationnexxxt.com:19806/27081f7a9f754bf3af37436ce3580d25
-华视台,mitv://generationnexxxt.com:19806/3e785f9469404e32abab0e1b5d032ab8
-华视台,mitv://generationnexxxt.com:19806/0ba0460e78b1404c91140818a8300a58
-公视台,mitv://generationnexxxt.com:19806/db7993da46f2429b83c996eff78dd333
-台视台,mitv://generationnexxxt.com:19806/ddb207a9b7de4637a960076cb165910d
-台视台,mitv://generationnexxxt.com:19806/6bb225a21dea4701a4e289a07295cb51
-中视台,mitv://generationnexxxt.com:19806/27edc14467794170b61d34c97099b44a
-中视台,mitv://generationnexxxt.com:19806/3860b039196148d4a21b0fe5ce4ea718
-三立台湾台,mitv://generationnexxxt.com:19806/914c42010b76419ea79262729589e7e8
-三立都会台,mitv://generationnexxxt.com:19806/6d3785140d444ccea9e6f786a2c3114a
-东森综合台,mitv://generationnexxxt.com:19806/f6183260e2524967a77f5bc0c36b1fd5
-东森超视台,mitv://generationnexxxt.com:19806/1f293cd8d0fd458b8ee61a4bf664880e
-壹电视新闻台,mitv://generationnexxxt.com:19806/f659ed494e3b4d5c9c851bf8581e36bc
-年代新闻台,mitv://generationnexxxt.com:19806/a9552463d73b4b35af05c816beedf9eb
-东森新闻台,mitv://generationnexxxt.com:19806/76b546b1ad8440f2b548241ef8c0147d
-东森新闻台,mitv://generationnexxxt.com:19806/8aa1c84f49b449d796ba9adfd014dd55
-民视新闻台,mitv://generationnexxxt.com:19806/577090a13b854852ac775d1327b457a4
-三立新闻台,mitv://generationnexxxt.com:19806/131a5cb312dc40848709bb4ddb7f873b
-TVBS新闻台,mitv://generationnexxxt.com:19806/c1b2f17f4407489e913a7ca60631e3df
-TVBS台,mitv://generationnexxxt.com:19806/3f15a983d6ae401dbd0a02be95691eb9
-东森财经新闻台,mitv://generationnexxxt.com:19806/ecfdeb3992584f02a9e3e8034edd99b4
-非凡新闻台,mitv://generationnexxxt.com:19806/7301e6eca95f48eb967856087ab3bd40
-三立iNEWS,mitv://generationnexxxt.com:19806/2f0faeb2d1e14d9d87648b5c181a25f7
-公视3台,mitv://generationnexxxt.com:19806/261360b2d9444a2cbce764125eaae99c
-靖天资讯台,mitv://generationnexxxt.com:19806/35251a3522bd40b4b9a7e87f1eda8f37
-壹电视综合,mitv://generationnexxxt.com:19806/d50000a0e78c4317bd1107fd8356590b
-中视新闻台,mitv://generationnexxxt.com:19806/bf35e79386874157b07deff10e5417ce
-寰宇新闻台,mitv://generationnexxxt.com:19806/b706155342ff416b83cbf9caaa3b5a8a
-华视新闻台,mitv://generationnexxxt.com:19806/c597c3e346ed4feb8ff2df9aedf4ae5c
-台视新闻台,mitv://generationnexxxt.com:19806/ea00a2f7a7c042aab53ea2368ca6159b
-寰宇新闻台湾台,mitv://generationnexxxt.com:19806/c26ffbf7e5c54efb807a9d919176f726
-台视财经台,mitv://generationnexxxt.com:19806/6848eb31aafe469a9575a9e396550e5f
-中天综合台,mitv://generationnexxxt.com:19806/c9620b0c13d04324ad7a526fd3610445
-中天娱乐台,mitv://generationnexxxt.com:19806/1b4bfd2b93914c028a7484edd4df1d8f
-三立台湾台,mitv://generationnexxxt.com:19806/ea71149df4e04c38bc539d46f6060de6
-卫视中文台,mitv://generationnexxxt.com:19806/ae283604fb0142ff8e1e52cc0bfdce6d
-镜新闻台,mitv://generationnexxxt.com:19806/49c7679409e541d3bead64e82c4a9948
-壹电视新闻台,mitv://generationnexxxt.com:19806/f659ed494e3b4d5c9c851bf8581e36bc
-年代新闻台,mitv://generationnexxxt.com:19806/a9552463d73b4b35af05c816beedf9eb
-东森新闻台,mitv://generationnexxxt.com:19806/76b546b1ad8440f2b548241ef8c0147d
-中天新闻台,mitv://generationnexxxt.com:19806/4de4dc627c4148b383ce782c14820398
-民视新闻台,mitv://generationnexxxt.com:19806/577090a13b854852ac775d1327b457a4
-三立新闻台,mitv://generationnexxxt.com:19806/131a5cb312dc40848709bb4ddb7f873b
-TVBS新闻台,mitv://generationnexxxt.com:19806/c1b2f17f4407489e913a7ca60631e3df
-东森财经新闻台,mitv://generationnexxxt.com:19806/ecfdeb3992584f02a9e3e8034edd99b4
-非凡新闻台,mitv://generationnexxxt.com:19806/7301e6eca95f48eb967856087ab3bd40
-三立iNEWS,mitv://generationnexxxt.com:19806/2f0faeb2d1e14d9d87648b5c181a25f7
-民视台,rtmp://pull-f5-spe.ixigua.com/live/vtksphrwfprwvnqfjlsetfgdqasdsftewrhvcbadfjiuolabms
-华视台,rtmp://pull-f5-spe.ixigua.com/live/vtkspjymvczngdacvbcvbrtyaqdffcfgvdftodgbvcgfejnhs
-中视台,rtmp://pull-f5-spe.ixigua.com/live/vtksgphfwnmfjcafxcvhdqwrfbfgjyuiknmfcbsfgertyhsjzs
-台视台,rtmp://pull-f5-spe.ixigua.com/live/vtkspteqfsxlvckjewrgipsdfvvxcaikpfossvbxcfgqtkvxzhlts
-TVBS台,rtmp://pull-f5-spe.ixigua.com/live/vtksqpiovjxzoifjegojszxcvlaifvhnalidgobidasvhachtvbs
-TVBS新闻台,rtmp://pull-f5-spe.ixigua.com/live/vtksqoiwhaxoihaqilfhalisdcnxkfvbhdjkwgfkajsswvtvbsxw
-民视新闻台,rtmp://pull-f5-spe.ixigua.com/live/vtkscnbvzfhjaurrvcbnrftuascxzfgedyhggvkfmsxw
-寰宇新闻台,rtmp://pull-f5-spe.ixigua.com/live/vtksphxehmffiuxcxzvereryhmngaxzghkjhnrbnxfjkfhyxw
-年代新闻台,rtmp://pull-f5-spe.ixigua.com/live/vtksogevjyscvbujloklnsfqewtrujvbbdxfgnklvcdjkjndxw
-三立新闻台,rtmp://pull-f5-spe.ixigua.com/live/vtkshmcyoywgdubqfdfvchtruzxczxvcbsdfsxcbmgsllivexw
-LIVE三立台,rtmp://pull-f5-spe.ixigua.com/live/vtkshmcyoywgdubqfdfvchtcbsrgqvfghncvnvbsxcbmgsllive
-东森新闻台,rtmp://pull-f5-spe.ixigua.com/live/vtksmhrttuigcvbyiuokjkdegywefgdfbxfbxxvbzdkldqhdsxw
-中天新闻台,rtmp://pull-f5-spe.ixigua.com/live/vtkspkgtvvzdgyiuuikfvbscvgjktwdfsadsaqrcvuyremgeztxw
-华视新闻台,rtmp://pull-f5-spe.ixigua.com/live/vtksncxtjtedhlvmasdwqerwttyihvcbadasdntkvbduhsxw
-中视新闻台,rtmp://pull-f5-spe.ixigua.com/live/vtkspnvgyjstujkbsdcvbfqazsdfasdwetymkljhjuiocnzsxw
-台视新闻台,rtmp://pull-f5-spe.ixigua.com/live/vtksnczgtriutklgcvbcvntikgsfwetgfvcbcxvgbdfflvcdtsxw
-非凡新闻台,rtmp://pull-f5-spe.ixigua.com/live/vtkssktnfgaorjcbfcxvdfuuqawerqasdyuhhjgsdhrynffxw
-镜新闻台,rtmp://pull-f5-spe.ixigua.com/live/vtksexcvagocvuozxucfjexdpqryxchvlkxzfeqhcelethgzjxw
-壹电视新闻台,rtmp://pull-f5-spe.ixigua.com/live/vtksmgfoyrvzsjvbnwertrudaxzcvfgasrfhfgjjkrlhtbchyxw
-中天新闻台,http://seb.sason.top/sc/ztxw_fhd.m3u8
-中视新闻台,http://seb.sason.top/sc/zsxw_fhd.m3u8
-LIVE三立台,http://seb.sason.top/sc/sllive_fhd.m3u8
-三立iNEWS,http://seb.sason.top/sc/slinews_fhd.m3u8
-TVBS新闻台,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
-台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
+东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+TVBS新闻台 HD,http://seb.sason.top/sc/tvbsxw_fhd.m3u8
+
+東森新聞,https://sc2022.stream-link.org/tv2306.php?id=t01
+东森财经新闻,https://sc2022.stream-link.org/tv2306.php?id=t02
+中天新闻,https://sc2022.stream-link.org/tv2306.php?id=t03
+华视,https://sc2022.stream-link.org/tv2306.php?id=t04
+华视新闻,https://sc2022.stream-link.org/tv2306.php?id=t05
+中视新闻,https://sc2022.stream-link.org/tv2306.php?id=t06
+民视新闻,https://sc2022.stream-link.org/tv2306.php?id=t07
+环宇国际新闻,https://sc2022.stream-link.org/tv2306.php?id=t08
+环宇台湾新闻,https://sc2022.stream-link.org/tv2306.php?id=t09
+三立财经新闻,https://sc2022.stream-link.org/tv2306.php?id=t10
+三立新闻,https://sc2022.stream-link.org/tv2306.php?id=t11
+三立新闻+,https://sc2022.stream-link.org/tv2306.php?id=t12
+台视新闻,https://sc2022.stream-link.org/tv2306.php?id=t13
+TVBS新闻,https://sc2022.stream-link.org/tv2306.php?id=t14
+TVBS财经,https://sc2022.stream-link.org/tv2306.php?id=t15
+
+爱奇艺-戏曲影院,http://112.49.51.41/r/baiducdncmn2.inter.iqiyi.com/tslive/c56_lb_245_600_t10/c56_lb_245_600_t10.m3u8
 
 体育直播,#genre#
 
@@ -1407,7 +1319,27 @@ Sky Sports Main Event,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2091.ts
 Sky Sports Premier League,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2092.ts
 Sky Sports Football,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2093.ts
 
-
+Abu Dhabi Sports 1,https://sc2022.stream-link.org/tv2306.php?id=s05
+Abu Dhabi Sports 2,https://sc2022.stream-link.org/tv2306.php?id=s06
+Dubai Sports 3,https://sc2022.stream-link.org/tv2306.php?id=s07
+Arena sport 2,https://sc2022.stream-link.org/tv2306.php?id=s08
+Arena sport 3,https://sc2022.stream-link.org/tv2306.php?id=s09
+Arena sport 4,https://sc2022.stream-link.org/tv2306.php?id=s10
+Unbeaten,https://sc2022.stream-link.org/tv2306.php?id=s11
+FIFA+,https://sc2022.stream-link.org/tv2306.php?id=s12
+Tennis Channel,https://sc2022.stream-link.org/tv2306.php?id=s13
+beIN SPORTS XTRA,https://sc2022.stream-link.org/tv2306.php?id=s14
+beIN SPORTS,https://sc2022.stream-link.org/tv2306.php?id=s15
+beIN SPORTS 2,https://sc2022.stream-link.org/tv2306.php?id=s16
+beIN SPORTS 3,https://sc2022.stream-link.org/tv2306.php?id=s17
+beIN SPORTS 4,https://sc2022.stream-link.org/tv2306.php?id=s18
+Astro SUPERSPORT,https://sc2022.stream-link.org/tv2306.php?id=s19
+Astro SUPERSPORT 2,https://sc2022.stream-link.org/tv2306.php?id=s20
+Astro SUPERSPORT 3,https://sc2022.stream-link.org/tv2306.php?id=s21
+Astro SUPERSPORT 4,https://sc2022.stream-link.org/tv2306.php?id=s22
+Astro CH795,https://sc2022.stream-link.org/tv2306.php?id=s23
+Astro CH796,https://sc2022.stream-link.org/tv2306.php?id=s24
+Astro CH797,https://sc2022.stream-link.org/tv2306.php?id=s25
 
 
 斗鱼直播,#genre#
