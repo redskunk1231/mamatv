@@ -1113,67 +1113,9 @@ CCTV13HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw2444616252
 TVBS新闻,rtmp://9sv2.mine.nu/sat/tv551
 TVBS欢乐,rtmp://9sv2.mine.nu:1935/sat/tv421
 
-凤凰中文,http://117.169.120.138:8080/live/fhchinese/index.m3u8
-凤凰资讯,http://117.169.120.138:8080/live/fhzixun/index.m3u8
-#__#
-凤凰资讯,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
-凤凰香港,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#__#
-凤凰中文,http://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
-凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
-#__#
-翡翠台,http://radius.8866.org:880/hls/80/index.m3u8
-无线新闻,http://radius.8866.org:880/hls/82/index.m3u8
-无线财经,http://radius.8866.org:880/hls/83/index.m3u8
-明珠台,http://radius.8866.org:880/hls/84/index.m3u8
-ViuTV6,http://radius.8866.org:880/hls/85/index.m3u8
-ViuTV,http://radius.8866.org:880/hls/86/index.m3u8
-RHK31,http://radius.8866.org:880/hls/89/index.m3u8
-RHK32,http://radius.8866.org:880/hls/90/index.m3u8
-#__#
-明珠台,http://kkmix1.f3322.net:825/hls/ch1/s.m3u8
-无线财经,http://kkmix1.f3322.net:825/hls/ch2/s.m3u8
-ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
-ViuTV6,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
-#__#
-无线新闻,http://ye23.win/iptv/tvb.php?id=1
-无线财经,http://ye23.win/iptv/tvb.php?id=2
-无线新闻,http://ye23.win/iptv/tvb.php?id=4
-无线新闻,http://ye23.win/iptv/tvb.php?id=5
-#__#
-无线新闻,http://111.229.84.232/yulin/tvb.php?id=1
-无线财经,http://111.229.84.232/yulin/tvb.php?id=2
-#__#
-翡翠台,https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 
-
-壹电视新闻,zlive://173.208.209.114:7719/dcec33276869fa2f3de9ee55cae570ea
-年代新闻,zlive://173.208.209.114:7719/02be79ee3cab3d5bd26febc72f552262
-东森新闻,zlive://173.208.209.114:7719/8d7e905f7702d188c33334b384a381e5
-东森新闻(备),zlive://173.208.209.114:7719/31559e246f7181f77750161849299d34
-中天新闻,zlive://173.208.209.114:7719/9011998207735731140a6271e559d549
-中天新闻(备),zlive://173.208.209.114:7719/6cbf5b995ccd82f89c12e860e5d734bb
-
-民视 HD,zlive://173.208.209.114:7719/77b7ad91443422cdadb18fd72f0a4507
-台视 HD,zlive://173.208.209.114:7719/97e93f1b428135bfaabbdbb3902818df
-
-民视新闻台,zlive://173.208.209.114:7719/ba2496e9af40f22a3f6e72b59a4e4994
-三立财经新闻,zlive://173.208.209.114:7719/7046807cc2f302c3c89e892dee7c97d2
-三立财经新闻(备),zlive://173.208.209.114:7719/eed57291cb77e08ce4c1a29c1ff59916
-三立新闻,zlive://173.208.209.114:7719/cb578e93b0abf2b0f7a4af00edcd7ec3
-TVBS新闻,zlive://173.208.209.114:7719/f025fd26c0953b8931be3d29ab7a4a8c
-TVBS综合,zlive://173.208.209.114:7719/fbcd476a413272ab369eb15ed0a6913a
-东森财经新闻,zlive://173.208.209.114:7719/ae8e36a4143055dde21ec1cb5a55d6fb
-非凡新闻台,zlive://173.208.209.114:7719/00424222992c33875f094c2b5b71b0e5
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 
 民视新闻台,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-东森新闻,http://sc2022.stream-link.org/tv2306.php?id=t01
-东森新闻,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
-东森新闻,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
-东森新闻,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
-东森新闻美洲台,http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
 民视新闻台,http://sc2022.stream-link.org/tv2306.php?id=t06
 民视新闻台,http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
 民视新闻台,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
@@ -1191,45 +1133,15 @@ TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 中天新闻,http://107.151.203.111:2209/hls/zt.m3u8
 中天新闻,http://198.16.100.90:8278/ctinews/playlist.m3u8?tid=MA4A6611409066114090&ct=19226&tsum=f0333c4e69a7c5880f766ec9f29ca203
 中天新闻,http://tv.redrainl.site:9500/live.m3u8?c=03
-中天亚洲台,http://sc2022.stream-link.org/tv2306.php?id=t15
-非凡新闻,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=ME3E6962233269622332&ct=19225&tsum=eea4d84db71e12ba91bfcf328f4dec9d
-非凡新闻,http://198.16.100.90:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-非凡新闻,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
-三立新闻,http://sc2022.stream-link.org/tv2306.php?id=t10
-三立新闻+,http://sc2022.stream-link.org/tv2306.php?id=t11
-镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
-
 
 
 体育频道,#genre#
-
-Eurosport1 HD[1920*1080],http://cdn.iptv.monster/play/145/3BEFF8D2EECBBF5/mpegts
-
-Eurosport1 HD[1920*1080],http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/217/stream.m3u8
-Eurosport2 HD[1920*1080],https://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/219/stream.m3u8
-Eurosport1[1024*576],http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/216/stream.m3u8
-Eurosport2[1024*576],http://cdnua06.hls.tv/476/hls/061df9d47a31d5ffeeee40bbf3333deb/218/stream.m3u8
-
-Eurosport1 HD,https://livetv.mylifeisgood.ml/channels/eurosport1ru
-Eurosport1 HD,https://livetv.mylifeisgood.ml/channels/eurosport1ru.m3u8
-Eurosport2 HD,https://livetv.mylifeisgood.ml/channels/eurosport2
-Eurosport2 HD,https://livetv.mylifeisgood.ml/channels/eurosport2.m3u8
-Eurosport2 HD,http://livetv.mylifeisgood.ml:8880/mfolive.m3u8?media=eurosport2
-
-Eurosport1 HD[1280*720],http://152.228.154.144/stream/DKQ6M3GWVG1/176.m3u8
-Eurosport2 HD[1280*720],http://152.228.154.144/stream/DKQ6M3GWVG1/192.m3u8
 
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
 TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 TNTSPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
-
-TNT Sports 2 Brasil,https://glxlmn026c.singularcdn.net.br/playout_02/playlist.m3u8
-TNT Sports 3 Brasil,https://glxlmn026c.singularcdn.net.br/playout_03/playlist.m3u8
-TNT Sports 4 Brasil,https://glxlmn026c.singularcdn.net.br/playout_04/playlist.m3u8
-TNT Sports 5 Brasil,https://glxlmn026c.singularcdn.net.br/playout_05/playlist.m3u8
-TNT Sports Brasil,https://glxlmn026c.singularcdn.net.br/playout_01/playlist.m3u8
 
 纬来体育,rtmp://9sv2.mine.nu/sat/tv721
 ELEVEN2,rtmp://9sv2.mine.nu:1935/sat/md011
@@ -1260,66 +1172,6 @@ Sky Sports Cricket 2,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2143.ts
 Sky Sports Main Event,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2091.ts
 Sky Sports Premier League,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2092.ts
 Sky Sports Football,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2093.ts
-
-时尚频道,#genre#
-FashionTV Tokyo,https://fashs043.cloudycdn.services/scte/pg13/pg13_1080p_chunklist.m3u8
-FashionTV Tokyo,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-FashionTV Tokyo,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-FashionTV Tokyo,https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-FashionTV Paris L'Original,https://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_1080p_chunklist.m3u8
-FashionTV F-Men,https://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_1080p_chunklist.m3u8
-FashionTV F-Men,https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/qi3_THE_BEST_O_483610.smil/chunklist_b7000000_sleng_t64MTA4MHBAN21iaXQ=.m3u8
-FashionTV Johannesburg,https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
-FashionTV Johannesburg,https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-FashionTV Johannesburg,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-FashionTV Singapore,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-FashionTV Singapore,https://fash1043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-FashionTV Singapore,https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
-FashionTV New York,https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
-Midnight Secrets,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-Midnight Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_secrets_sams_170_hls.smil/playlist.m3u8
-Midnight Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-Midnight Secrets,https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-FashionTV Paris-Mumbai,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
-FashionTV Paris-Mumbai,https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
-#__#
-Fashion TV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
-FTV Magazine,https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
-A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
-Kaloopy,https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
-Kaloopy,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
-Latinangels,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df41355939756000921d15b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=627f&deviceDNT=0&deviceModel=0
-Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
-Miami TV,https://5ee7c2b857b7f.streamlock.net/latino/smil:WEB/playlist.m3u8
-Miami TV,http://server.miamitvchannel.com/miamitv/smil:miamitvAPP1/playlist.m3u8
-Miami TV Latino,https://5ee7c2b857b7f.streamlock.net/latino/latino/playlist.m3u8
-Miami TV Mexico,https://59ec5453559f0.streamlock.net/mexicotv/smil:miamitvmexicoROKU/playlist.m3u8
-Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
-Miami TV Jenny Live,https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/playlist.m3u8
-MILAN FASHION WEEK,https://fashionbox-localnow.cinedigm.com/playlist.m3u8
-Odessa Fashion,http://cdn10.live-tv.od.ua:8081/ofod/ofod480p/playlist.m3u8
-World Fashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
-World Fashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
-World Fashion Russia,https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
-World Fashion Russia,https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist.m3u8
-Global Fashion Channel,https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
-Global Fashion Channel,https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-HD Fashion,http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
-ID Fashion,https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
-ID Fashion,https://idfashion.cdn-03.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
-Runway TV,https://vse2-as-all78.secdn.net/runway-live/play/mp4:runway/playlist.m3u8
-Runway TV,https://vse2-as-all47.secdn.net/runway-origin/live/runway/chunklist_sess712874391.m3u8
-imode TV,https://juyunlive.juyun.tv/live/24950198.m3u8
-CLASS TV MODA,https://streamcdne1-859c1818ed614cc5b0047439470927b0.msvdn.net/vod/852oKGTnb3tO/7c1b70d3-7dcb-4818-8274-4a8524391b6f/chunklist-f1-v1-a1.m3u8?T=1649336837
-QVC Beauty,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/high.m3u8
-QVC Beauty 2,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2uscln/high.m3u8
-QVC Beauty 3,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/high.m3u8
-QVC Kitchen,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4uscln/high.m3u8
-Beauty iQ,https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
-GEMS TV,http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream/index.m3u8
-Jewellery Maker,https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
 
 
 斗鱼直播,#genre#
