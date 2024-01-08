@@ -235,16 +235,20 @@ CCTV-怀旧剧场,http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
 
-安徽卫视,http://125.210.152.19:9120/live/hzgq-ahwsgq-h264.m3u8
-安徽卫视,http://hz752.live:63/vvs/astv.php?id=ahwshd
-安徽卫视,http://39.134.136.151:6610/000000001000/1000000001000020780/index.m3u8?channel-id=ystenlive&Contentid=1000000001000020780&livemode=1&stbId=00
-安徽卫视,http://hz752.live:63/vvs/bst.php?id=ahws
-安徽卫视,http://hz752.live:63/vvs/ahtv.php?id=ahws
-安徽卫视,http://hz752.live:63/vvs/yst.php?id=anhuistv
-安徽卫视,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2000298003.m3u8
-安徽卫视,http://59.49.41.39/live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1
-安徽卫视,http://hz752.live:63/vvs/bfgd.php?id=096
-安徽卫视,http://hls.live.cqccn.com/__cl/cg:live/__c/anhuiSD/__op/default/__f/index.m3u8
+安徽卫视,http://39.134.66.110/PLTV/88888888/224/3221225925/index.m3u8
+安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
+安徽卫视,http://live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+安徽卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+安徽卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+安徽卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001037/index.m3u8
+安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221229899/1.m3u8
+安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230601/1.m3u8
+安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/PLTV/1/224/3221230624/1.m3u8
+安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/PLTV/1/224/3221230306/1.m3u8
+安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/PLTV/1/224/3221230534/1.m3u8
+安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230919/1.m3u8
+安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/PLTV/1/224/3221231035/1.m3u8
+安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230390/1.m3u8
 
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225799/index.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
@@ -1199,6 +1203,15 @@ TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
 凤凰资讯,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226546/index.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 
+无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+无线新闻,http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
+东森新闻,http://198.16.100.90:8278/ettvnews/playlist.m3u8?ct=19225&tid=MAEA2793211727932117&tsum=151345e2ab6bc0c89ac85598f1988cd3
+东森新闻,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+东森新闻,http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
+台视新闻,http://198.16.100.90:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+非凡新闻,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+
 台视,rtmp://9sv2.mine.nu/sat/tv071
 民视,rtmp://9sv2.mine.nu/sat/tv051
 华视,rtmp://9sv2.mine.nu/sat/tv111
@@ -1260,6 +1273,7 @@ Sky Sports Football,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2093.ts
 
 斗鱼直播,#genre#
 
+疯狂小潴潴,https://www.goodiptv.club/douyu/5522351
 疯狂尛瀦瀦,https://www.goodiptv.club/douyu/4290711
 牛奶味的梦猪猪,https://www.goodiptv.club/douyu/5261342
 橙記Orange,https://www.goodiptv.club/douyu/4549169
