@@ -234,17 +234,13 @@ CCTV-怀旧剧场,http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
 安徽卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226391/index.m3u8
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226196/index.m3u8
 安徽卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
-
 安徽卫视,http://39.134.66.110/PLTV/88888888/224/3221225925/index.m3u8
-安徽卫视,https://live.goodiptv.club/api/bestv.php?id=ahwshd8m/8000000
-安徽卫视,http://live.aishang.ctlcdn.com/00000110240256_1/playlist.m3u8?CONTENTID=00000110240256_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
 安徽卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001346/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001298/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 安徽卫视,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001037/index.m3u8
 安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb18]:80/PLTV/1/224/3221229899/1.m3u8
 安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/PLTV/1/224/3221230601/1.m3u8
 安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/PLTV/1/224/3221230624/1.m3u8
-安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/PLTV/1/224/3221230306/1.m3u8
 安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/PLTV/1/224/3221230534/1.m3u8
 安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb10]:80/PLTV/1/224/3221230919/1.m3u8
 安徽卫视,http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/PLTV/1/224/3221231035/1.m3u8
@@ -254,6 +250,21 @@ CCTV-怀旧剧场,http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
 湖南卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
 湖南卫视,https://video.lzjtu.edu.cn/liverespath/9b1ccba5a2c611bb5d7c96243695572090cca5fd/index.m3u8
 湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
+湖南卫视,http://39.134.66.110/PLTV/88888888/224/3221225977/index.m3u8
+湖南卫视,http://39.134.65.166/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://39.134.65.181/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://39.134.65.208/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视,http://39.134.66.2/PLTV/88888888/224/3221225506/index.m3u8
+
+湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0a]:80/PLTV/1/224/3221229784/1.m3u8
+湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb04]:80/PLTV/1/224/3221229862/1.m3u8
+湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0d]:80/PLTV/1/224/3221230602/1.m3u8
+湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb02]:80/PLTV/1/224/3221230620/1.m3u8
+湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/PLTV/1/224/3221229949/1.m3u8
+湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/PLTV/1/224/3221230228/1.m3u8
+湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221230942/1.m3u8
+湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/PLTV/1/224/3221230991/1.m3u8
+湖南卫视,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/PLTV/1/224/3221230405/1.m3u8
 
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225800/index.m3u8
 江苏卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
@@ -1230,7 +1241,6 @@ TVBS欢乐,rtmp://9sv2.mine.nu:1935/sat/tv421
 
 TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-TNTSPORTS 3,https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
 TNTSPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
 TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
