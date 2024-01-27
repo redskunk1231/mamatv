@@ -118,8 +118,8 @@ CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225776/index.m3u8
 CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
 CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
 CCTV11,http://221.213.43.82:8888/newlive/live/hls/13/live.m3u8
-CCTV11,http://cfss.cc/api/ysp/cctv11.m3u8
 CCTV11,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&extension=ts&stream=156406
+CCTV11,https://live3.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8
 
 
 CCTV13,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001328/index.m3u8
@@ -1233,18 +1233,47 @@ TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
 【蜡笔小新】绝版画质,http://zzy789.xyz/bili.php?id=21570935
 蜡笔小新全集高清在线24h播放,http://zzy789.xyz/bili.php?id=23190944
 
+经典小品,#genre#
+
+吃面,https://vd3.bdstatic.com/mda-kihjn2cq7103ivig/v1-cae/hd/mda-kihjn2cq7103ivig.mp4
+非诚来扰,https://vd3.bdstatic.com/mda-jk4sx2ggq7u355d6/hd/mda-jk4sx2ggq7u355d6.mp4
+幸福密码,https://vd3.bdstatic.com/mda-kj9ispnax8gpirkf/hd/mda-kj9ispnax8gpirkf.mp4
+狭路相逢,https://vd3.bdstatic.com/mda-kanfj7h320ueqgkg/v1-cae/hd/mda-kanfj7h320ueqgkg.mp4
+狭路相逢,https://vd3.bdstatic.com/mda-kd0mku18u3rui7gz/v1-cae/hd/mda-kd0mku18u3rui7gz.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+老王卖瓜,https://vd3.bdstatic.com/mda-jkrk9bk95f9utr9r/hd/mda-jkrk9bk95f9utr9r.mp4
+策划,https://vd3.bdstatic.com/mda-ki60ag5ub193axs9/hd/mda-ki60ag5ub193axs9.mp4?pd=19&vt=1&playlist=%5B%22sc%22%2C%22hd%22%5D
+不差钱,https://vdse.bdstatic.com//769f31778a85f33825c44a9b0c70ac37.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-15T10%3A24%3A57Z%2F-1%2Fhost%2F9d4a74ab09dc18c2f4d9b0b8f77c621471a15359ec3b77c186f51611f4712005
+就差钱,https://vdse.bdstatic.com//812d49e751aa31530ec39debfe54a359.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-14T08%3A49%3A09Z%2F-1%2Fhost%2Fa58bdb86d23b53b6909e8e19d85dad9fed3adeba4a664a22eef9a7d32ac2486a
+昨天今天明天,https://vd3.bdstatic.com/mda-ia4xz7n2s4hxbhby/logo/hd/mda-ia4xz7n2s4hxbhby.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+捐助,https://vd3.bdstatic.com/mda-jaqz8g17b9cvryks/hd/mda-jaqz8g17b9cvryks.mp4?pd=19&vt=1
+捐助后传,https://vd3.bdstatic.com/mda-kbsrpz9zmbbvznjw/hd/mda-kbsrpz9zmbbvznjw.mp4?pd=19&vt=1&playlist=%5B%22hd%22%2C%22sc%22%5D
+小崔说事,https://vdse.bdstatic.com//2f54cd59170279f94c5b354179bda8c0.mp4?authorization=bce-auth-v1%2F40f207e648424f47b2e3dfbb1014b1a5%2F2022-06-12T04%3A47%3A48Z%2F-1%2Fhost%2Fc0d35c8c0a00af3226ac1bc3a1510c1474d8054a30290740da4a2d567924f779
+小崔说事儿,https://vdse.bdstatic.com//0881642336164cb448c0d8addd2d22a6.mp4?authorization=bce-auth-v1/40f207e648424f47b2e3dfbb1014b1a5/2022-05-28T07:29:10Z/-1/host/4c290e67925bf7954af616c290b337b52a840355f1184f78619d696a5da5c0bb
+中奖了,https://vd3.bdstatic.com/mda-kmkh9zy2b3gnx4bq/mda-kmkh9zy2b3gnx4bq.mp4?pd=19&vt=1
+中奖了,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c416nhbc77ueljqcfms0&ratio=720p&line=0
+卖拐,https://vd3.bdstatic.com/mda-mdgia7vnkscvxh6d/v1-hknm/hd/mda-mdgia7vnkscvxh6d.mp4?pd=19&vt=1
+功夫,https://vd3.bdstatic.com/mda-mjn3rmcivntas8ez/hd/cae_h264_nowatermark/1635016788091110865/mda-mjn3rmcivntas8ez.mp4?pd=19&vt=1
+相亲1,https://vd3.bdstatic.com/mda-ki5quadqsdi1tk9e/mda-ki5quadqsdi1tk9e.mp4?pd=-1&pt=0&cr=0&vt=0&cd=0&did=cfcd208495d565ef66e7dff9f98764da&logid=3024484252&vid=10808391094376007907&auth_key=1655295624-0-0-6fb10727b6c3c195f08ff9bebe036cd0&bcevod_channel=searchbox_feed
+相亲2,https://vd3.bdstatic.com/mda-kipkytij74rnn9k3/hd/mda-kipkytij74rnn9k3.mp4?pd=19&vt=1&playlist=%5B%22sc%22%2C%22hd%22%5D
+钟点工,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c8e2e53c77ua6v88gk9g&ratio=720p&line=0
+火炬手,https://aweme.snssdk.com/aweme/v1/playwm/?video_id=v0200fg10000c54t79jc77u7est4rcn0&ratio=720p&line=0
+火炬手,https://vd3.bdstatic.com/mda-jar0302925j1nwep/hd/mda-jar0302925j1nwep.mp4?pd=19&vt=1&playlist=%5B%22hd%22%5D
+
 
 港台频道,#genre#
 
 壹电视新闻台,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
 年代新闻,P2p://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
 东森新闻台,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
+东森新闻台,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
+东森新闻台,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 中天新闻台,P2p://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
 民视新闻台,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 三立新闻台,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 TVBS新闻台,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 东森财经新闻台,P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
 非凡新闻台,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
+非凡新闻台,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 三立iNEWS,P2p://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
 非凡商业台,P2p://generationnexxxt.com:19806/0c1ba96949414628ae64fc70c3354e7b
 中视新闻台,P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
@@ -1258,6 +1287,11 @@ CNN,P2p://generationnexxxt.com:19806/cc0fd522ff3f4f37a53773c138dacac1
 now财经台,P2p://generationnexxxt.com:19806/88f95058c046453a973e2540701ccb4e
 东森新闻台(备),P2p://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
 镜新闻,P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
+新唐人亞太台,mitv://ns2.hellotvvod.com:9906/e2fd040a892245e198a75719d55eba91
+新唐人亞太台,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
+新唐人亞太台,rtmp://123.108.164.71/etv2/phd1058
+新唐人亞太台,http://61.222.202.191/live/yzyh.php?id=164
+新唐人亞太台,http://61.222.202.191/gttv.php?id=13984&cid=14137
 
 台视,rtmp://9sv2.mine.nu/sat/tv071
 民视,rtmp://9sv2.mine.nu/sat/tv051
