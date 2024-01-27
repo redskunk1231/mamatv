@@ -132,7 +132,8 @@ CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
-CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8;http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
+CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 
 
 
@@ -1032,8 +1033,6 @@ CCTV13HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw2444616252
 秦香莲,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f8daefadadef41989225543875268a70/2000.m3u8
 女驸马,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ba29b790f8ec435ba94fc072558431f0/850.m3u8
 天仙配,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1cd056751daf430a943e63e6428c40d7/850.m3u8
-李二嫂改嫁01,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/90846f6758524d78997aad89df8c37e0/850.m3u8
-李二嫂改嫁02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/47a9c8216d344c2dd45f11949dbbecb5/850.m3u8
 林海雪原,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5023f1dcc73b4090962ee31e017fb8e3/850.m3u8
 
 
@@ -1237,105 +1236,34 @@ TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
 
 港台频道,#genre#
 
-中天新聞 HD,http://211.72.65.236:8541/.m3u8
-中天新聞 HD,mitv://135.148.104.228:19806/dd4c2ce1c791486caac5b9014c08793e
-民視,http://120.84.96.21:808/hls/34/index.m3u8
-民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民視新聞 HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
-民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
-民視新聞 HD,http://2023.stream-link.org/playlist/ftv_news
-民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
-民視新聞 HD,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
-民視新聞 HD,https://ytm2.yuanhsing.cf/FTVCP.m3u8
-民視新聞 HD,,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
-民視新聞 HD,http://50.7.238.114:8278/ftvnew_taiwan/playlist.m3u8?tid=md953ce86cdad16241449&ct=17874&tsum=949d4aace793a001dd41392b210ba406
-民視新聞 HD,http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
-民視新聞 HD,http://tv.redrainl.site:9500/live.m3u8?c=01
-民視新聞 HD,mitv://generationnexxxt.com:19806/d476f3c5b56647bf872237ce4c9fff5d
-台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
-台視新聞 HD,http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
-台視新聞 HD,http://50.7.238.114:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
-台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-台視新聞 HD,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=156398&extension=ts&play_token=UEKTIim7lP
-台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
-台視新聞 HD,,http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
-台視新聞 HD,,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8?blog.ntnas.top
-台視新聞 HD,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
-台視新聞 HD,mitv://generationnexxxt.com:19806/3a402f366afa4a42bd0b16b432ebbdff
-台視新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
-台視新聞 HD,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
-台視新聞 HD,http://ytm2.yuanhsing.cf/ttvnewsview.m3u8
-華視新聞資訊 HD,mitv://135.148.104.228:19806/df1dd1276eb8474da3cd12334065f7dd
-TVBS新聞 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
-TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
-TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
-TVBS新聞,http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
-TVBS新聞,http://50.7.238.114:8278/tvbs_n/playlist.m3u8?tid=MC3C9358473393584733&ct=19193&tsum=38970ab977b9e318cbead37db4134eb8
-東森新聞 HD,mitv://135.148.104.228:19806/a9b20866a39f45cbafacba9a002ee334
-年代新聞 HD,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?ct=19226&tid=MA6A4647720946477209&tsum=48a66838dbcf633b2fb41307b29ef50a
-年代新聞 HD,http://50.7.238.114:8278/niandainews_twn/playlist.m3u8?tid=MA6A4647720946477209&ct=19226&tsum=48a66838dbcf633b2fb41307b29ef50a
-三立新聞 HD,mitv://135.148.104.228:19806/ff825aef42f04c589354d7d999b37792
-三立新聞 HD,http://123.51.230.124:8531/.m3u8
-三立新聞 HD,http://123.51.230.64:18559/http/192.168.1.9:8081/hls/65/807/ch18.m3u8
-壹新聞 HD,mitv://135.148.104.228:19806/c4815d36091444f4b75aa85a2d8e301f
-壹新聞 HD,http://60.251.59.180:8501/.m3u8
-非凡新聞,mitv://135.148.104.228:19806/a900ce1aac5d489b88d221c7b3ca098e
-非凡新聞,http://123.51.230.124:8569/.m3u8
-寰宇新聞 HD,mitv://135.148.104.228:19806/7e0e534ede5e4405a05ca5e668cb5fb1
-寰宇新聞 HD,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
-寰宇新聞 HD,http://61.221.81.93:8513/hls/65/807/ch843.m3u8
-寰宇新聞 HD,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
-東森電影 HD,http://162.19.247.76:22222/live/dsdyt/index.m3u8
-東森洋片 HD,http://198.16.100.90:8278/ettvwestern/playlist.m3u8?tid=MC2C7134276471342764&ct=19225&tsum=4889d0c08d077336bd5066b912891aee
-龙祥电影,http://120.84.96.21:808/hls/35/index.m3u8
-东森电影,http://120.84.96.21:808/hls/32/index.m3u8
-东森电影,http://110.72.66.241:808/hls/99/index.m3u8
-東森電影,http://162.19.247.76:22222/live/dsdyt/index.m3u8
-东森洋片,http://120.84.96.21:808/hls/33/index.m3u8
-好莱坞电影,http://120.84.96.21:808/hls/24/index.m3u8
-天映经典,http://120.84.96.21:808/hls/85/index.m3u8
-东森戏剧,http://162.19.247.76:22222/live/dsxj/index.m3u8
-财经资讯,http://120.84.96.21:808/hls/86/index.m3u8
-三立新聞,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?
-三立台湾,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?
-TVS新聞,https://fsv4.yj011.net/sat/tv551.flv
-民視频道,https://fsv4.yj011.net/sat/tv051.flv
-台視频道,https://fsv4.yj011.net/sat/tv071.flv
-中視频道,https://fsv4.yj011.net/sat/tv091.flv
-華視频道,https://fsv4.yj011.net/sat/tv111.flv
-tvbs歡樂,https://fsv4.yj011.net/sat/tv421.flv
-東森財經,https://fsv4.yj011.net/sat/tv571.flv
-中天娱乐,http://162.19.247.76:22222/live/ztyl/index.m3u8
-中视频道,http://162.19.247.76:22222/live/zhongshi/index.m3u8
-台视频道,http://162.19.247.76:22222/live/taishi/index.m3u8
-番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-民視,rtmp://219.80.97.77/sat/tv051
-台視,rtmp://219.80.97.77/sat/tv071
-中視,rtmp://219.80.97.77/sat/tv091
-華視,rtmp://219.80.97.77/sat/tv111
-TvB,rtmp://219.80.97.77/sat/tv421
-東森,rtmp://219.80.97.77/sat/tv571
-緯來育乐,rtmp://219.80.97.77/sat/tv701
-緯來体育,rtmp://219.80.97.77/sat/tv721
-ELE一台,rtmp://219.80.97.77/sat/tv731
-ELE二台,rtmp://219.80.97.77/sat/tv741
-MO,rtmp://219.80.97.77/sat/tv761
-緯來,rtmp://219.80.97.77/sat/tv771
-民視,rtmp://119.81.124.89/sat/tv051
-台視,rtmp://119.81.124.89/sat/tv071
-中視,rtmp://119.81.124.89/sat/tv091
-華視,rtmp://119.81.124.89/sat/tv111
-TVS,rtmp://119.81.124.89/sat/tv421
-東森,rtmp://119.81.124.89/sat/tv571
-緯來育乐,rtmp://119.81.124.89/sat/tv701
-緯來体育,rtmp://119.81.124.89/sat/tv721
-ELE一台,rtmp://119.81.124.89/sat/tv7431
-ELE二台,rtmp://119.81.124.89/sat/tv741
-MO,rtmp://119.81.124.89/sat/tv761
-緯來,rtmp://119.81.124.89/sat/tv771
-卫视电影,http://103.112.191.9:880/LAOSAT1085.m3u8
-星卫电影,http://103.112.191.9:880/LAOSAT1082.m3u8
-美亚电影,http://50.7.238.114:8278/meiyamovie_twn/playlist.m3u8?tid=MFDF2848449728484497&ct=19211&tsum=f65f39620c24fee2e633c4727cc48727
+无线新闻台(备),P2p://147.135.39.171:9906/65a4e8350004c8be46f033cc61584df6
+无线新闻台,P2p://147.135.39.171:9906/659ad8a20009ddcb1fa351025e007328
+无线财经体育资讯台,P2p://generationnexxxt.com:19806/8bcc654c89f74ebdb4e82062ef5f998c
+壹电视新闻台,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
+年代新闻,P2p://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
+now新闻台,P2p://generationnexxxt.com:19806/d7a5bbf5664945cc8589b36b8434d68d
+东森新闻台,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
+中天新闻台,P2p://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+民视新闻台,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
+三立新闻台,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
+TVBS新闻台,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
+东森财经新闻台,P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
+非凡新闻台,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
+三立iNEWS,P2p://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
+非凡商业台,P2p://generationnexxxt.com:19806/0c1ba96949414628ae64fc70c3354e7b
+中视新闻台,P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
+寰宇新闻台,P2p://generationnexxxt.com:19806/a265fb55774a4554bc2db19b16f53be6
+华视新闻,P2p://generationnexxxt.com:19806/ebe8db2daafa47768f37bcae17bfe299
+NHK新闻资讯台,P2p://generationnexxxt.com:19806/c2da55d84a72418c8f1876c25ec97a1d
+NDTV,P2p://generationnexxxt.com:19806/d7fc2d61608d43098f59f35647342c6f
+ABCAustralia,P2p://generationnexxxt.com:19806/65159e6a0003ce6d3e47fc21533740b0
+台视新闻台,P2p://generationnexxxt.com:19806/9817b59742464113bd5656fcc7dced84
+寰宇新闻台湾台,P2p://generationnexxxt.com:19806/ca27b65855704124be186aa0e5127c24
+台视财经台,P2p://generationnexxxt.com:19806/e01d7738e33e456a812f7cefbf27b29a
+CNN,P2p://generationnexxxt.com:19806/cc0fd522ff3f4f37a53773c138dacac1
+now财经台,P2p://generationnexxxt.com:19806/88f95058c046453a973e2540701ccb4e
+东森新闻台(备),P2p://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
+镜新闻,P2p://generationnexxxt.com:19806/668a0abb880a496d8f57fad2f580566b
 
 台视,rtmp://9sv2.mine.nu/sat/tv071
 民视,rtmp://9sv2.mine.nu/sat/tv051
@@ -1399,20 +1327,12 @@ AstroSuperSport3,P2p://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e4
 AstroSuperSport4,P2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
 beINSports3,P2p://generationnexxxt.com:19806/65a52dc1000d76fbdd7dd8ab186b4afd
 WWE,P2p://generationnexxxt.com:19806/32e0838eeab84b3a96297dcceca27f5a
-纬来育乐台,P2p://generationnexxxt.com:19806/78b57c4d9e644fafafe01588c43b4787
 纬来体育台,P2p://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
-ELEVEN体育1台,P2p://generationnexxxt.com:19806/fcfde35352d5464f9ed1c711ef2d05b1
 Z频道,P2p://generationnexxxt.com:19806/8789d946039740bda334150ac3138166
-JSports1,P2p://generationnexxxt.com:19806/3bf47ad3b3514230bd24efe7178aee5e
-JSports2,P2p://generationnexxxt.com:19806/1dec0300cce54ba5853fd5aadc349595
-JSports3,P2p://generationnexxxt.com:19806/1a9fd30d67f8480490d1fe07440658b5
-JSports4,P2p://generationnexxxt.com:19806/f7915841f9c04692b3c336849b8ed00c
 SkynetSportsHD,P2p://generationnexxxt.com:19806/64f03b7d000cf732ac3d879228791c70
 SkynetSports2,P2p://generationnexxxt.com:19806/64f03b7e0004ca5cac3d89676c3c51df
 SkynetSports5,P2p://generationnexxxt.com:19806/64f03b7f0003688dac3d8cf1521c6e9f
 SkynetSports6,P2p://generationnexxxt.com:19806/64f03b7e000b23c7ac3d8b0d775b55a1
-FightSports,P2p://generationnexxxt.com:19806/7375a5f151c047b294a8e8c6ddad178d
-ESPN,P2p://generationnexxxt.com:19806/2436baa9e481444fa785298d5931bdba
 HKC18,P2p://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
 爱尔达体育1台(备),P2p://generationnexxxt.com:19806/1180278580d04cb490450ec59b4edc6b
 爱尔达体育2台,P2p://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b
