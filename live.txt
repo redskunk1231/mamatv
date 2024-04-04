@@ -32,6 +32,7 @@ CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226231/1.m3u8
 CCTV1,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
 CCTV1,http://222.137.231.41:808/hls/1/index.m3u8#http://121.19.134.236:808/hls/1/index.m3u8
+CCTV1,http://[2409:8087:2001:20:2800:0:df6e:eb02]/ott.mobaibox.com/PLTV/4/224/3221227896/index.m3u8
 
 
 CCTV2,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
@@ -112,6 +113,7 @@ CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
 CCTV10,http://121.19.134.236:808/hls/10/index.m3u8
 
 CCTV11,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
+CCTV11,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225776/index.m3u8
 CCTV11,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
 CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
@@ -120,21 +122,28 @@ CCTV11,https://live3.rxip.sc96655.com/live/CCTV-11-H265_4000.m3u8
 CCTV11,http://121.19.134.236:808/hls/11/index.m3u8
 CCTV11,http://121.29.191.187:8000/hls/11/index.m3u8
 CCTV11,http://121.19.134.215:808/tsfile/live/0011_1.m3u8
+CCTV11,http://[2409:8087:2001:20:2800:0:df6e:eb23]/ott.mobaibox.com/PLTV/4/224/3221228289/index.m3u8
+CCTV11,https://live.goodiptv.club/api/bestv.php?id=cctv11hd8m/8000000
+CCTV11,https://live.goodiptv.club/api/cqyx.php?id=cctv11HD
 
 CCTV13,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
+CCTV13,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/224/3221227387/index.m3u8
+CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8?
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
-CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV13,http://121.19.134.236:808/hls/13/index.m3u8
 CCTV13,http://121.29.191.187:8000/hls/13/index.m3u8
 CCTV13,http://121.19.134.215:808/tsfile/live/0013_1.m3u8
+CCTV13,https://live.goodiptv.club/api/bestv.php?id=cctv13xwhd8m/8000000
+CCTV13,https://live.goodiptv.club/api/cqyx.php?id=CCTVNewsHD
 
 CCTV-风云剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
 
@@ -145,6 +154,8 @@ CCTV-第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/P
 CCTV-怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 CCTV-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
 CCTV-怀旧剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-怀旧剧场,http://[2409:8087:7001:20:2::3]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+CCTV-怀旧剧场,https://live.goodiptv.club/api/cqyx.php?id=hjjcHD
 
 
 卫视,#genre#
@@ -399,6 +410,7 @@ CCTV-怀旧剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000
 内蒙古卫视,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225786/index.m3u8
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225634/index.m3u8
 内蒙古卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226389/index.m3u8
+内蒙古卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&amp;txTime=771EF880
 
 江苏卫视,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
 江西卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226344/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225764/index.m3u8
@@ -1364,23 +1376,35 @@ TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
 无线新闻台,https://i.125011.xyz/tvb.php?id=0&hq
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0
 无线新闻台,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻台,http://r.jdshipin.com/CkuBd
 
 无线财经体育资讯台,http://live.cooltv.top/tv/tvb.php?id=2
 无线财经体育资讯台,https://i.125011.xyz/tvb.php?id=2&hq
 无线财经体育资讯台,https://edge6a.v2h-cdn.com/finance/finance.stream/chunklist.m3u8
 
+三立台灣,http://47.242.38.45:9999/twjd678-2.php?id=11
 壹电视新闻台,P2p://generationnexxxt.com:19806/31dad83ef5b74c5db225482cd2e0fbae
+壹电视新闻台,http://47.242.38.45:9999/twjd678-2.php?id=35
+壹电视新闻台,http://47.242.38.45:9999/twjd678-2.php?id=100
 年代新闻,P2p://generationnexxxt.com:19806/95f67e884d88463e907c301d05fa68b7
+年代新闻,http://47.242.38.45:9999/twjd678-2.php?id=12
+年代新闻,http://47.242.38.45:9999/twjd678-2.php?id=89
+年代新闻,http://47.242.38.45:9999/twjd678-2.php?id=29
 东森新闻台,P2p://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
 东森新闻台,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
 东森新闻台,mitv://generationnexxxt.com:19806/35983e2efd5c44bf84bfb2977bbbc96d
+东森新闻台,http://47.242.38.45:9999/twjd678-2.php?id=90
+东森新闻台,http://47.242.38.45:9999/twjd678-2.php?id=30
 中天新闻台,P2p://generationnexxxt.com:19806/bd9064ee198045a386f1f2dba5073f4e
+中天新闻台,http://47.242.38.45:9999/twjd678-2.php?id=31
+中天新闻台,http://47.242.38.45:9999/twjd678-2.php?id=91
 民视新闻台,P2p://generationnexxxt.com:19806/d24f18e610d248b7a450d29492b37ebf
 三立新闻台,P2p://generationnexxxt.com:19806/9388262af2604cc798800736d070d39e
 TVBS新闻台,P2p://generationnexxxt.com:19806/6a155a5d7bea461b980b4fa559119a60
 东森财经新闻台,P2p://generationnexxxt.com:19806/6596322e000d4091a2f7138e424b32c5
 非凡新闻台,P2p://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
 非凡新闻台,mitv://generationnexxxt.com:19806/02f80f7aad2c480992e06e1bd8a7facb
+非凡新闻台,http://47.242.38.45:9999/twjd678-2.php?id=96
 三立iNEWS,P2p://generationnexxxt.com:19806/ac384b2c9a4a47c3a538f9116ab7e4d8
 非凡商业台,P2p://generationnexxxt.com:19806/0c1ba96949414628ae64fc70c3354e7b
 中视新闻台,P2p://generationnexxxt.com:19806/cb5965a89e434df7aeb66b2364116ae4
@@ -1407,6 +1431,7 @@ now财经台,P2p://generationnexxxt.com:19806/88f95058c046453a973e2540701ccb4e
 东森财经新闻,rtmp://9sv2.mine.nu:1935/sat/tv571
 东森财经新闻,rtmp://9sv2.mine.nu/sat/tv571
 TVBS新闻,rtmp://9sv2.mine.nu/sat/tv551
+TVBS新闻,http://47.242.38.45:9999/twjd678-2.php?id=94
 TVBS欢乐,rtmp://9sv2.mine.nu:1935/sat/tv421
 
 东森超视,rtmp://9sv2.mine.nu/sat/tv331
