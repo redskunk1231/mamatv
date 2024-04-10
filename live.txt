@@ -151,12 +151,31 @@ CCTV-第一剧场,http://111.20.40.162/PLTV/88888893/224/3221226959/index.m3u8
 CCTV-第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 CCTV-第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 
+CCTV-怀旧剧场,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 CCTV-怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 CCTV-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
 CCTV-怀旧剧场,http://223.83.183.218:9901/tsfile/live/0001_49.m3u8
 CCTV-怀旧剧场,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8
 CCTV-怀旧剧场,rtp://239.253.43.25:5146
 CCTV-怀旧剧场,http://116.179.130.242:6000/rtp/226.0.2.224:9704
+CCTV-怀旧剧场,rtsp://115.153.254.81/PLTV/88888888/224/3221226996/86128881.smil
+CCTV-怀旧剧场,http://121.19.134.48:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV-怀旧剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+CCTV-怀旧剧场,http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
+CCTV-怀旧剧场,http://117.148.179.157/PLTV/88888888/224/3221231544/index.m3u8
+CCTV-怀旧剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-怀旧剧场,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+CCTV-怀旧剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/hjjc/__op/default/__f/index.m3u8
+CCTV-怀旧剧场,http://111.20.40.162/PLTV/88888893/224/3221226972/index.m3u8
+CCTV-怀旧剧场,http://111.20.40.163/PLTV/88888893/224/3221226972/index.m3u8
+CCTV-怀旧剧场,http://111.20.40.170/PLTV/88888893/224/3221226972/index.m3u8
+CCTV-怀旧剧场,http://111.20.40.171/PLTV/88888893/224/3221226972/index.m3u8
+CCTV-怀旧剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+CCTV-怀旧剧场,http://10.0.0.1:1234/rtp/238.255.2.33:5999
+CCTV-怀旧剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hl…
+CCTV-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+CCTV-怀旧剧场,http://60.10.167.88:808/hls/56/index.m3u
+CCTV-怀旧剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
 
 
 卫视,#genre#
