@@ -174,23 +174,12 @@ CCTV-第一剧场,http://39.134.18.196:80/dbiptv.sn.chinamobile.com/PLTV/8888889
 CCTV-第一剧场,http://39.134.18.193:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 CCTV-第一剧场,http://39.134.18.194:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 
-CCTV-怀旧剧场,http://[2409:8087:1a01:df::7005]/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-CCTV-怀旧剧场,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-怀旧剧场,http://39.134.18.196:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 CCTV-怀旧剧场,https://epg.pw/stream/188c041c330736b956fe8f41af7bf90cac0dd06699f977752ac93f0359de4a23.ctv
 CCTV-怀旧剧场,https://epg.pw/stream/2c3d1ac4b573288b1d3866589c6c1c80b3a865d45bf61826eddb676165cc3191.ctv
 CCTV-怀旧剧场,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 CCTV-怀旧剧场,http://116.179.130.242:6000/rtp/226.0.2.224:9704
-CCTV-怀旧剧场,http://111.20.40.163/PLTV/88888893/224/3221226972/index.m3u8
-CCTV-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
-CCTV-怀旧剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-CCTV-怀旧剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
-CCTV-怀旧剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226996/86128881.smil
-CCTV-怀旧剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
-CCTV-怀旧剧场,rtsp://115.153.233.154/PLTV/88888888/224/3221226996/86128881.smil
-CCTV-怀旧剧场,http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
-CCTV-怀旧剧场,http://117.148.179.147/PLTV/88888888/224/3221231544/index.m3u8
-CCTV-怀旧剧场,http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
+
 
 
 
