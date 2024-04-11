@@ -150,6 +150,8 @@ CCTV-第一剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/
 CCTV-第一剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 
 CCTV-怀旧剧场,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+CCTV-怀旧剧场,https://epg.pw/stream/188c041c330736b956fe8f41af7bf90cac0dd06699f977752ac93f0359de4a23.ctv
+CCTV-怀旧剧场,https://epg.pw/stream/2c3d1ac4b573288b1d3866589c6c1c80b3a865d45bf61826eddb676165cc3191.ctv
 CCTV-怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 CCTV-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226972/index.m3u8
 CCTV-怀旧剧场,http://223.83.183.218:9901/tsfile/live/0001_49.m3u8
@@ -160,20 +162,12 @@ CCTV-怀旧剧场,rtsp://115.153.254.81/PLTV/88888888/224/3221226996/86128881.sm
 CCTV-怀旧剧场,http://121.19.134.48:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-怀旧剧场,http://cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
 CCTV-怀旧剧场,http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
-CCTV-怀旧剧场,http://117.148.179.157/PLTV/88888888/224/3221231544/index.m3u8
-CCTV-怀旧剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV-怀旧剧场,http://39.136.66.40/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
 CCTV-怀旧剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/hjjc/__op/default/__f/index.m3u8
 CCTV-怀旧剧场,http://111.20.40.162/PLTV/88888893/224/3221226972/index.m3u8
 CCTV-怀旧剧场,http://111.20.40.163/PLTV/88888893/224/3221226972/index.m3u8
-CCTV-怀旧剧场,http://111.20.40.170/PLTV/88888893/224/3221226972/index.m3u8
-CCTV-怀旧剧场,http://111.20.40.171/PLTV/88888893/224/3221226972/index.m3u8
-CCTV-怀旧剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
-CCTV-怀旧剧场,http://10.0.0.1:1234/rtp/238.255.2.33:5999
-CCTV-怀旧剧场,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hl…
 CCTV-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-CCTV-怀旧剧场,http://60.10.167.88:808/hls/56/index.m3u
-CCTV-怀旧剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
+
 
 
 卫视,#genre#
@@ -1458,10 +1452,6 @@ TVBS欢乐,rtmp://9sv2.mine.nu:1935/sat/tv421
 
 体育直播,#genre#
 
-TNTSPORTS 1,https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
-TNTSPORTS 2,https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
-TNTSPORTS 4,https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
-TNTSPORTS 5,https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
 
 纬来体育,rtmp://9sv2.mine.nu/sat/tv721
 ELEVEN2,rtmp://9sv2.mine.nu:1935/sat/md011
@@ -1540,6 +1530,15 @@ SkySportsArena,P2p://generationnexxxt.com:19806/65791ef8000e15953163ffb52b633954
 SkySportsMainEvent,P2p://generationnexxxt.com:19806/65791ef800079cd23163fe0f44d92213
 SkySportsCricket,P2p://generationnexxxt.com:19806/65791ef8000290523163fcb71a5c79e1
 SkySportsMix,P2p://generationnexxxt.com:19806/65791ef7000cb6683163fb6f54195e6f
+
+SportsNet One,https://epg.pw/stream/6746aca1475d3854cff6a1e082efaf6645c259d360c9253244627f7615558492.m3u8
+SportsNet Pacific,https://epg.pw/stream/c024c33549e30b9dfd2e8f55711bcb63a77a01f18a2ed85eeb3667562d480b05.m3u8
+SportsNet Pacific,https://epg.pw/stream/d30de4a1e0fc2e92cf377cc1d9c8dc5cfe092c7b0c5e603eb5b1eecad9486707.ctv
+SportsNet Pacific,https://epg.pw/stream/d8ea0e185eab979c4a2545cf65fc91a4c2457329319ec5c2921176bf36ff2c33.m3u8
+SportsNet West,https://epg.pw/stream/979874b01377b9d6141868823cdd3ecc74ccbfebcabdec60932c80543da66cc9.m3u8
+Sportsnet East,https://epg.pw/stream/f8ae3dd8e3733a94372513915fe40697d1d1fcd28e2a662f2adf80213f881cf6.m3u8
+Sportsnet East,https://epg.pw/stream/06542a0ac87ec27b16f5e096012b684d8b14df05357d6189bdef61ffa47d1486.m3u8
+Sportsnet Ontario,https://epg.pw/stream/10f2842733a31c8fb3d461c8035995cc1d6c89d0df81c8b004fa10a815db4f3b.m3u8
 
 
 
