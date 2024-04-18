@@ -208,8 +208,6 @@ CCTV-怀旧剧场,http://110.179.81.53:8082/udp/239.1.1.95:8095
 CCTV-怀旧剧场,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 CCTV-怀旧剧场,http://113.86.206.78:9999/tsfile/live/1032_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-怀旧剧场,http://117.148.129.9/PLTV/88888888/224/3221232870/index.m3u8
-CCTV-怀旧剧场,mitv://fccsovh.pvbox.live:18912/5b140952000cd53bf8e36083903ba18c.ts
-CCTV-怀旧剧场,p2p://fccsovh.pvbox.live:18912/5b140952000cd53bf8e36083903ba18c.ts
 
 
 
@@ -1205,8 +1203,6 @@ CCTV13HEVC,http://[2409:8087:2001:20:2800:0:df6e:eb24]:80/wh7f454c46tw2444616252
 【鹿鼎记】金庸经典,https://live.metshop.top/yy/28265277
 鹿鼎记-高清全集,https://live.metshop.top/yy/1382704650
 弹幕天团 下饭神剧,https://live.metshop.top/yy/23512910
-武林外传,https://live.metshop.top/yy/1353852605
-武林外传,https://live.metshop.top/yy/1354752120
 超级吓人鬼片 恐怖片,https://live.metshop.top/yy/1355641195
 破案港剧,https://live.metshop.top/yy/1350670730
 林正英-经典电影,https://live.metshop.top/yy/34229877
@@ -1225,13 +1221,9 @@ YY恐怖电影,https://live.metshop.top/yy/24066336
 【赌神片 动作片 港片】,https://live.metshop.top/yy/1355112116
 港片电影集,https://live.metshop.top/yy/1455225203
 新白娘子传奇,https://live.metshop.top/yy/1354490667
-济公游记,https://live.metshop.top/yy/1355265814
-动漫,https://live.metshop.top/yy/25055036
-动漫1,https://live.metshop.top/yy/26664495
 港片电影,https://live.metshop.top/yy/33897188
 高分经典电影,https://live.metshop.top/yy/1382754187
 83射雕英雄传,https://live.metshop.top/yy/1354210357
-丫头动漫 斗罗斗破,https://live.metshop.top/yy/1458722520
 神雕侠侣,https://live.metshop.top/yy/1351762426
 老广的味道 第3季-美食纪录片,https://live.metshop.top/yy/1382735565
 鹿鼎记-周星驰版,https://live.metshop.top/yy/1354658049
@@ -1302,8 +1294,7 @@ TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
 蓝色星球-自然-纪录片,https://live.metshop.top/yy/1354930936
 舌尖上的中国第一季,https://live.metshop.top/yy/1354930952
 男亲女爱-经典港剧,https://live.metshop.top/yy/1382736715
-【蜡笔小新】绝版画质,http://zzy789.xyz/bili.php?id=21570935
-蜡笔小新全集高清在线24h播放,http://zzy789.xyz/bili.php?id=23190944
+
 
 经典小品,#genre#
 
