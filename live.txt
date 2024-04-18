@@ -201,7 +201,7 @@ CCTV-怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/P
 CCTV-怀旧剧场,http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 CCTV-怀旧剧场,http://116.179.130.242:6000/rtp/226.0.2.224:9704
 CCTV-怀旧剧场,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226972/index.m3u8
-CCTV-怀旧剧场,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+CCTV-怀旧剧场,https://pi.0472.org/cbn.php?id=hjjcHD
 
 
 
