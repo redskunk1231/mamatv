@@ -1723,45 +1723,12 @@ FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 体育直播,#genre#
 
-
-ELEVEN1 高清,http://61.221.81.93:8078/hls/25/80/esport.m3u8
-ELEVEN2 高清,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-ELTA体育1台,http://www.best336699.com:1935/besttv/IR11.stream/playlist.m3u8
-ELTA体育2台,http://www.best336699.com:1935/besttv/IR22.stream/playlist.m3u8
-ELTA体育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
-ELTA体育2台,https://elta.irtblztjwzxz000041.xyz/elta/download/22/index.m3u8
-ELTA体育3台,http://www.best336699.com:1935/besttv/IR33.stream/playlist.m3u8
-ELTA体育3台,http://www.best336699.com:1935/besttv/IR33.stream/chunklist_w926913950.m3u8
-ELEVEN體育2台,http://61.221.81.93:8078/hls/26/80/esport2.m3u8
-ELEVEN體育2台,http://198.16.64.10:8278/bsfuji_japan/playlist.m3u8?tid=MEFE1641904216419042&ct=19225&tsum=e49ffeb9a6df295150be1cd8f9b0ea30
-ELEVEN體育2台,https://epg.pm/stream/480fbbc2ba61ff75864f5aca4b9918c7ddba6fb3306ad56eb2a6482f92fc3301.m3u8
-ELEVEN 1,http://cineapp.org:8000/Fernando/Fernando/7451
-ELEVEN 3,http://cineapp.org:8000/Fernando/Fernando/7453
-ELEVEN 6,http://cineapp.org:8000/Fernando/Fernando/7456
-
-Astro SuperSport,P2p://generationnexxxt.com:19806/bb3123d4dbdf4df38e52de8100b71b5a
-Astro SuperSport 2,P2p://generationnexxxt.com:19806/39df87b7c0b94511ab7a64e3679786a8
-Astro SuperSport 3,P2p://generationnexxxt.com:19806/460b5a83228a4c4aa01b8c04138c9a8f
-Astro SuperSport 4,P2p://generationnexxxt.com:19806/605a8a8a0070407685d966dd4f3523dc
-beIN Sports 3,P2p://generationnexxxt.com:19806/094a24a261b34006bc0c244854c45a79
-beIN Sports 2,P2p://generationnexxxt.com:19806/4d33827bf2f846e2affd95180e38b400
-SkySportsFootball,P2p://generationnexxxt.com:19806/65791ef900094e3c3164026476a47cd3
-Astro SuperSport 5,P2p://generationnexxxt.com:19806/774537a748c04b2bb3c340cc19a0a5dc
-AstroSuperSport,P2p://generationnexxxt.com:19806/8f8ad3ee6aa54ccbac64314553dfa1fa
-AstroSuperSport2,P2p://generationnexxxt.com:19806/650d4fca00064e791dd4dbcd16fd08c0
-AstroSuperSport3,P2p://generationnexxxt.com:19806/5b9b9986c20244908be60c3f18a3e435
-AstroSuperSport4,P2p://generationnexxxt.com:19806/c7f1be20958243f68c943016c446501e
 beINSports3,P2p://generationnexxxt.com:19806/65a52dc1000d76fbdd7dd8ab186b4afd
 纬来体育台,P2p://generationnexxxt.com:19806/79090c69d43040148deaa21d5e26c32a
-SkynetSportsHD,P2p://generationnexxxt.com:19806/64f03b7d000cf732ac3d879228791c70
 SkynetSports2,P2p://generationnexxxt.com:19806/64f03b7e0004ca5cac3d89676c3c51df
 SkynetSports5,P2p://generationnexxxt.com:19806/64f03b7f0003688dac3d8cf1521c6e9f
 SkynetSports6,P2p://generationnexxxt.com:19806/64f03b7e000b23c7ac3d8b0d775b55a1
-HKC18,P2p://generationnexxxt.com:19806/140377dc9e0848678d614d451d69af9e
-爱尔达体育1台(备),P2p://generationnexxxt.com:19806/1180278580d04cb490450ec59b4edc6b
-爱尔达体育2台,P2p://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b
 TRACESportStars,P2p://generationnexxxt.com:19806/b0cb233f10e84f29910fa38e15a07035
-博斯高球,P2p://generationnexxxt.com:19806/6ff0b79453d2430986930b7c84a286df
 博斯高球二台,P2p://generationnexxxt.com:19806/8afa52d0fe0047f8a6d7e51f46697f93
 博斯网球台,P2p://generationnexxxt.com:19806/7fb5b66ce38747de84be865952153959
 博斯魅力网,P2p://generationnexxxt.com:19806/c585ebfbfc7c4260a8d9556b5409faf0
@@ -1778,12 +1745,14 @@ EurosportHD,P2p://generationnexxxt.com:19806/65159769000b9a153e2ca23c14c042d2
 ArenaBola,P2p://generationnexxxt.com:19806/6597c3de0009a0efa91838f96fd623b1
 NBA,P2p://generationnexxxt.com:19806/65159b8e000aa81c3e3cd2861b6b31f1
 beINSports2,P2p://generationnexxxt.com:19806/65619d35000372e967236fc35ab64b39
+爱尔达体育1台,mitv://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3
+爱尔达体育1台,P2p://generationnexxxt.com:19806/1180278580d04cb490450ec59b4edc6b
 爱尔达体育1台,P2p://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3
+爱尔达体育2台,mitv://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b
+爱尔达体育2台,P2p://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b
+爱尔达体育3台,mitv://generationnexxxt.com:19806/3ebc6b89559c44dca30c4c259a5646b9
 爱尔达体育3台,P2p://generationnexxxt.com:19806/3ebc6b89559c44dca30c4c259a5646b9
 爱尔达体育4台,P2p://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
-爱尔达体育1台,mitv://generationnexxxt.com:19806/68e521d35c0247ddbc5073dee98245a3
-爱尔达体育2台,mitv://generationnexxxt.com:19806/d1f16ee235314a0fbc33742ab7af534b
-爱尔达体育3台,mitv://generationnexxxt.com:19806/3ebc6b89559c44dca30c4c259a5646b9
 爱尔达体育4台,mitv://generationnexxxt.com:19806/df4f198dbe6347e1a084c79d208f227d
 SkySportsF1,P2p://generationnexxxt.com:19806/65791ef90003eb94316400fd79094faa
 SkySportsArena,P2p://generationnexxxt.com:19806/65791ef8000e15953163ffb52b633954
