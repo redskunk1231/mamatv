@@ -205,7 +205,6 @@ CCTV-第一剧场,http://39.134.18.193:80/dbiptv.sn.chinamobile.com/PLTV/8888889
 CCTV-第一剧场,http://39.134.18.194:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226959/index.m3u8
 
 CCTV-怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-CCTV-怀旧剧场,p2p://fccsovh.pvbox.live:18912/5b140952000cd53bf8e36083903ba18c.ts
 CCTV-怀旧剧场,http://223.10.34.224:8083/udp/239.1.1.95:8095
 CCTV-怀旧剧场,http://110.179.81.53:8084/udp/239.1.1.95:8095
 CCTV-怀旧剧场,http://110.179.81.53:8082/udp/239.1.1.95:8095
@@ -216,10 +215,17 @@ CCTV-怀旧剧场,http://223.83.183.218:9901/tsfile/live/0001_49.m3u8
 CCTV-怀旧剧场,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
 CCTV-怀旧剧场,http://1.83.163.75:8888/rtp/239.111.205.67:5140
 CCTV-怀旧剧场,http://1.83.163.43:8888/rtp/239.111.205.67:5140
-CCTV-怀旧剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
-CCTV-怀旧剧场,http://171.116.159.178:8085/rtp/226.0.2.224:9704
+CCTV-怀旧剧场,http://111.20.40.162/PLTV/88888893/224/3221226972/index.m3u8
+CCTV-怀旧剧场,http://111.20.40.163/PLTV/88888893/224/3221226972/index.m3u8
+CCTV-怀旧剧场,http://zteres.sn.chinamobile.com:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-怀旧剧场,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-怀旧剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+CCTV-怀旧剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226996/86128881.smil
+CCTV-怀旧剧场,http://118.24.227.124/tv.live.cbnbn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
+CCTV-怀旧剧场,rtsp://115.153.233.154/PLTV/88888888/224/3221226996/86128881.smil
+CCTV-怀旧剧场,http://153.35.100.114:80/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+CCTV-怀旧剧场,http://117.148.179.147/PLTV/88888888/224/3221231544/index.m3u8
 CCTV-怀旧剧场,http://117.148.179.158/PLTV/88888888/224/3221231544/index.m3u8
-CCTV-怀旧剧场,http://117.148.179.157/PLTV/88888888/224/3221231544/index.m3u8
 
 
 
