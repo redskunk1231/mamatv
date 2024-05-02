@@ -34,21 +34,10 @@ CCTV11,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000583
 CCTV13,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000063
 CCTV13,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000148
 
-//nm联通组播2
-CCTV-1,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240127_1/encoder/0/playlist.m3u8
-CCTV-2,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240244_1/encoder/0/playlist.m3u8
-CCTV-3,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240245_1/encoder/0/playlist.m3u8
-CCTV-4,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240316_1/encoder/0/playlist.m3u8
-CCTV-5,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240246_1/encoder/0/playlist.m3u8
-CCTV-5,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240260_1/encoder/0/playlist.m3u8
-CCTV-5+,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240128_1/encoder/0/playlist.m3u8
-CCTV-6,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240247_1/encoder/0/playlist.m3u8
-CCTV-11,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240016_1/encoder/0/playlist.m3u8
-CCTV-13,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240126_1/encoder/0/playlist.m3u8
 
 
-CCTV1,http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001022/index.m3u8
-CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
+
+
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -233,15 +222,6 @@ CCTV-怀旧剧场,http://2409:8087:7000:20:1000::22:6060/yinhe/2/ch0000009099000
 CCTV-怀旧剧场,http://58.205.220.58:8088/tlivectfree-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
 CCTV-怀旧剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226996/86128881.smil
 
-//nm联通组播测试
-CCTV-热播剧场,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240089_1/encoder/0/playlist.m3u8
-CCTV-经典电影,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240090_1/encoder/0/playlist.m3u8
-CCTV-戏剧影院,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240276_1/encoder/0/playlist.m3u8
-
-
-
-
-
 
 
 卫视,#genre#
@@ -294,14 +274,7 @@ CCTV-戏剧影院,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240276_1/en
 甘肃卫视,http://10.11.43.21/PLTV/88888912/224/3221226626/382482472.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 陕西卫视,http://10.11.43.21/PLTV/88888912/224/3221226677/426212062.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 
-//nm联通组播测试
 
-北京卫视,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240129_1/encoder/0/playlist.m3u8
-东方卫视,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240242_1/encoder/0/playlist.m3u8
-湖南卫视,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist.m3u8
-深圳卫视,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240132_1/encoder/0/playlist.m3u8
-江苏卫视,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240133_1/encoder/0/playlist.m3u8
-浙江卫视,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240134_1/encoder/0/playlist.m3u8
 
 
 辽宁卫视,http://221.2.36.34:8888/newlive/live/hls/43/live.m3u8
