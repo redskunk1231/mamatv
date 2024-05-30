@@ -209,14 +209,12 @@ CCTV-怀旧剧场,http://36.248.223.25/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.
 
 CCTV-怀旧剧场,http://114.98.113.110:8888/rtp/238.1.79.61:4624
 
-CCTV-怀旧剧场,http://148.135.93.213:81/live.php?id=怀旧剧场
+CCTV-怀旧剧场,p2p://fccsovh.pvbox.live:18912/5b140952000cd53bf8e36083903ba18c.ts
 CCTV-怀旧剧场,http://117.148.129.9/PLTV/88888888/224/3221232870/index.m3u8
 CCTV-怀旧剧场,http://223.83.183.218:9901/tsfile/live/0001_49.m3u8
 CCTV-怀旧剧场,http://39.136.18.70/cdnrrs.gz.chinamobile.com/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
 CCTV-怀旧剧场,http://1.83.163.75:8888/rtp/239.111.205.67:5140
-CCTV-怀旧剧场,http://1.83.163.43:8888/rtp/239.111.205.67:5140
-CCTV-怀旧剧场,http://120.233.184.248/sx.v.smtcdns.net/hlslive-tx-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
-
+CCTV-怀旧剧场,http://hls.live.cqccn.com/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
 
 
 
