@@ -540,18 +540,11 @@ CCTV-重温经典频道,http://mtw.so/5NPX0U
 评剧《花为媒》,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/48da40a19746409997717371a80fd9e6/2000.m3u8
 越剧《梁山伯与祝英台》,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
 京剧《野猪林》,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d2ddcbd8cdba4473a541687e683c1aca/850.m3u8
-京剧《杜鹃山》02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5f76957927c5421e8bd75d0f53c95e4a/850.m3u8
-京剧《沙家浜》,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/6241c3f25a9a4dda9b05b9ba185500e0/850.m3u8
 京剧《穆桂英大战洪州》,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/aaa5a373d97a47d1bc95b1418b672b33/2000.m3u8
 黄梅戏《王老虎抢亲》,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/3b6ae81ae49f4c72b0c977023565c762/850.m3u8
 京剧《铁弓缘》,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/e19f3238b0ba4849aa50d6b7f1118ab9/2000.m3u8
-越剧《碧玉簪》,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9e90b1a2872b476b8a4f9882f9b63cde/850.m3u8
-京剧《杜鹃山》01,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f468a89e0e394a718474523afe37c702/850.m3u8
-越剧《红楼梦》01,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f66e935661b44ff6b80a290537d5d204/2000.m3u8
-越剧《红楼梦》02,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/10470613ead24f5cb435137b5f39ab98/2000.m3u8
-越剧《追鱼》,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/3515e586d18743be99eb6cc2004cb995/2000.m3u8
-京剧《秦香莲》,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f8daefadadef41989225543875268a70/2000.m3u8
-黄梅戏《天仙配》,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1cd056751daf430a943e63e6428c40d7/850.m3u8
+
+
 
 
 历届春晚,#genre#
