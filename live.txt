@@ -180,8 +180,7 @@ CCTV-风云剧场,http://wsd.saj-web.top:4000/udp/225.1.2.174:5002$天津联通 
 CCTV-风云剧场,http://xuys.top:8888/udp/225.1.2.174:5002$天津联通 组播
 CCTV-风云剧场,http://222.241.211.36:10010/udp/239.86.2.38:1234$湖南电信 组播
 CCTV-风云剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.251:6429$河北联通 组播
-CCTV-风云剧场,http://39.134.18.193:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
-CCTV-风云剧场,http://39.134.24.162:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226950/index.m3u8
+
 
 
 CCTV-第一剧场,http://111.20.40.162/PLTV/88888893/224/3221226959/index.m3u8
@@ -194,10 +193,7 @@ CCTV-怀旧剧场,http://xuys.top:8888/udp/225.1.2.173:5002$天津联通 组播
 CCTV-怀旧剧场,http://wsd.saj-web.top:4000/udp/225.1.2.173:5002$天津联通 组播
 CCTV-怀旧剧场,http://222.241.211.36:10010/udp/239.86.2.29:1234$湖南电信 组播
 CCTV-怀旧剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.252:6430$河北联通 组播
-CCTV-怀旧剧场,http://xuys.top:8888/udp/239.125.1.53:4120$内蒙古联通 组播
-CCTV-怀旧剧场,http://wsd.saj-web.top:4000/udp/239.125.1.53:4120$内蒙古联通 组播
-CCTV-怀旧剧场,http://222.241.211.36:10010/udp/239.125.1.53:4120$内蒙古联通 组播
-CCTV-怀旧剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.125.1.53:4120$内蒙古联通 组播
+
 
 CCTV-重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CCTV-重温经典频道,http://mtw.so/5NPX0U
