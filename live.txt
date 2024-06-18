@@ -188,7 +188,7 @@ CCTV-第一剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.138:6428
 CCTV-第一剧场,http://222.241.211.36:10010/udp/239.86.2.37:1234$湖南电信 组播
 
 CCTV-怀旧剧场,http://xuys.top:8888/udp/225.1.2.173:5002$天津联通 组播
-CCTV-怀旧剧场,https://stream.freetv.fun/188c041c330736b956fe8f41af7bf90cac0dd06699f977752ac93f0359de4a23.m3u8
+CCTV-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 CCTV-怀旧剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.252:6430$河北联通 组播
 
 CCTV-重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
