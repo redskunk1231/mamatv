@@ -174,7 +174,7 @@ CCTV13,https://node1.olelive.com:6443/live/CCTV13HD/hls.m3u8
 CCTV13,http://144.255.40.46:4022/udp/239.21.2.3:5002
 CCTV13,http://live.chunfei.top/live02/cctv.m3u8?channel=cctvnews
 
-CCTV-风云剧场,http://wsd.saj-web.top:4000/udp/225.1.2.174:5002$天津联通 组播
+CCTV-风云剧场,http://111.225.112.48:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-风云剧场,http://xuys.top:8888/udp/225.1.2.174:5002$天津联通 组播
 CCTV-风云剧场,http://222.241.211.36:10010/udp/239.86.2.38:1234$湖南电信 组播
 CCTV-风云剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.251:6429$河北联通 组播
@@ -184,9 +184,12 @@ CCTV-风云剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.251:6429
 CCTV-第一剧场,http://111.20.40.162/PLTV/88888893/224/3221226959/index.m3u8
 CCTV-第一剧场,http://xuys.top:8888/udp/225.1.2.175:5002$天津联通 组播
 CCTV-第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
-CCTV-第一剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.138:6428$河北联通 组播
+CCTV-第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIg5Jm9ufDm6djkkrhWP0zlHbXMBq03w%2FgOHENZxE4ay%2BEXqK0XzFFWJtPAReIvdhE
+
+CCTV-第一剧场,http://111.225.112.48:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-第一剧场,http://222.241.211.36:10010/udp/239.86.2.37:1234$湖南电信 组播
 
+CCTV-怀旧剧场,http://111.225.112.48:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-怀旧剧场,http://xuys.top:8888/udp/225.1.2.173:5002$天津联通 组播
 CCTV-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
 CCTV-怀旧剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.252:6430$河北联通 组播
@@ -637,6 +640,8 @@ CCTV-重温经典频道,http://mtw.so/5NPX0U
 经典剧集,#genre#
 
 我爱我家,https://live.metshop.top/yy/1382735557
+我爱我家,http://43.138.170.29:35455/yy/1382735557
+我爱我家,http://mmitv.top/pltv/yy.php?id=1382735557
 东北一家人,https://www.goodiptv.club/douyu/7642724
 【鹿鼎记】金庸经典,https://live.metshop.top/yy/28265277
 鹿鼎记-高清全集,https://live.metshop.top/yy/1382704650
