@@ -168,6 +168,7 @@ CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212262
 CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
 CCTV13,rtsp://115.153.254.81/PLTV/88888888/224/3221227037/87447722.smil
 CCTV13,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0SuXozn3alq9%2BUx7ZLG1w9awc14iEUxQ5VsTsr5pEBsmF56tXUfsukRUpygmTCKvAI
+CCTV13,http://58.248.112.229:8114/GD.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBeUi4Thb7vkXG9wotcNmK%2FSEqT0xBi9U3gvduQFenMFz&p=GITV&area=GD_CUCC&partnerCode=GD_CUCC&token=0C760427464F16BC52147D30B20FE4AFCF076375187B56B35E8BDB02A2F6902DE9292062EA71D873A44BBEEB2412BDB1EC6FB05780A8EA269429663960F75A0E38AD629F8C7EE56B792DC687DBB007AA5A7E6BA759697151C58F0015A49D684681688F54CF181FEA9885C669F98E6157C28D65F01F79AD703ABEC36AB5501CEAAAA270038E8B9D34B33962FE84B6D2A996DBE32DF2BA88F913DE2ED98DD12A30&version=0.0.0.0&apkVersion=4.2.19&mac=fc:57:03:56:49:16&multicast=0&platform=LIVE&gAreaId=CHN&gAppChannel=DEFAULT&gSoftTermId=TERMINAL&gManufacturer=Hisense&gModel=IP108H&gMac=fc:57:03:56:49:16&gStbId=00000444000710800001FC5703564916&gOsType=android&gOsVersion=4.4.2&gApiLevel=19&gAppVersionCode=4219&gAppVersionName=4.2.19&gDowngrade=EMERGENCY&gProductLineCode=LIVOD&gRomVersion=3.17.2.4602&gTimestamp=1714142684111&gRequests=1&gThirdPartyCDN=0&gGroupCode=&gUserId=002040101532912&isIty=0&gCityCode=DEFAULT&verType=0&Fsv_Tgid=515ea297dbe86391&FvSeid=88fe5578aef92c0e&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=18126&Fsv_chan_hls_se_idx=54&Fsv_TBt=8467928&Fsv_ShiftEnable=1&Fsv_ShiftTsp=120&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=GD_CUCC&Pcontent_id=G_CCTV-13-CQ&Fsv_CMSID=GD_CUCC
 
 
 
@@ -184,12 +185,10 @@ CCTV-第一剧场,http://222.241.211.36:10010/udp/239.86.2.37:1234$湖南电信 
 CCTV-怀旧剧场,http://xuys.top:8888/udp/225.1.2.173:5002$天津联通 组播
 CCTV-怀旧剧场,http://60.10.225.157:555/rtp/239.253.93.252:6430
 CCTV-怀旧剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.252:6430$河北联通 组播
-CCTV-怀旧剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.254.200.95:6229$河北电信 组播
-CCTV-怀旧剧场,http://111.225.113.214:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-
-CCTV-重温经典频道,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-CCTV-重温经典频道,http://mtw.so/5NPX0U
-
+CCTV-怀旧剧场,http://nas.hssvm.com:8888/udp/225.1.1.184:5002
+CCTV-怀旧剧场,http://182.32.160.19:9998/udp/226.1.30.99:6000
+CCTV-怀旧剧场,http://hy.baojihzjc.com:9001/rtp/239.111.205.67:5140
+CCTV-怀旧剧场,http://110.178.52.119:8084/udp/239.1.1.95:8095
 
 
 
