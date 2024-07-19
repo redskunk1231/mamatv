@@ -177,6 +177,7 @@ CCTV-风云剧场,http://182.32.160.19:9998/udp/226.1.30.110:6000
 CCTV-风云剧场,http://hy.baojihzjc.com:9001/rtp/239.111.205.66:5140
 CCTV-风云剧场,http://222.241.211.36:10010/udp/239.86.2.38:1234$湖南电信 组播
 CCTV-风云剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.251:6429$河北联通 组播
+CCTV-风云剧场,http://60.10.225.157:555/rtp/239.253.93.251:6429
 
 
 
@@ -184,6 +185,7 @@ CCTV-第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638
 CCTV-第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIg5Jm9ufDm6djkkrhWP0zlHbXMBq03w%2FgOHENZxE4ay%2BEXqK0XzFFWJtPAReIvdhE
 CCTV-第一剧场,http://182.32.160.19:9998/udp/226.1.30.64:6000
 CCTV-第一剧场,http://hy.baojihzjc.com:9001/rtp/239.111.205.65:5140
+
 
 CCTV-怀旧剧场,http://xuys.top:8888/udp/225.1.2.173:5002$天津联通 组播
 CCTV-怀旧剧场,http://60.10.225.157:555/rtp/239.253.93.252:6430
@@ -637,18 +639,18 @@ CCTV-怀旧剧场,http://hy.baojihzjc.com:9001/rtp/239.111.205.67:5140
 我爱我家,http://43.138.170.29:35455/yy/1382735557
 我爱我家,http://mmitv.top/pltv/yy.php?id=1382735557
 东北一家人,https://www.goodiptv.club/douyu/7642724
-【鹿鼎记】金庸经典,https://live.metshop.top/yy/28265277
-鹿鼎记-高清全集,https://live.metshop.top/yy/1382704650
-电影_丧尸片,http://cfss.cc/cdn/hy/21059578.flv
-超级吓人鬼片 恐怖片,https://live.metshop.top/yy/1355641195
-破案港剧,https://live.metshop.top/yy/1350670730
-林正英-经典电影,https://live.metshop.top/yy/34229877
-经典港片800部,https://live.metshop.top/yy/1382800018
-电影 古惑仔全集,https://live.metshop.top/yy/1354507447
-笑傲江湖 4K超清,https://live.metshop.top/yy/1354282410
-我和僵尸有个约会,https://live.metshop.top/yy/1354143966
-恐怖鬼片,https://live.metshop.top/yy/1355485328
-鬼片恐怖片,https://live.metshop.top/yy/1335509613
+83射雕英雄传,https://live.metshop.top/yy/1354210357
+射雕英雄传,https://live.metshop.top/yy/40959929
+神雕侠侣,https://live.metshop.top/yy/1351762426
+倚天屠龙记1,https://live.metshop.top/yy/1382818085
+倚天屠龙记2,https://live.metshop.top/yy/1449856066
+天龙八部,https://live.metshop.top/yy/1382749944
+笑傲江湖,https://live.metshop.top/yy/1354930909
+鹿鼎记,https://live.metshop.top/yy/28265277
+法证先锋,https://live.metshop.top/yy/1354930965
+陀枪师姐,https://live.metshop.top/yy/1382688521
+
+
 射雕英雄传之铁血丹心,https://live.metshop.top/yy/25221556
 雍正王朝 高清 护眼版,https://live.metshop.top/yy/23206872
 YY恐怖电影,https://live.metshop.top/yy/24066336
@@ -765,7 +767,9 @@ TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
 火炬手,https://vd3.bdstatic.com/mda-jar0302925j1nwep/hd/mda-jar0302925j1nwep.mp4?pd=19&vt=1&playlist=%5B%22hd%22%5D
 
 星爷全集,#genre#
-
+周星驰1,http://zby.xjqxz.top/live12/live.m3u8
+周星驰2,https://live.metshop.top/huya/11342412
+周星驰3,https://live.metshop.top/yy/1382736808
 星爷随机播,http://124.248.69.76:35455/huya/11342412
 电影_周星星,http://cfss.cc/cdn/hy/11336587.flv
 电影_周星星,https://live.metshop.top/huya/11336587
