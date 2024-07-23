@@ -152,6 +152,7 @@ CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$
 CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8$5.5M_1080
 CCTV11,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV11,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Qj2xHA4vdPGsjBbxSL3p%2FmAObVTfznR%2Fpc%2B76QYmLRMuL3Lj9iabhv8arW7kJe6%2F4
+CCTV11,http://182.32.160.19:9998/udp/226.1.30.11:6000
 
 
 
@@ -169,6 +170,7 @@ CCTV13,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225812/index.m3u8
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV13,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0SuXozn3alq9%2BUx7ZLG1w9awc14iEUxQ5VsTsr5pEBsmF56tXUfsukRUpygmTCKvAI
+CCTV13,http://182.32.160.19:9998/udp/226.1.30.13:6000
 
 
 
@@ -178,6 +180,8 @@ CCTV-风云剧场,http://hy.baojihzjc.com:9001/rtp/239.111.205.66:5140
 CCTV-风云剧场,http://222.241.211.36:10010/udp/239.86.2.38:1234$湖南电信 组播
 CCTV-风云剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.251:6429$河北联通 组播
 CCTV-风云剧场,http://60.10.225.157:555/rtp/239.253.93.251:6429
+CCTV-风云剧场,http://101.28.51.59:4022/rtp/239.253.93.251:6429
+
 
 
 
@@ -187,11 +191,22 @@ CCTV-第一剧场,http://182.32.160.19:9998/udp/226.1.30.64:6000
 CCTV-第一剧场,http://hy.baojihzjc.com:9001/rtp/239.111.205.65:5140
 
 
+
 CCTV-怀旧剧场,http://xuys.top:8888/udp/225.1.2.173:5002$天津联通 组播
 CCTV-怀旧剧场,http://60.10.225.157:555/rtp/239.253.93.252:6430
-CCTV-怀旧剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.252:6430$河北联通 组播
+CCTV-怀旧剧场,http://110.178.52.119:8084/udp/239.1.1.95:8095
 CCTV-怀旧剧场,http://182.32.160.19:9998/udp/226.1.30.99:6000
 CCTV-怀旧剧场,http://hy.baojihzjc.com:9001/rtp/239.111.205.67:5140
+CCTV-怀旧剧场,http://nas.hssvm.com:8888/udp/225.1.1.184:5002
+CCTV-怀旧剧场,http://101.28.51.59:4022/rtp/239.253.93.252:6430
+CCTV-怀旧剧场,http://222.223.118.222:2180/live/hjjc/index.m3u8
+CCTV-怀旧剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.252:6430$河北联通 组播
+CCTV-怀旧剧场,http://wsd.saj-web.top:4000/udp/225.1.2.173:5002$天津联通 组播
+CCTV-怀旧剧场,http://222.241.211.36:10010/udp/239.86.2.29:1234$湖南电信 组播
+CCTV-怀旧剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.252:6430$河北联通 组播
+
+
+红色轮播@代,http://mywlkj.ddns.net:754/tv/migu.php?id=hslbt
 
 
 
@@ -642,37 +657,7 @@ CCTV-怀旧剧场,http://hy.baojihzjc.com:9001/rtp/239.111.205.67:5140
 83射雕英雄传,https://live.metshop.top/yy/1354210357
 射雕英雄传,https://live.metshop.top/yy/40959929
 神雕侠侣,https://live.metshop.top/yy/1351762426
-倚天屠龙记1,https://live.metshop.top/yy/1382818085
-倚天屠龙记2,https://live.metshop.top/yy/1449856066
-天龙八部,https://live.metshop.top/yy/1382749944
-笑傲江湖,https://live.metshop.top/yy/1354930909
-鹿鼎记,https://live.metshop.top/yy/28265277
-法证先锋,https://live.metshop.top/yy/1354930965
-陀枪师姐,https://live.metshop.top/yy/1382688521
 
-
-射雕英雄传之铁血丹心,https://live.metshop.top/yy/25221556
-雍正王朝 高清 护眼版,https://live.metshop.top/yy/23206872
-YY恐怖电影,https://live.metshop.top/yy/24066336
-封神榜,https://live.metshop.top/yy/1353426319
-英叔僵尸 3000部,https://live.metshop.top/yy/1353685311
-经典鬼片3000部,https://live.metshop.top/yy/29460894
-【赌神片 动作片 港片】,https://live.metshop.top/yy/1355112116
-港片电影集,https://live.metshop.top/yy/1455225203
-新白娘子传奇,https://live.metshop.top/yy/1354490667
-港片电影,https://live.metshop.top/yy/33897188
-高分经典电影,https://live.metshop.top/yy/1382754187
-83射雕英雄传,https://live.metshop.top/yy/1354210357
-神雕侠侣,https://live.metshop.top/yy/1351762426
-老广的味道 第3季-美食纪录片,https://live.metshop.top/yy/1382735565
-鹿鼎记-周星驰版,https://live.metshop.top/yy/1354658049
-武林外传爆笑全场,https://live.metshop.top/yy/1355269576
-经典鬼片 绝版好看,https://live.metshop.top/yy/1353850051
-天龙八部,https://live.metshop.top/yy/1351814644
-国内外惊悚恐怖片,https://live.metshop.top/yy/1356075281
-港片鬼片全集,https://live.metshop.top/yy/1459869766
-好先生,https://live.metshop.top/yy/29067617
-经典电影,https://live.metshop.top/yy/1355142167
 黄飞鸿92之龙行天下,https://vip.ffzy-play7.com/20221129/7657_0e98ee6f/index.m3u8
 黄飞鸿系列之一代宗师,https://vip.ffzy-play6.com/20221129/9335_097bc8c1/index.m3u8
 黄飞鸿之二:男儿当自强,https://cdn4.yzzy-tv-cdn.com/20220606/17341_21dfaf46/index.m3u8
@@ -768,11 +753,11 @@ TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
 
 星爷全集,#genre#
 周星驰1,http://zby.xjqxz.top/live12/live.m3u8
-周星驰2,https://live.metshop.top/huya/11342412
-周星驰3,https://live.metshop.top/yy/1382736808
+周星驰2,http://43.138.170.29:35455/yy/1354658049
+周星驰3,http://43.138.170.29:35455/yy/1382736808
+电影_周星星,https://live.metshop.top/huya/11336587
 星爷随机播,http://124.248.69.76:35455/huya/11342412
 电影_周星星,http://cfss.cc/cdn/hy/11336587.flv
-电影_周星星,https://live.metshop.top/huya/11336587
 
 回魂夜,https://v3.dious.cc/20220401/y9ihZG1e/index.m3u8
 功夫,https://hnzy.bfvvs.com/play/lej5zYdj/index.m3u8
@@ -894,6 +879,11 @@ TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
 无线新闻,http://line.gofast-tv.me:80/play/live.php?mac=00:1A:79:6F:5A:5D&stream=153399&extension=ts&play_token=mad8wXPonE
 无线新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=153399
 无线新闻,http://r.jdshipin.com/CkuBd
+
+TVBS新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv
+壹新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjfoyjvjsdvbnwejtjujjxjcvfjjsjfhfjddjjlhtbchyxw.flv
+镜新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhkliveexcvjjocvuojxucfdexjpjjyxchvljxjfejhcelethjjdxw.flv
+民视新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivecnbvjfhdjujjvcbnjftujscxjfjejyhjjvjfmsxw.flv
 
 TVB 翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
 TVB 星河頻道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571186&extension=ts
