@@ -639,9 +639,7 @@ CCTV-怀旧剧场,http://hy.baojihzjc.com:9001/rtp/239.111.205.67:5140
 我爱我家,http://43.138.170.29:35455/yy/1382735557
 我爱我家,https://www.goodiptv.club/douyu/1382735557
 东北一家人,https://www.goodiptv.club/douyu/7642724
-83射雕英雄传,https://live.metshop.top/yy/1354210357
-射雕英雄传,https://live.metshop.top/yy/40959929
-神雕侠侣,https://live.metshop.top/yy/1351762426
+
 
 黄飞鸿92之龙行天下,https://vip.ffzy-play7.com/20221129/7657_0e98ee6f/index.m3u8
 黄飞鸿系列之一代宗师,https://vip.ffzy-play6.com/20221129/9335_097bc8c1/index.m3u8
@@ -654,66 +652,7 @@ CCTV-怀旧剧场,http://hy.baojihzjc.com:9001/rtp/239.111.205.67:5140
 黄飞鸿之壮志凌云,http://jsmov2.a.yximgs.com/bs3/video-hls/5189554175568165120_hlsb.m3u8
 英雄本色1,https://vip.ffzy-play7.com/20221115/4617_be0491ea/index.m3u8
 英雄本色2,https://vip.ffzy-play7.com/20221115/4807_eeca808f/index.m3u8
-天龙八部蓝光,https://live.metshop.top/yy/1355652820
-港片赌片 3000部,https://live.metshop.top/yy/1355076627
-鬼片赌片经典电影,https://live.metshop.top/yy/1351496216
-三国演义94年经典版,https://live.metshop.top/yy/1354936241
-【港片】赌片 动作,https://live.metshop.top/yy/24921161
-星爷经典-百看不厌,https://live.metshop.top/yy/1382736808
-新白娘子传奇-女神赵雅芝,https://live.metshop.top/yy/1354930969
-古惑仔全集,https://live.metshop.top/yy/1460889796
-港剧悬疑破案,https://live.metshop.top/yy/10425097
-鹿鼎记-高清全集,https://live.metshop.top/yy/1382704650
-惊恐鬼怪盗暮,https://live.metshop.top/yy/1382749525
-敢死队-精彩动作电影,https://live.metshop.top/yy/1382735573
-【成龙经典】动作,https://live.metshop.top/yy/34460526
-笑傲江湖,https://live.metshop.top/yy/1354930909
-【神雕侠侣】金庸经典,https://live.metshop.top/yy/1382704651
-破案港剧,https://live.metshop.top/yy/1350670730
-经典动漫,https://live.metshop.top/yy/22777075
-少年歌行【蓝光】,https://live.metshop.top/yy/1450556636
-新三国,https://live.metshop.top/yy/26744898
-【电影】超然巨作,https://live.metshop.top/yy/29170933
-【天龙八部】蓝光超清,https://live.metshop.top/yy/28996058
-经典动漫,https://live.metshop.top/yy/24180320
-经典港片电影,https://live.metshop.top/yy/1382793140
-鬼片 恐怖片超好看,https://live.metshop.top/yy/1382780025
-【林正英】僵尸 鬼片,https://live.metshop.top/yy/30668277
-读心神探,https://live.metshop.top/yy/1382736875
-24小时循环播电视剧,https://live.metshop.top/yy/53320802
-盗慕恐怖惊辣,https://live.metshop.top/yy/1382748585
-林正英 九叔 僵尸 鬼片,https://live.metshop.top/yy/1382828957
-高分港片电影,https://live.metshop.top/yy/28099939
-布丁-玄幻电影正在直播,https://live.metshop.top/yy/1455460998
-绝版电影超好看,https://live.metshop.top/yy/59719179
-寻秦记-穿越剧经典,https://live.metshop.top/yy/1382749900
-林正英 经典鬼片,https://live.metshop.top/yy/1353312849
-国产喜剧,https://live.metshop.top/yy/1382736856
-24H欧美惊悚科幻,https://live.metshop.top/yy/1382656234
-精彩玄幻电影,https://live.metshop.top/yy/1382688400
-我的体育老师,https://live.metshop.top/yy/1382745169
-血色浪漫,https://live.metshop.top/yy/1354926676
-男亲女爱-经典港剧,https://live.metshop.top/yy/1382736715
-张国荣与周润发的兄弟情,https://live.metshop.top/yy/1354930961
-赌神-发哥,https://live.metshop.top/yy/1354889044
-木乃伊全集,https://live.metshop.top/yy/1354889024
-三国演义【1994】,https://live.metshop.top/yy/1354930932
-三国演义,https://live.metshop.top/yy/32788000
-中国味道 第4季-美食纪录片,https://live.metshop.top/yy/1382736845
-动漫,https://live.metshop.top/yy/23993334
-24小时播放,https://live.metshop.top/yy/29067083
-TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
-【玄幻电影】,https://live.metshop.top/yy/1355065896
-粉红女郎,https://live.metshop.top/yy/1354888671
-绝版鬼片 超恐怖,https://live.metshop.top/yy/1382788850
-鹿鼎记,https://live.metshop.top/yy/1356059275
-易中天品三国,https://live.metshop.top/yy/1354931498
-寻味顺德-美食纪录片,https://live.metshop.top/yy/1382736844
-来自星星的你,https://live.metshop.top/yy/1354930976
-王朝-自然-纪录片,https://live.metshop.top/yy/1354930927
-蓝色星球-自然-纪录片,https://live.metshop.top/yy/1354930936
-舌尖上的中国第一季,https://live.metshop.top/yy/1354930952
-男亲女爱-经典港剧,https://live.metshop.top/yy/1382736715
+
 
 
 经典小品,#genre#
