@@ -152,7 +152,6 @@ CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$
 CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8$5.5M_1080
 CCTV11,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV11,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Qj2xHA4vdPGsjBbxSL3p%2FmAObVTfznR%2Fpc%2B76QYmLRMuL3Lj9iabhv8arW7kJe6%2F4
-CCTV11,http://182.32.160.19:9998/udp/226.1.30.11:6000
 
 
 
@@ -166,19 +165,15 @@ CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb17]:80/ott.mobaibox.com/PLTV/4/22
 CCTV13,http://[2409:8087:2001:20:2800:0:df6e:eb24]/ott.mobaibox.com/PLTV/1/224/3221228324/index.m3u8
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000516/index.m3u8?IAS
-CCTV13,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225812/index.m3u8
+CCTV13,http://113.98.122.166:9901/tsfile/live/1013_1.m3u8?key=txiptv
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV13,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0SuXozn3alq9%2BUx7ZLG1w9awc14iEUxQ5VsTsr5pEBsmF56tXUfsukRUpygmTCKvAI
-CCTV13,http://182.32.160.19:9998/udp/226.1.30.13:6000
 
 
 
 
-CCTV-风云剧场,http://182.32.160.19:9998/udp/226.1.30.110:6000
-CCTV-风云剧场,http://hy.baojihzjc.com:9001/rtp/239.111.205.66:5140
-CCTV-风云剧场,http://222.241.211.36:10010/udp/239.86.2.38:1234$湖南电信 组播
-CCTV-风云剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.251:6429$河北联通 组播
+
 CCTV-风云剧场,http://60.10.225.157:555/rtp/239.253.93.251:6429
 CCTV-风云剧场,http://101.28.51.59:4022/rtp/239.253.93.251:6429
 
@@ -187,9 +182,6 @@ CCTV-风云剧场,http://101.28.51.59:4022/rtp/239.253.93.251:6429
 
 CCTV-第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
 CCTV-第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIg5Jm9ufDm6djkkrhWP0zlHbXMBq03w%2FgOHENZxE4ay%2BEXqK0XzFFWJtPAReIvdhE
-CCTV-第一剧场,http://182.32.160.19:9998/udp/226.1.30.64:6000
-CCTV-第一剧场,http://hy.baojihzjc.com:9001/rtp/239.111.205.65:5140
-
 
 
 CCTV-怀旧剧场,http://xuys.top:8888/udp/225.1.2.173:5002$天津联通 组播
@@ -197,16 +189,9 @@ CCTV-怀旧剧场,http://60.10.225.157:555/rtp/239.253.93.252:6430
 CCTV-怀旧剧场,http://110.178.52.119:8084/udp/239.1.1.95:8095
 CCTV-怀旧剧场,http://182.32.160.19:9998/udp/226.1.30.99:6000
 CCTV-怀旧剧场,http://hy.baojihzjc.com:9001/rtp/239.111.205.67:5140
-CCTV-怀旧剧场,http://nas.hssvm.com:8888/udp/225.1.1.184:5002
-CCTV-怀旧剧场,http://101.28.51.59:4022/rtp/239.253.93.252:6430
-CCTV-怀旧剧场,http://222.223.118.222:2180/live/hjjc/index.m3u8
-CCTV-怀旧剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.252:6430$河北联通 组播
-CCTV-怀旧剧场,http://wsd.saj-web.top:4000/udp/225.1.2.173:5002$天津联通 组播
-CCTV-怀旧剧场,http://222.241.211.36:10010/udp/239.86.2.29:1234$湖南电信 组播
-CCTV-怀旧剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.252:6430$河北联通 组播
 
 
-红色轮播@代,http://mywlkj.ddns.net:754/tv/migu.php?id=hslbt
+
 
 
 
@@ -752,12 +737,8 @@ TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
 火炬手,https://vd3.bdstatic.com/mda-jar0302925j1nwep/hd/mda-jar0302925j1nwep.mp4?pd=19&vt=1&playlist=%5B%22hd%22%5D
 
 星爷全集,#genre#
-周星驰1,http://zby.xjqxz.top/live12/live.m3u8
-周星驰2,http://43.138.170.29:35455/yy/1354658049
-周星驰3,http://43.138.170.29:35455/yy/1382736808
-电影_周星星,https://live.metshop.top/huya/11336587
+周星驰,http://zby.xjqxz.top/live12/live.m3u8
 星爷随机播,http://124.248.69.76:35455/huya/11342412
-电影_周星星,http://cfss.cc/cdn/hy/11336587.flv
 
 回魂夜,https://v3.dious.cc/20220401/y9ihZG1e/index.m3u8
 功夫,https://hnzy.bfvvs.com/play/lej5zYdj/index.m3u8
@@ -880,16 +861,7 @@ TVB古装 经典金庸剧,https://live.metshop.top/yy/1355326475
 无线新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=153399
 无线新闻,http://r.jdshipin.com/CkuBd
 
-TVBS新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivejojwhjxojhjjjlfhjljsjcnxjfvbhjdjwjfjjdsswvtvbsxw.flv
-壹新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivemjfoyjvjsdvbnwejtjujjxjcvfjjsjfhfjddjjlhtbchyxw.flv
-镜新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhkliveexcvjjocvuojxucfdexjpjjyxchvljxjfejhcelethjjdxw.flv
-民视新闻台,http://ali.hlspull.yximgs.com/live/huanqiuhklivecnbvjfhdjujjvcbnjftujscxjfjejyhjjvjfmsxw.flv
 
-TVB 翡翠台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571187&extension=ts
-TVB 星河頻道,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571186&extension=ts
-TVB 經典台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571197&extension=ts
-TVB 娛樂新聞台,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&stream=571188&extension=ts
-華視新聞資訊 HD,mitv://135.148.104.228:19806/df1dd1276eb8474da3cd12334065f7dd
 TVBS新聞 HD,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新聞,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
