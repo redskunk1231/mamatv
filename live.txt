@@ -186,10 +186,10 @@ CCTV-第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638
 
 CCTV-怀旧剧场,http://xuys.top:8888/udp/225.1.2.173:5002$天津联通 组播
 CCTV-怀旧剧场,http://60.10.225.157:555/rtp/239.253.93.252:6430
-CCTV-怀旧剧场,http://110.178.52.119:8084/udp/239.1.1.95:8095
+CCTV-怀旧剧场,http://111.225.115.28:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV-怀旧剧场,http://182.32.160.19:9998/udp/226.1.30.99:6000
 CCTV-怀旧剧场,http://hy.baojihzjc.com:9001/rtp/239.111.205.67:5140
-
+CCTV-怀旧剧场,http://222.223.118.222:2180/live/hjjc/index.m3u8
 
 
 
