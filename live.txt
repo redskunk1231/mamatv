@@ -169,23 +169,15 @@ CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV13,http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000516/index.m3u8?IAS
 CCTV13,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
 CCTV13,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0SuXozn3alq9%2BUx7ZLG1w9awc14iEUxQ5VsTsr5pEBsmF56tXUfsukRUpygmTCKvAI
 CCTV13,http://116.117.106.7:8096/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$内蒙古联通 酒店
 
 CCTV奥运频道,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV奥运频道,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
-CCTV奥运频道,http://58.215.231.35/live3.ngaacdn.sc96655.com/live/CCTV-16_4000.m3u8
-CCTV奥运频道,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
-CCTV奥运频道,http://60.10.139.10:8801/hls/16/index.m3u8
 CCTV奥运频道,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
-CCTV奥运频道,http://qnap.yjnhome.com:4000/rtp/239.3.1.183:8001
-CCTV奥运频道,http://124.205.11.246:91/live/CCTV16hd-8M/live.m3u8
 CCTV奥运频道,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
 CCTV奥运频道,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
-CCTV奥运频道,http://113.98.122.166:9901/tsfile/live/1016_1.m3u8?key=txiptv
-CCTV奥运频道,http://pi.0472.org/live/cctv16-4K.m3u8?token=240413
-CCTV奥运频道,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
+
 
 CCTV-风云剧场,http://60.10.225.157:555/rtp/239.253.93.251:6429
 CCTV-风云剧场,http://101.28.51.59:4022/rtp/239.253.93.251:6429
