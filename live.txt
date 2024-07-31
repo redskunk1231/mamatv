@@ -24,7 +24,7 @@ CCTV11,http://10.11.43.21/PLTV/88888912/224/3221226102/1000010000000006000000000
 CCTV12,http://10.11.43.21/PLTV/88888912/224/3221226447/10000100000000060000000000870190_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 CCTV12,http://10.11.43.21/PLTV/88888912/224/3221226663/426212066.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 CCTV13,http://10.11.43.21/PLTV/88888912/224/3221226678/382484600.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
-CCTV奥运频道,http://10.11.43.21/PLTV/88888912/224/3221226635/404077257.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
+
 
 //nm联通组播测试
 CCTV1,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000152
@@ -175,10 +175,17 @@ CCTV13,http://116.117.106.7:8096/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&a
 
 CCTV奥运频道,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 CCTV奥运频道,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
-CCTV奥运频道,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
-
-
-
+CCTV奥运频道,http://58.215.231.35/live3.ngaacdn.sc96655.com/live/CCTV-16_4000.m3u8
+CCTV奥运频道,http://116.162.6.191/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221226095/index.m3u8
+CCTV奥运频道,http://60.10.139.10:8801/hls/16/index.m3u8
+CCTV奥运频道,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
+CCTV奥运频道,http://qnap.yjnhome.com:4000/rtp/239.3.1.183:8001
+CCTV奥运频道,http://124.205.11.246:91/live/CCTV16hd-8M/live.m3u8
+CCTV奥运频道,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
+CCTV奥运频道,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
+CCTV奥运频道,http://113.98.122.166:9901/tsfile/live/1016_1.m3u8?key=txiptv
+CCTV奥运频道,http://pi.0472.org/live/cctv16-4K.m3u8?token=240413
+CCTV奥运频道,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
 
 CCTV-风云剧场,http://60.10.225.157:555/rtp/239.253.93.251:6429
 CCTV-风云剧场,http://101.28.51.59:4022/rtp/239.253.93.251:6429
@@ -201,7 +208,7 @@ CCTV-怀旧剧场,http://27.30.64.49:15000/udp/239.69.1.89:10174
 CCTV-怀旧剧场,http://111.175.60.226:4022/udp/239.69.1.89:10174$湖北电信 组播
 CCTV-怀旧剧场,http://victoryblackcat.dscloud.me:8888/rtp/239.253.93.252:6430$河北联通 组播
 CCTV-怀旧剧场,http://wuqianmu.synology.me:4000/udp/232.0.0.38:1234$辽宁联通 组播
-CCTV-怀旧剧场,http://111.20.35.108:6610/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV-怀旧剧场,http://110.178.52.119:8084/udp/239.1.1.95:8095
 
 
 卫视,#genre#
@@ -644,12 +651,13 @@ CCTV-怀旧剧场,http://111.20.35.108:6610/yinhe/2/ch00000090990000002495/index
 
 经典剧集,#genre#
 
+我爱我家,http://mmitv.top/pltv/yy.php?id=1382735557
 我爱我家,https://live.metshop.top/yy/1382735557
 我爱我家,http://43.138.170.29:35455/yy/1382735557
 我爱我家,https://www.goodiptv.club/douyu/1382735557
 东北一家人,https://www.goodiptv.club/douyu/7642724
-来自星星的你,https://www.goodiptv.club/yy/1354930976
-
+武林外传,http://159.75.85.63:35455/huya/21059598
+粤语电影,http://159.75.85.63:35455/douyu/6566671
 黄飞鸿92之龙行天下,https://vip.ffzy-play7.com/20221129/7657_0e98ee6f/index.m3u8
 黄飞鸿系列之一代宗师,https://vip.ffzy-play6.com/20221129/9335_097bc8c1/index.m3u8
 黄飞鸿之二:男儿当自强,https://cdn4.yzzy-tv-cdn.com/20220606/17341_21dfaf46/index.m3u8
@@ -687,7 +695,7 @@ CCTV-怀旧剧场,http://111.20.35.108:6610/yinhe/2/ch00000090990000002495/index
 星爷全集,#genre#
 周星驰,http://zby.xjqxz.top/live12/live.m3u8
 星爷随机播,http://124.248.69.76:35455/huya/11342412
-
+周星驰影@代,http://223.109.210.49/txdirect.flv.huya.com/src/1394575534-1394575534-5989656310331736064-2789274524-10057-A-0-1.flv
 回魂夜,https://v3.dious.cc/20220401/y9ihZG1e/index.m3u8
 功夫,https://hnzy.bfvvs.com/play/lej5zYdj/index.m3u8
 功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
@@ -744,7 +752,6 @@ CCTV-怀旧剧场,http://111.20.35.108:6610/yinhe/2/ch00000090990000002495/index
 新精武门,https://v3.cdtlas.com/20220630/6q4VBXvv/index.m3u8
 新精武门,https://yszy.wappt.top/api/?key=IHAK2Nxa4I314Rg6goV1sL8HdPpQlYwaYWxK23nntRm3%2BKcjmjKGMzcxitkFijqarE71Ci7e6LZUJUN%2FNyvMrNgBKQ2I96PjB7s8i5WK6ihXCr6y%2BOt0B5A0brKNYGlnlw2ezMrDvSiXPb5WK4EWT2KBVAFSkwTD%2Fl%2FG8mO%2FLVE%3D.m3u8
 新精武门,https://m1.taopianplay1.com:43333/taopian/84e2601a-c8ef-41e9-815a-453247f2e518/feb7d963-714f-47a8-8094-714255671600/16473/15ac76da-4ce8-4b20-b4af-e67d1cf1347e/SD/playlist.m3u8
-食神,https://cdn.zoubuting.com/20220522/06EtJbxn/index.m3u8
 食神,https://ukzy.ukubf4.com/20220407/dtaM5NLB/index.m3u8
 食神,https://hnzy.bfvvs.com/play/5eVNkveE/index.m3u8
 鹿鼎记,https://cdn.dalv666.top/a3u8/89b7b344969f211a05c4ef9ff0d50e9c.m3u8
