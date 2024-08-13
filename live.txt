@@ -38,7 +38,14 @@ CCTV13,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000063
 CCTV13,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000148
 
 //直播通用线路
-
+CCTV1,http://opdf.top:8088/rtp/239.81.0.102:4056
+CCTV2,http://opdf.top:8088/rtp/239.81.0.115:4056
+CCTV5,http://opdf.top:8088/rtp/239.81.0.232:4056
+CCTV5+,http://opdf.top:8088/rtp/239.81.0.101:4056
+CCTV6,http://opdf.top:8088/rtp/239.81.0.233:4056
+CCTV8,http://opdf.top:8088/rtp/239.81.0.234:4056
+CCTV11,http://opdf.top:8088/rtp/239.81.0.229:4056
+CCTV13,http://opdf.top:8088/rtp/239.81.0.206:4056
 
 
 
