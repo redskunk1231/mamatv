@@ -38,14 +38,7 @@ CCTV13,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000063
 CCTV13,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000148
 
 //直播通用线路
-CCTV1,http://opdf.top:8088/rtp/239.81.0.102:4056
-CCTV2,http://opdf.top:8088/rtp/239.81.0.115:4056
-CCTV5,http://opdf.top:8088/rtp/239.81.0.232:4056
-CCTV5+,http://opdf.top:8088/rtp/239.81.0.101:4056
-CCTV6,http://opdf.top:8088/rtp/239.81.0.233:4056
-CCTV8,http://opdf.top:8088/rtp/239.81.0.234:4056
-CCTV11,http://opdf.top:8088/rtp/239.81.0.229:4056
-CCTV13,http://opdf.top:8088/rtp/239.81.0.206:4056
+
 
 
 
@@ -862,18 +855,13 @@ CCTV-怀旧剧场,http://xuys.top:8888/udp/225.1.2.173:5002
 火炬手,https://vd3.bdstatic.com/mda-jar0302925j1nwep/hd/mda-jar0302925j1nwep.mp4?pd=19&vt=1&playlist=%5B%22hd%22%5D
 
 星爷全集,#genre#
-电影星爷@代,http://cfss.cc/cdn/hy/11342412.flv
+
 周星驰典@代,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
-红色轮播@代,http://mywlkj.ddns.net:754/tv/migu.php?id=hslbt
 绝版电影@代,https://lunbo.freetv.top/yy/1455988450
-绝版电影@部,https://lunbo.freetv.top/yy/1355263385
 周星驰,http://zby.xjqxz.top/live12/live.m3u8
 星爷随机播,http://124.248.69.76:35455/huya/11342412
-电影_周星星,https://live.metshop.top/huya/11336587
-周星驰1,http://43.138.170.29:35455/yy/1354658049
-周星驰2,http://43.138.170.29:35455/yy/1382736808
+
 回魂夜,https://v3.dious.cc/20220401/y9ihZG1e/index.m3u8
-功夫,https://hnzy.bfvvs.com/play/lej5zYdj/index.m3u8
 功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
 国产凌凌漆,https://ukzy.ukubf4.com/20220330/CVILs5nr/index.m3u8
 国产凌凌漆,https://jisu-xhzy.com/videos/202206/08/62a0fdd0b11cac3eba3b00e0/e260eg/index.m3u8
@@ -1135,7 +1123,6 @@ FOX新闻,https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 
 
 
-//体育直播,#genre#
 
 
 
