@@ -181,14 +181,12 @@ CCTV-风云剧场,http://101.28.51.59:4022/rtp/239.253.93.251:6429
 CCTV-第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
 CCTV-第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIg5Jm9ufDm6djkkrhWP0zlHbXMBq03w%2FgOHENZxE4ay%2BEXqK0XzFFWJtPAReIvdhE
 
-
+CCTV-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
+CCTV-重温经典,http://mtw.so/5NPX0U
 
 CCTV-怀旧剧场,http://119.117.154.100:4022/rtp/232.0.0.38:1234
 CCTV-怀旧剧场,http://60.10.225.157:555/rtp/239.253.93.252:6430
-CCTV-怀旧剧场,http://111.225.115.28:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-怀旧剧场,http://182.32.160.19:9998/udp/226.1.30.99:6000
-CCTV-怀旧剧场,http://222.223.118.222:2180/live/hjjc/index.m3u8
-CCTV-怀旧剧场,http://106.115.27.17:9999/tsfile/live/1025_1.m3u8?key=txiptv&playlive=1&down=1$河北电信 酒店
+
 CCTV-怀旧剧场,http://27.30.64.49:15000/udp/239.69.1.89:10174
 
 CCTV-怀旧剧场,http://110.178.52.119:8084/udp/239.1.1.95:8095
@@ -200,9 +198,7 @@ CCTV-怀旧剧场,http://125.36.78.202:8888/rtp/225.1.1.184:5002
 CCTV-怀旧剧场,http://110.241.188.219:808/hls/56/index.m3u8
 CCTV-怀旧剧场,http://gzcx.shaohong86.cn:8888/rtp/238.255.2.33:5999
 CCTV-怀旧剧场,http://xuys.top:8888/udp/225.1.2.173:5002
-CCTV-怀旧剧场,http://hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171903.m3u8
-CCTV-怀旧剧场,http://121.19.134.82:808/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-怀旧剧场,http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/2024171903.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 卫视,#genre#
@@ -648,14 +644,11 @@ CCTV-怀旧剧场,http://120.233.188.118/hlslive-tx-cdn.ysp.cctv.cn/ysp/20241719
 
 我爱我家,http://live.iill.top/yy.php?id=1382735557
 我爱我家,http://43.138.170.29:35455/yy/1356212303
-编辑部的故事,https://live.metshop.top/yy/1354936120
 东北一家人,https://www.goodiptv.club/douyu/7642724
 武林外传,http://live.iill.top/yy.php?id=1355652820
 来自星星的你,http://live.iill.top/yy.php?id=1354930976
-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-重温经典,http://mtw.so/5NPX0U
+
 金庸剧场,http://live.dxms.top/dwy/jyjc.php
-星光剧场,http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 经典喜剧,http://live.dxms.top/dwy/jdxj1.php
 经典喜剧,http://live.dxms.top/dwy/jdxj.php
 抗战剧,http://live.iill.top/yy.php?id=1507704566
@@ -1180,7 +1173,7 @@ beINSports,P2p://generationnexxxt.com:19806/eefa5931a750470d8a3267932e36c644
 橙記Orange,https://www.goodiptv.club/douyu/4549169
 粤语电影,https://www.goodiptv.club/douyu/1226741
 一起看港剧,https://www.goodiptv.club/douyu/5061550
-青丝染霜华,https://www.goodiptv.club/douyu/11656555
+
 永远快乐的小美女,https://www.goodiptv.club/douyu/6091425
 
 珍珠奶茶嗯哼哎哟,https://www.goodiptv.club/douyu/6566671
