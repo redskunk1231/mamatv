@@ -1039,8 +1039,7 @@ CCTV-怀旧剧场,http://122.152.202.33/s/81a8a44f/index.m3u8?id=bak1_89
 东北一家人,https://www.goodiptv.club/douyu/7642724
 武林外传,http://live.iill.top/yy.php?id=1355652820
 来自星星的你,http://live.iill.top/yy.php?id=1354930976
-夏洛特烦恼,https://www.goodiptv.club/yy/1354936201
-金庸剧场,http://live.dxms.top/dwy/jyjc.php
+金庸剧场鹿鼎记陈小春版,http://live.dxms.top/dwy/jyjc.php
 经典喜剧,http://live.dxms.top/dwy/jdxj1.php
 经典喜剧,http://live.dxms.top/dwy/jdxj.php
 抗战剧,http://live.iill.top/yy.php?id=1507704566
@@ -1236,14 +1235,7 @@ CCTV-怀旧剧场,http://122.152.202.33/s/81a8a44f/index.m3u8?id=bak1_89
 
 鬼舞村：詛咒起源,https://v12.tlkqc.com/wjv12/202408/04/UJGTrrEASp84/video/index.m3u8
 毒液：致命守护者,https://www.goodiptv.club/yy/1382745095
-#EXTINF:-1 group-title="🆕专享电影",九品芝麻官
-https://www.goodiptv.club/yy/1354930968
-#EXTINF:-1 group-title="🆕专享电影",鹿鼎记
-https://lunbo.freetv.top/yy/1354658049
-#EXTINF:-1 group-title="🆕专享电影",我不是药神
-https://vip.ffzy-play1.com/20221018/478_c3afed66/index.m3u8
-#EXTINF:-1 group-title="🆕专享电影",让子弹飞
-https://vip.ffzy-play7.com/20230116/11563_b9f44814/index.m3u8
+
 
 
 
