@@ -1232,7 +1232,7 @@ CCTV-怀旧剧场,http://110.178.52.119:8084/udp/239.1.1.95:8095
 狄仁杰之天宫蜃楼,https://v9.tlkqc.com/wjv9/202408/06/p7712pXCuV81/video/index.m3u8
 
 
-鬼舞村：詛咒起源,https://v12.tlkqc.com/wjv12/202408/04/UJGTrrEASp84/video/index.m3u8
+鬼舞村：詛咒源,https://v12.tlkqc.com/wjv12/202408/04/UJGTrrEASp84/video/index.m3u8
 毒液：致命守护者,https://www.goodiptv.club/yy/1382745095
 
 
@@ -1395,9 +1395,6 @@ CCTV-怀旧剧场,http://110.178.52.119:8084/udp/239.1.1.95:8095
 无线新闻,http://line.premiumpowers.net/play/live.php?mac=00:1A:79:BF:D2:44&extension=ts&stream=153399
 无线新闻,http://r.jdshipin.com/CkuBd
 
-TVB-Plus,http://ncdsrti.7766.org:7550/hls/chunklistxufkwjw.m3u8
-TVB-Plus,http://ha.jmied.com/aa/aa.m3u8?auth_key=1661958232-0-0-114df08fce17ecb21f6bf42de85e7600
-TVB-Plus,http://138.113.24.59/libof.kesx.top/live/5658kwkojtz.m3u8
 凤凰中文,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
 凤凰资讯,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
 凤凰香港,http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
@@ -1748,32 +1745,7 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 芒果酱Mangoo,https://www.goodiptv.club/douyu/138959
 飘洋过海来,https://www.goodiptv.club/douyu/9548850
 
-埋堆堆 1,http://live.iill.top/huya.php?id=23740156
-埋堆堆 2,http://live.iill.top/huya.php?id=23749096
-埋堆堆 3,http://live.iill.top/huya.php?id=23735126
-埋堆堆 4,http://live.iill.top/huya.php?id=23903123
-埋堆堆 5,http://live.iill.top/huya.php?id=23734169
-埋堆堆 6,http://live.iill.top/huya.php?id=23863804
-埋堆堆 7,http://live.iill.top/huya.php?id=23865080
-埋堆堆 8,http://live.iill.top/huya.php?id=23864973
-埋堆堆 9,http://live.iill.top/huya.php?id=23903130
-埋堆堆 10,http://live.iill.top/huya.php?id=23860039
-埋堆堆 11,http://live.iill.top/huya.php?id=23903183
-埋堆堆 12,http://live.iill.top/huya.php?id=23903196
-埋堆堆 13,http://live.iill.top/huya.php?id=23728674
-埋堆堆 14,http://live.iill.top/huya.php?id=23865036
-埋堆堆 15,http://live.iill.top/huya.php?id=23829543
-埋堆堆 16,http://live.iill.top/huya.php?id=23865161
-埋堆堆 17,http://live.iill.top/huya.php?id=23865058
-埋堆堆 18,http://live.iill.top/huya.php?id=23824164
-埋堆堆 19,http://live.iill.top/huya.php?id=23863796
-埋堆堆 20,http://live.iill.top/huya.php?id=23734183
-埋堆堆 21,http://live.iill.top/huya.php?id=23728660
-埋堆堆 22,http://live.iill.top/huya.php?id=23865142
-埋堆堆 23,http://live.iill.top/huya.php?id=23734246
-埋堆堆 24,http://live.iill.top/huya.php?id=23865171
-埋堆堆 25,http://live.iill.top/huya.php?id=23734256
-埋堆堆 26,http://live.iill.top/huya.php?id=23749083
+
 
 
 纪录片频道,#genre#
