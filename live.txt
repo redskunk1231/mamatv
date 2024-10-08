@@ -229,6 +229,12 @@ CCTV-重温经典,http://mtw.so/5NPX0U
 
 CCTV-怀旧剧场,http://119.135.1.16:6699/live/1088/index.m3u8
 CCTV-怀旧剧场,http://119.114.35.209:9901/tsfile/live/1085_1.m3u8
+CCTV-怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
+CCTV-怀旧剧场,http://wouu.net:9977/udp/239.93.1.198:5140
+CCTV-怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
+CCTV-怀旧剧场,http://wuqianmu.synology.me:4000/udp/232.0.0.38:1234
+CCTV-怀旧剧场,http://xuys.top:8888/udp/225.1.2.173:5002
+CCTV-怀旧剧场,http://121.227.3.248:5555/rtp/239.49.8.91:8000
 
 
 
