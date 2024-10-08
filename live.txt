@@ -228,10 +228,7 @@ CCTV-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CCTV-重温经典,http://mtw.so/5NPX0U
 
 CCTV-怀旧剧场,http://119.135.1.16:6699/live/1088/index.m3u8
-CCTV-怀旧剧场,http://60.10.225.157:555/rtp/239.253.93.252:6430$河北联通组播
-CCTV-怀旧剧场,rtsp://115.153.233.154/PLTV/88888888/224/3221226996/86128881.smil
-CCTV-怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-CCTV-怀旧剧场,http://111.32.169.222/bkhlsliveali-cdn.ysp.cctv.cn/ysp/2012511203.m3u8
+CCTV-怀旧剧场,http://119.114.35.209:9901/tsfile/live/1085_1.m3u8
 
 
 
