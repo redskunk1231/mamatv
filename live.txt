@@ -196,24 +196,23 @@ CCTV13,http://116.117.106.7:8096/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&a
 
 
 
-CCTV-风云剧场,http://60.10.225.157:555/rtp/239.253.93.251:6429
+CCTV-风云剧场,http://1.82.144.44:4022/rtp/239.111.205.66:5140
+CCTV-风云剧场,http://223.10.21.36:8083/udp/239.1.1.93:8093
 
 
 
 
 
-CCTV-第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
+CCTV-第一剧场,http://1.82.144.44:4022/rtp/239.111.205.65:5140
+CCTV-第一剧场,http://223.10.21.36:8083/udp/239.1.1.94:8094
 
 
 CCTV-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CCTV-重温经典,http://mtw.so/5NPX0U
 
-CCTV-怀旧剧场,http://pi.0472.org/live/hjjc.m3u8?token=240413
-CCTV-怀旧剧场,http://nas.hssvm.com:8888/udp/225.1.1.184:5002
-CCTV-怀旧剧场,http://182.32.160.19:9998/udp/226.1.30.99:6000
-CCTV-怀旧剧场,http://hy.baojihzjc.com:9001/rtp/239.111.205.67:5140
-CCTV-怀旧剧场,http://110.178.52.119:8084/udp/239.1.1.95:8095
-
+CCTV-怀旧剧场,http://111.167.49.238:5002/udp/225.1.2.173:5002
+CCTV-怀旧剧场,http://1.82.144.44:4022/rtp/239.111.205.67:5140
+CCTV-怀旧剧场,http://223.10.21.36:8083/udp/239.1.1.95:8095
 
 
 
@@ -667,8 +666,10 @@ CCTV-怀旧剧场,http://110.178.52.119:8084/udp/239.1.1.95:8095
 我爱我家,http://43.138.170.29:35455/yy/1356212303
 我爱我家,https://live.metshop.top/yy/1382735557
 我爱我家,https://www.goodiptv.club/yy/1382735557
-
-
+电影_丧尸片,https://live.metshop.top/huya/21059578
+007全集轮播,http://zby.xjqxz.top/live5/live.m3u8
+中外经典喜剧轮播,http://zby.xjqxz.top/live13/live.m3u8
+抗战专用频道,http://zby.xjqxz.top/kzzypd/live.m3u8
 夏洛特烦恼,https://lunbo.freetv.top/yy/1354936201
 东北一家人,https://www.goodiptv.club/douyu/7642724
 武林外传,http://120.77.28.4:8648/huya.php?id=21059598
@@ -679,7 +680,7 @@ CCTV-怀旧剧场,http://110.178.52.119:8084/udp/239.1.1.95:8095
 来自星星的你,https://www.goodiptv.club/yy/1354930976
 来自星星的你,https://live.metshop.top/yy/1354930976
 
-金庸剧场鹿鼎记陈小春版,http://live.dxms.top/dwy/jyjc.php
+金庸剧场鹿鼎记陈小春版,https://live.metshop.top/huya/23865080
 寻秦记,https://lunbo.freetv.top/yy/1382749900
 封神榜86版,http://live.iill.top/yy.php?id=1353426319
 红楼梦87版,http://live.iill.top/yy.php?id=1382745084
@@ -880,7 +881,7 @@ CCTV-怀旧剧场,http://110.178.52.119:8084/udp/239.1.1.95:8095
 周星驰典@代,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 绝版电影@代,https://lunbo.freetv.top/yy/1455988450
 周星驰,http://zby.xjqxz.top/live12/live.m3u8
-星爷随机播,http://124.248.69.76:35455/huya/11342412
+周星驰专辑轮播,http://zby.xjqxz.top/live12/live.m3u8
 周星驰1,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
 周星驰2,http://diyp.zxxoo.work/douyu/122402
 
