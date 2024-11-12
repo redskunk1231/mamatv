@@ -543,6 +543,7 @@ CCTV-怀旧剧场,http://223.10.21.36:8083/udp/239.1.1.95:8095
 红灯记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/84fd88d42e65413a90b9a8b54b685fde/850.m3u8
 奇袭白虎团,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8d476d0de4a343bd8c77c8a83331fc16/850.m3u8
 智取威虎山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b59e746e354d4c0baefaca2f031eec25/850.m3u8
+
 沙家浜,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/6241c3f25a9a4dda9b05b9ba185500e0/850.m3u8
 红楼梦01,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f66e935661b44ff6b80a290537d5d204/2000.m3u8
 红楼梦02,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/10470613ead24f5cb435137b5f39ab98/2000.m3u8
