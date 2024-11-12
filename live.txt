@@ -10,7 +10,6 @@ CCTV5,http://10.11.43.21/PLTV/88888912/224/3221226423/10000100000000060000000000
 
 CCTV5+,http://10.11.43.21/PLTV/88888912/224/3221226077/10000100000000060000000000662662_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 
-CCTV奥运频道,http://10.11.43.21/PLTV/88888912/224/3221226635/404077257.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 
 CCTV6,http://10.11.43.21/PLTV/88888912/224/3221226426/10000100000000060000000000808425_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 CCTV8,http://10.11.43.21/PLTV/88888912/224/3221226444/10000100000000060000000000808423_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
@@ -194,63 +193,22 @@ CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0SuXozn3alq9%2BUx7ZLG1w9awc14iEUxQ5VsTsr5pEBsmF56tXUfsukRUpygmTCKvAI
 CCTV13,http://116.117.106.7:8096/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$内蒙古联通 酒店
 
-CCTV奥运频道,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV奥运频道,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
-CCTV奥运频道,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
-CCTV奥运频道,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
-CCTV奥运频道,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
+
 
 
 CCTV-风云剧场,http://60.10.225.157:555/rtp/239.253.93.251:6429
-CCTV-风云剧场,http://101.28.51.59:4022/rtp/239.253.93.251:6429
-CCTV-风云剧场,http://tvbox6.com/tv/ysp.php?id=26
-CCTV-风云剧场,http://113.103.253.56:2000/udp/239.11.0.65:1025
-CCTV-风云剧场,http://121.19.134.82:808/tsfile/live/1034_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-风云剧场,http://183.236.154.137:8602/udp/239.11.0.65:1025
-CCTV-风云剧场,http://gzcx.shaohong86.cn:8888/rtp/238.255.2.28:5999
-CCTV-风云剧场,http://xuys.top:8888/udp/225.1.2.174:5002
-CCTV-风云剧场,http://110.241.188.219:808/hls/57/index.m3u8
-CCTV-风云剧场,http://122.152.202.33/s/81a8a44f/index.m3u8?id=bak1_91
+
 
 
 
 
 CCTV-第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/1.m3u8?m3u8_level=2
-CCTV-第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?AuthInfo=toEYVdLfxymUP2l9NZpQIxzzxEhTjOtZryLHMXreoGIg5Jm9ufDm6djkkrhWP0zlHbXMBq03w%2FgOHENZxE4ay%2BEXqK0XzFFWJtPAReIvdhE
-CCTV-第一剧场,https://epg.pw/stream/5786b35cc03d1123a37e180495579c6e0fbd339c32542307be9a2e4388e04925.m3u8
-CCTV-第一剧场,http://gzcx.shaohong86.cn:8888/rtp/238.255.2.25:5999
-CCTV-第一剧场,http://183.236.154.137:8602/udp/239.11.0.67:1025
-CCTV-第一剧场,http://58.19.38.162:9901/tsfile/live/1035_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-第一剧场,http://tvbox6.com/tv/ysp.php?id=24
-CCTV-第一剧场,http://xuys.top:8888/udp/225.1.2.175:5002
-CCTV-第一剧场,http://121.19.134.82:808/tsfile/live/1033_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV-第一剧场,http://113.103.253.56:2000/udp/239.11.0.67:1025
-CCTV-第一剧场,http://122.152.202.33/s/81a8a44f/index.m3u8?id=bak1_90
+
 
 CCTV-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CCTV-重温经典,http://mtw.so/5NPX0U
 
-CCTV-怀旧剧场,http://www.xingwen.online:9810/rtp/239.253.93.252:6430$河北联通组播
-CCTV-怀旧剧场,http://ha.xushining.com:50000/udp/225.1.2.173:5002$天津联通组播
-CCTV-怀旧剧场,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226318/2/index.m3u8$江西移动
-CCTV-怀旧剧场,rtsp://115.153.233.154/PLTV/88888888/224/3221226996/86128881.smil$江西电信
-CCTV-怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
-CCTV-怀旧剧场,http://wuqianmu.synology.me:4000/udp/232.0.0.38:1234
-CCTV-怀旧剧场,http://xuys.top:8888/udp/225.1.2.173:5002
-CCTV-怀旧剧场,http://121.227.3.248:5555/rtp/239.49.8.91:8000
-CCTV-怀旧剧场,http://60.10.225.157:555/rtp/239.253.93.252:6430$河北联通组播
-CCTV-怀旧剧场,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8$重庆广电FHD
-CCTV-怀旧剧场,http://www.lizhinas.top:8688/rtp/239.252.219.90:5140$江西cmc3+
-CCTV-怀旧剧场,http://mryx.fun:1025/udp/239.11.0.64:1025
-
-
-
-
-
-
-
-
-
+CCTV-怀旧剧场,http://pi.0472.org/live/hjjc.m3u8?token=240413
 
 
 
@@ -697,28 +655,33 @@ CCTV-怀旧剧场,http://mryx.fun:1025/udp/239.11.0.64:1025
 
 经典剧集,#genre#
 
+我爱我家,http://120.77.28.4:8648/yy.php?id=1382735557
+我爱我家,http://11.xmyxc.cn/api/php/yy.php?id=1356212303
+
 我爱我家,http://live.iill.top/yy.php?id=1382735557
 我爱我家,http://43.138.170.29:35455/yy/1356212303
 我爱我家,https://live.metshop.top/yy/1382735557
 我爱我家,https://www.goodiptv.club/yy/1382735557
 
+
 夏洛特烦恼,https://lunbo.freetv.top/yy/1354936201
 东北一家人,https://www.goodiptv.club/douyu/7642724
-武林外传,http://live.iill.top/yy.php?id=1355652820
-
+武林外传,http://120.77.28.4:8648/huya.php?id=21059598
+武林外传,http://cfss.cc/cdn/hy/21059598.flv
+武林外传,http://120.77.28.4:8648/yy.php?id=1355652820
+武林外传,http://zby.xjqxz.top/live10/live.m3u8
 来自星星的你,http://live.iill.top/yy.php?id=1354930976
 来自星星的你,https://www.goodiptv.club/yy/1354930976
 来自星星的你,https://live.metshop.top/yy/1354930976
 
 金庸剧场鹿鼎记陈小春版,http://live.dxms.top/dwy/jyjc.php
 寻秦记,https://lunbo.freetv.top/yy/1382749900
-经典喜剧,http://live.dxms.top/dwy/jdxj1.php
-经典喜剧,http://live.dxms.top/dwy/jdxj.php
 封神榜86版,http://live.iill.top/yy.php?id=1353426319
 红楼梦87版,http://live.iill.top/yy.php?id=1382745084
 三国演义94版,http://live.iill.top/yy.php?id=1354930932
-新水浒传11版,http://159.75.85.63:35455/huya/11342384?cdn=txcdn
-新水浒传11版,http://159.75.85.63:35455/huya/11342384?cdn=hscdn
+新水浒传11版,http://120.77.28.4:8648/huya.php?id=11342384
+新水浒传11版,http://diyp.zxxoo.work/huya/11342384
+新水浒传11版,http://cfss.cc/cdn/hy/11342384.flv
 新水浒传11版,http://159.75.85.63:35455/huya/11342384?cdn=hwcdn
 天龙八部黄日华版,http://live.iill.top/yy.php?id=1351814644
 神雕侠侣古天乐版,http://159.75.85.63:35455/huya/23865171?cdn=hwcdn
@@ -913,6 +876,8 @@ CCTV-怀旧剧场,http://mryx.fun:1025/udp/239.11.0.64:1025
 绝版电影@代,https://lunbo.freetv.top/yy/1455988450
 周星驰,http://zby.xjqxz.top/live12/live.m3u8
 星爷随机播,http://124.248.69.76:35455/huya/11342412
+周星驰1,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
+周星驰2,http://diyp.zxxoo.work/douyu/122402
 
 回魂夜,https://v3.dious.cc/20220401/y9ihZG1e/index.m3u8
 功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
