@@ -209,6 +209,11 @@ CCTV-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CCTV-重温经典,http://mtw.so/5NPX0U
 
 CCTV-怀旧剧场,http://pi.0472.org/live/hjjc.m3u8?token=240413
+CCTV-怀旧剧场,http://nas.hssvm.com:8888/udp/225.1.1.184:5002
+CCTV-怀旧剧场,http://182.32.160.19:9998/udp/226.1.30.99:6000
+CCTV-怀旧剧场,http://hy.baojihzjc.com:9001/rtp/239.111.205.67:5140
+CCTV-怀旧剧场,http://110.178.52.119:8084/udp/239.1.1.95:8095
+
 
 
 
