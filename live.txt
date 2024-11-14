@@ -668,10 +668,7 @@ CCTV-怀旧剧场,http://223.10.21.36:8083/udp/239.1.1.95:8095
 我爱我家,http://43.138.170.29:35455/yy/1356212303
 我爱我家,https://live.metshop.top/yy/1382735557
 我爱我家,https://www.goodiptv.club/yy/1382735557
-电影_丧尸片,https://live.metshop.top/huya/21059578
-007全集轮播,http://zby.xjqxz.top/live5/live.m3u8
-中外经典喜剧轮播,http://zby.xjqxz.top/live13/live.m3u8
-抗战专用频道,http://zby.xjqxz.top/kzzypd/live.m3u8
+
 夏洛特烦恼,https://lunbo.freetv.top/yy/1354936201
 东北一家人,https://www.goodiptv.club/douyu/7642724
 武林外传,http://120.77.28.4:8648/huya.php?id=21059598
