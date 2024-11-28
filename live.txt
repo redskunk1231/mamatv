@@ -192,15 +192,11 @@ CCTV-第一剧场,http://223.10.21.36:8083/udp/239.1.1.94:8094
 CCTV-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CCTV-重温经典,http://mtw.so/5NPX0U
 
-CCTV-怀旧剧场,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221226318/2/index.m3u8$江西移动
-CCTV-怀旧剧场,rtsp://115.153.233.154/PLTV/88888888/224/3221226996/86128881.smil$江西电信
-CCTV-怀旧剧场,http://60.10.225.157:555/rtp/239.253.93.252:6430$河北联通组播
-CCTV-怀旧剧场,http://cqcbn1.live.cbncdn.cn:8090/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8$重庆广电FHD
-CCTV-怀旧剧场,http://www.lizhinas.top:8688/rtp/239.252.219.90:5140$江西cmc3+
-CCTV-怀旧剧场,http://mryx.fun:1025/udp/239.11.0.64:1025
-CCTV-怀旧剧场,http://nas.hssvm.com:8888/udp/225.1.2.173:5002$天津联通组播
-CCTV-怀旧剧场,http://60.7.56.33:4000/rtp/239.253.93.252:6430$河北联通组播
-CCTV-怀旧剧场,http://ha.xushining.com:50000/udp/225.1.2.173:5002$天津联通组播
+CCTV-怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
+CCTV-怀旧剧场,http://111.167.49.238:5002/udp/225.1.2.173:5002
+CCTV-怀旧剧场,http://223.10.21.36:8083/udp/239.1.1.95:8095
+CCTV-怀旧剧场,http://1.82.144.44:4022/rtp/239.111.205.67:5140
+CCTV-怀旧剧场,http://183.53.109.145:9003//hls/122/index.m3u8
 
 
 卫视,#genre#
@@ -210,13 +206,11 @@ CCTV-怀旧剧场,http://ha.xushining.com:50000/udp/225.1.2.173:5002$天津联�
 内蒙古新闻综合,https://epg.pw/stream/be7e252270432ee9f17312a39a1f303c3d89f55594ed1d36f9ba46cc61e7a1a5.m3u8
 
 
-内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
+内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
 内蒙古经济生活,https://epg.pw/stream/84d6cddfeecc1983c80fb3222360e9838f5122e13c283e4fea1a84a76d648b61.m3u8
 内蒙古经济生活,http://10.11.43.21/PLTV/88888912/224/3221226113/10000100000000060000000000784886_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
-内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
 
-内蒙古新闻综合,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000636
-内蒙古经济生活,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000640
+
 
 
 
@@ -646,6 +640,7 @@ CCTV-怀旧剧场,http://ha.xushining.com:50000/udp/225.1.2.173:5002$天津联�
 我爱我家,http://120.77.28.4:8648/yy.php?id=1382735557
 我爱我家,http://11.xmyxc.cn/api/php/yy.php?id=1356212303
 
+
 我爱我家,http://live.iill.top/yy.php?id=1382735557
 我爱我家,http://43.138.170.29:35455/yy/1356212303
 我爱我家,https://live.metshop.top/yy/1382735557
@@ -660,7 +655,7 @@ CCTV-怀旧剧场,http://ha.xushining.com:50000/udp/225.1.2.173:5002$天津联�
 来自星星的你,http://live.iill.top/yy.php?id=1354930976
 来自星星的你,https://www.goodiptv.club/yy/1354930976
 来自星星的你,https://live.metshop.top/yy/1354930976
-
+征服孙红雷,http://120.77.28.4:8648/douyu.php?id=2726977
 金庸剧场鹿鼎记陈小春版,https://live.metshop.top/huya/23865080
 寻秦记,https://lunbo.freetv.top/yy/1382749900
 封神榜86版,http://live.iill.top/yy.php?id=1353426319
@@ -858,7 +853,8 @@ CCTV-怀旧剧场,http://ha.xushining.com:50000/udp/225.1.2.173:5002$天津联�
 火炬手,https://vd3.bdstatic.com/mda-jar0302925j1nwep/hd/mda-jar0302925j1nwep.mp4?pd=19&vt=1&playlist=%5B%22hd%22%5D
 
 星爷全集,#genre#
-
+粤语星爷电影,http://159.75.85.63:35455/huya/11336587
+粤语星爷电影,http://cfss.cc/cdn/hy/11336587.m3u8
 周星驰典@代,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
 绝版电影@代,https://lunbo.freetv.top/yy/1455988450
 周星驰,http://zby.xjqxz.top/live12/live.m3u8
@@ -1941,6 +1937,304 @@ MTV,#genre#
 周华健-温柔的瞬息,http://em.21dtv.com/songs/60090835.mkv
 周慧敏-痴心换情深,http://vodcdn.video.taobao.com/oss/ali-video/aa07f0b5c8a36740b3bee03d69a4116c/video.m3u8
 周蕙-如果没有你,http://em.21dtv.com/songs/60036826.mkv
+
+全球体育,#genre#
+TNT Sport 1,https://live.hg16888.vip/beesport/TNT_Sports_1
+TNT Sport 2,https://live.hg16888.vip/beesport/TNT_Sports_2
+TNT Sport 3,https://live.hg16888.vip/beesport/TNT_Sports_3
+TNT Sport 4,https://live.hg16888.vip/beesport/TNT_Sports_4
+Sky Sports Football,https://live.hg16888.vip/beesport/Sky_Sports_Football_Live_TV
+Sky Sports Main Event,https://live.hg16888.vip/beesport/Sky_Sports_Main_Event
+Sky Sports Premier League,https://live.hg16888.vip/beesport/Sky_Sports_Premier_League
+Sky Sports Action,https://live.hg16888.vip/beesport/Sky_Sports_Action_Live_TV
+Sky Sports Mix,https://live.hg16888.vip/beesport/Sky_Sports_Mix_Live_TV
+Sky Sports Arena,https://live.hg16888.vip/beesport/Sky_Sports_Arena_Live_TV
+Sky Sports News,https://live.hg16888.vip/beesport/Sky_Sports_News_Live_TV
+Sky Sports Cricket,https://live.hg16888.vip/beesport/Sky_Sports_Cricket_Live_TV
+Sky Sports Tennis,https://live.hg16888.vip/beesport/Sky_Sports_Tennis
+Sky Sports F1,https://live.hg16888.vip/beesport/Sky_Sports_F1_Live_TV
+Sky Sports Golf,https://live.hg16888.vip/beesport/Sky_Sports_Golf_Live_TV
+Sky Sports Racing,https://live.hg16888.vip/beesport/Sky_Sports_Racing_Live_TV
+Tennis Channel,https://live.hg16888.vip/beesport/Tennis_Channel_Live_TV
+LaLiga TV,https://live.hg16888.vip/beesport/La_Liga_TV_Live_TV
+DAZN,https://live.hg16888.vip/beesport/DAZN_Live_TV
+Bein Sports USA,https://live.hg16888.vip/beesport/Bein_Sports_USA_Live_TV
+Bein Sports English 2,https://live.hg16888.vip/beesport/Bein_Sports_English_2_Live_TV
+ SuperSport Premier League,https://live.hg16888.vip/beesport/SuperSport_Premier_League_Live_TV
+SuperSport LaLiga,https://live.hg16888.vip/beesport/SuperSport_LaLiga_Live_TV
+SuperSport Action,https://live.hg16888.vip/beesport/SuperSport_Action_Live_TV
+ SuperSport Blitz,https://live.hg16888.vip/beesport/SuperSport_Blitz_Live_TV
+SuperSport Cricket,https://live.hg16888.vip/beesport/SuperSport_Cricket_Live_TV
+SuperSport Football,https://live.hg16888.vip/beesport/SuperSport_Football_Live_TV
+SuperSport Golf,https://live.hg16888.vip/beesport/SuperSport_Golf_Live_TV
+SuperSport Rugby,https://live.hg16888.vip/beesport/SuperSport_Rugby_Live_TV
+SuperSport Tennis,https://live.hg16888.vip/beesport/SuperSport_Tennis_Live_TV
+Variety 1,https://live.hg16888.vip/beesport/Variety_1_Live_TV
+Variety 2,https://live.hg16888.vip/beesport/Variety_2_Live_TV
+Variety 3,https://live.hg16888.vip/beesport/Variety_3_Live_TV
+Variety 4,https://live.hg16888.vip/beesport/Variety_4_Live_TV
+Eurosport 1,https://live.hg16888.vip/beesport/Eurosport_1_Live_TV
+Eurosport 2,https://live.hg16888.vip/beesport/Eurosport_2_Live_TV
+Premier Sports 1,https://live.hg16888.vip/beesport/Premier_Sports_1
+Premier Sports 2,https://live.hg16888.vip/beesport/Premier_Sports_2
+Golf Channel,https://live.hg16888.vip/beesport/Golf_Channel_Live_TV
+MLB Network,https://live.hg16888.vip/beesport/MLB_Network_Live_TV
+NBA TV,https://live.hg16888.vip/beesport/NBA_TV_Live_TV
+NFL Network,https://live.hg16888.vip/beesport/NFL_Network_Live_TV
+NFL Redzone,https://live.hg16888.vip/beesport/NFL_REDZONE_Live_TV
+NHL Network,https://live.hg16888.vip/beesport/NHL_Network_Live_TV
+WWE,https://live.hg16888.vip/beesport/WWE_Live_TV
+Willow Cricket,https://live.hg16888.vip/beesport/Willow_Cricket_Live_TV
+Willow Extra,https://live.hg16888.vip/beesport/Willow_Extra_Live_TV
+World Fishing Network,https://live.hg16888.vip/beesport/World_Fishing_Network_Live_TV
+Fight Network,https://live.hg16888.vip/beesport/Fight_Network_Live_TV
+ESPN,https://live.hg16888.vip/beesport/ESPN_Live_TV
+ESPN 2,https://live.hg16888.vip/beesport/ESPN_2_Live_TV
+ESPN News,https://live.hg16888.vip/beesport/ESPN_News_Live_TV
+ESPN U,https://live.hg16888.vip/beesport/ESPN_U_Live_TV
+MUTV,https://live.hg16888.vip/beesport/MUTV_Live_TV
+LFC TV,https://live.hg16888.vip/beesport/LFC_TV_Live_TV
+ACC Network,https://live.hg16888.vip/beesport/ACC_Network_Live_TV
+CBS Sports Network,https://live.hg16888.vip/beesport/CBS_Sports_Network_Live_TV
+Fox Sports 1,https://live.hg16888.vip/beesport/Fox_Sports_1_Live_TV
+Fox Sports 2,https://live.hg16888.vip/beesport/Fox_Sports_2_Live_TV
+CCTV-5,p3p://108.181.32.169:31277/64260cb0000afd53edfb140f10811127
+CCTV-5+,p3p://108.181.32.169:31277/64260cbc00081417edfb42307c984dd4
+EPL nsports 英超4keng,p3p://108.181.32.169:31277/64d74cf7000556f0223ed6366e5f689a
+EPL nsports 英超1eng,p3p://108.181.32.169:31277/64d74cb1000cc276223dc6ac654a2299
+EPL nsports 英超4k1粤语,p3p://108.181.32.169:31277/64d74ca40007202e223d927267473868
+EPL nsports 英超 粤语,p3p://108.181.32.169:31277/64d74c1600083555223b68096e79387e
+Now体育630,p3p://108.181.32.169:31277/64b8f92b000089e02be334b114c32320
+Now plus,p3p://108.181.32.169:31277/64b8f962000df4a32be40ef90d9f4afd
+NOW 体育台,p3p://108.181.32.169:31277/6410211d00048968985b4de16d6e5b6a
+Now体育1 Sports 1,p3p://108.181.32.169:31277/643361f20007b9a9220fabfc3001244e
+Now体育2 Sports 2,p3p://108.181.32.169:31277/643362090006b031221005903b883d07
+Now体育3 Sports 3,p3p://108.181.32.169:31277/6433621d000d9c3522105573223958e1
+Now体育4 Sports 4,p3p://108.181.32.169:31277/6437999f00025f983289265f38ef3722
+Now体育5 Sports 5,p3p://108.181.32.169:31277/643799aa000e7bac3289547135e05a80
+Now体育6 Sports 6,p3p://108.181.32.169:31277/643799bb00044f193289943e2e5f6ac1
+Now体育7 Sports 7,p3p://108.181.32.169:31277/643799ca000a29a43289d0542d57262c
+ELEVEN 体育1,p3p://108.181.32.169:31277/6425227b000100c6ea6832842d41783a
+ELEVEN 体育2,p3p://108.181.32.169:31277/64252292000127feea688c6630d312e7
+ELTA体育1台,p3p://108.181.32.169:31277/6425229e00024ab4ea68bb9154ab1928
+ELTA体育2台,p3p://108.181.32.169:31277/642522b0000a6c14ea6903f615622aab
+ELTA体育3台,p3p://108.181.32.169:31277/642522bd000ad1bbea6936d803e32fc0
+ELTA体育3台国语,p3p://108.181.32.169:31277/6433e3220006392724084f1711880c01
+博斯运动一台,p3p://108.181.32.169:31277/642d000d000525a509217d5a62e868e8
+博斯魅力,p3p://108.181.32.169:31277/642d395d0004e9950a015dce389f4c91
+博斯网球台,p3p://108.181.32.169:31277/642d0029000bd7e70921ec71212f5735
+博斯运动二台,p3p://108.181.32.169:31277/642d0087000484c5092359c47ee4201a
+博斯高球台,p3p://108.181.32.169:31277/642d009f000f1f000923ba3b26b667e4
+博斯高球二台,p3p://108.181.32.169:31277/642d00ae000e846a0923f4ac45c06f09
+博斯无限台,p3p://108.181.32.169:31277/642d00bf00041ae7092434690ae526c7
+ASSP1(a),p3p://108.181.32.169:31277/6412459f000acfeba0b9eb4448574dee
+ASSP1(b),p3p://108.181.32.169:31277/641245bc0008335da0ba5be15de04db6
+ASSP2(a),p3p://108.181.32.169:31277/641245e30005d242a0baf39e4a3f4a03
+ASSP2(b),p3p://108.181.32.169:31277/641245fd000a6c90a0bb5a5b3f082922
+ASSP3(a),p3p://108.181.32.169:31277/6412462100081e2fa0bbe66467ee6505
+ASSP3(b),p3p://108.181.32.169:31277/6412463b00023f3ca0bc4a7430ab0660
+ASSP4(a),p3p://108.181.32.169:31277/64124658000ad2c0a0bcbdee020d5132
+ASSP4(b),p3p://108.181.32.169:31277/641246e00009e30fa0bed0f161d56da7
+ASSP5(a),p3p://108.181.32.169:31277/641246fc0003baafa0bf3cbe4c8736d8
+ASSP5(b),p3p://108.181.32.169:31277/6412471a00065484a0bfb29809e370b5
+Golf Channel USA my,p3p://108.181.32.169:31277/64311ed10003b7461939aaa6737c19fe
+Golf Channel tw,p3p://108.181.32.169:31277/64311ec30002641e1939739f2a9f6e82
+Golf SuperSports,p3p://108.181.32.169:31277/64311edf000047af1939e0754ac733f5
+Spotv,p3p://108.181.32.169:31277/6481dc3c00077243549b8cd35b4f0f7f
+Bola Arena1,p3p://108.181.32.169:31277/641245040004d52aa0b78c446be55863
+Bola Arena2,p3p://108.181.32.169:31277/64124524000e86a3a0b80bbf421014d4
+Astro Arena,p3p://108.181.32.169:31277/6412454a0000fbb4a0b89cb81723411e
+Astro Arena 1,p3p://108.181.32.169:31277/64124580000df2d5a0b972fa5e5d3940
+Astro Arena 2,p3p://108.181.32.169:31277/64124568000c643aa0b914d41041515b
+BeIN Sports,p3p://108.181.32.169:31277/641381d2000619c4a58d111123107b6d
+BeIN Max Sports,p3p://108.181.32.169:31277/641381e300044201a58d534366ce199d
+WWE Network,p3p://108.181.32.169:31277/641381f6000cd704a58d9fae064d2ede
+Golf Channel SKY SPORT,p3p://108.181.32.169:31277/6413821c000b77b6a58e33c27f83093b
+TSN 1,p3p://108.181.32.169:31277/643119270003db6719238a985be41867
+TSN 2,p3p://108.181.32.169:31277/64311978000dc8961924c98b13117b70
+TSN 3,p3p://108.181.32.169:31277/64311ac1000558571929cc872ad35eec
+TSN 4,p3p://108.181.32.169:31277/64311b14000f390a192b13475a166e90
+TSN 5,p3p://108.181.32.169:31277/64311b67000c0613192c56ad05b518b5
+ESPN 1,p3p://108.181.32.169:31277/64311ba20007409b192d3bec4f60079a
+ESPN 2,p3p://108.181.32.169:31277/64311d29000d2a3b193334cb71ba3db4
+ESPN 3,p3p://108.181.32.169:31277/64311e68000a2a1d1938121f51b1501b
+NBA TV,p3p://108.181.32.169:31277/64311e75000090631938427279742fef
+NBA TV(b),p3p://108.181.32.169:31277/64311e81000176281938718d4b003c1b
+beIN Sports 1,p3p://108.181.32.169:31277/64311e93000ba7aa1938ba7e1e4b3642
+beIN Sports 2,p3p://108.181.32.169:31277/64311ea0000526211938eb9c63bc100c
+beIN Sports 3,p3p://108.181.32.169:31277/64311eac00023ce5193919bd41e13e59
+WWE Network,p3p://108.181.32.169:31277/64311eec0001de06193a13a553747072
+WWE HD backup,p3p://108.181.32.169:31277/642fa8b7000065051384543f2842233e
+Fight Sports T,p3p://108.181.32.169:31277/64311efc000d6103193a55176c7f5df0
+UFC Fight Pass UK,p3p://108.181.32.169:31277/64311f0a0003c10b193a89517a060079
+MUTV,p3p://108.181.32.169:31277/64311f27000ef2df193afd76183366ae
+MUTV Backup,p3p://108.181.32.169:31277/643125570009d890195327a22a5d7ee1
+Tennis Channel,p3p://108.181.32.169:31277/6431257d000c445b1953bcb05b6e7e1a
+SONY SIX HD,p3p://108.181.32.169:31277/6431258f00078b1a195401ca779371a1
+SONY TEN 1,p3p://108.181.32.169:31277/643125a30006d14d19544fbb7da27f2a
+SONY TEN 2 HD,p3p://108.181.32.169:31277/643125b30006aa5919548e3114052626
+SONY TEN 3 HD,p3p://108.181.32.169:31277/643125c20009916d1954c98c31471159
+Sony TEN 4,p3p://108.181.32.169:31277/643125d2000a5e391955084066b953b5
+SuperSport Cricket TL,p3p://108.181.32.169:31277/643125e8000da3e019555f0767a373ec
+SKY SPORTS CRICKET HD,p3p://108.181.32.169:31277/643125f6000c1bc9195595521266639c
+ASTRO Cricket,p3p://108.181.32.169:31277/6431265d0001c1b519572503322821da
+WILLOW CRICKET,p3p://108.181.32.169:31277/6431266a00044bcc1957587229c344de
+SKY SPORT F1,p3p://108.181.32.169:31277/64312677000c166b19578d3854af5dbc
+Fox Sports News AU,p3p://108.181.32.169:31277/64312683000d39211957bc627ed1087d
+Fox Sports 501 AU,p3p://108.181.32.169:31277/643127000001d7eb1959a1c15b2e5498
+Fox Sports 502 AU,p3p://108.181.32.169:31277/6431270b000a24ff1959ced93173500e
+Fox Sports 503 AU,p3p://108.181.32.169:31277/6431271a00081cc9195a08ec32034279
+Fox Sports 504 AU,p3p://108.181.32.169:31277/6431272a0000d1b5195a458e5f7560f2
+Fox Sports 505 AU,p3p://108.181.32.169:31277/6431273a000479c1195a84fe134c0433
+Fox Sports 506 AU,p3p://108.181.32.169:31277/6431274800023ad9195abb1b74513383
+Fox Sports 507 AU,p3p://108.181.32.169:31277/643127fc0003ca86195d7aa277b31909
+Fox Sport 1,p3p://108.181.32.169:31277/6431280d00013bf3195dbc6232857455
+FIFA Fox sport 1,p3p://108.181.32.169:31277/6431281c000302be195df76f404b53d2
+Fox Sports 2,p3p://108.181.32.169:31277/643128290007b145195e2b6a6384316a
+SKY Racing 1,p3p://108.181.32.169:31277/64312837000aebee195e62ed55557fd9
+SKY Racing 2,p3p://108.181.32.169:31277/64312844000ad7b5195e95b069db4ef2
+Racingcom HD,p3p://108.181.32.169:31277/64312852000912ad195ecbec6de2555f
+FOX Sports Racing HD,p3p://108.181.32.169:31277/64312865000d9bbf195f174e5ec83175
+Ziggo Sport Racing,p3p://108.181.32.169:31277/64312871000b6954195f459e7c10663c
+Dubai Sports 2,p3p://108.181.32.169:31277/6431287f0003edcc195f7a6369cf47b8
+Dubai Sports 2b,p3p://108.181.32.169:31277/64312936000a354e196246d611a14be4
+Dubai Racing 3,p3p://108.181.32.169:31277/64312942000933931962757447382f61
+Racing UK SPORT(UK),p3p://108.181.32.169:31277/6431294f000b80ba1962a8d376855937
+KY SPORTS RACING,p3p://108.181.32.169:31277/6431295b0006afff1962d67737a347d9
+STAR SPORTS 1 HD,p3p://108.181.32.169:31277/643129690000652719630b8b0f766ba7
+Star Sports 2 HD,p3p://108.181.32.169:31277/64312975000bc42d19633d543ad20d2e
+Star Sports Select 1,p3p://108.181.32.169:31277/643129c6000c2bdb196479d77b6f7e96
+Star Sports Select 1b,p3p://108.181.32.169:31277/643129d50004aa151964b2834730348c
+Star Sports Select 2,p3p://108.181.32.169:31277/643129e6000a70531964f6661182226c
+Star Sports Select 2b HD,p3p://108.181.32.169:31277/643129f40005210b19652bb847830d99
+SKY SPORTS FOOTBALL,p3p://108.181.32.169:31277/64312a3d000a7d6c19664a3f15773237
+SKY SPORTS MAIN EVENT,p3p://108.181.32.169:31277/64312a4d0002b877196686c254e3270d
+SKY SPORTS PREMIER LEAGUE,p3p://108.181.32.169:31277/64312a5c000d11031966c4005f4e2e4d
+SKY SPORTS NFL UK,p3p://108.181.32.169:31277/64312a6b000a8eed1966fdf44a0647cc
+SKY Sports News (b),p3p://108.181.32.169:31277/64312a790008c9e5196734307fc34a77
+Sky Sport Arena HD,p3p://108.181.32.169:31277/64312a880002b5bf19676d3a18fb1676
+BT SPORT 1 UK,p3p://108.181.32.169:31277/64312a95000d94a71967a2ca00065aeb
+BT SPORT 2 UK,p3p://108.181.32.169:31277/64312aaa0009428c1967f3b71a5952ed
+BT SPORT 2(b) SPORT(UK,p3p://108.181.32.169:31277/64312aba00036517196830b750ea44d5
+BT Sport 3 FHD UK,p3p://108.181.32.169:31277/64312ace000b3d0b196880d9185f2371
+MLB NETWORK,p3p://108.181.32.169:31277/644fd4d2000d8202912fba3672c5421a
+Sony Ten 1 Sport 1 USA,p3p://108.181.32.169:31277/645fa6e400023cd9cefc142d4d100fb2
+Sony Ten 3 HD USA,p3p://108.181.32.169:31277/645fa6d700056943cefbe23534d84052
+ESPN U HD USA,p3p://108.181.32.169:31277/645fab36000d59f1cf0cf74b44076241
+ESPN 3 USA,p3p://108.181.32.169:31277/645fab49000ca662cf0d415574523331
+Golf Channel USA,p3p://108.181.32.169:31277/645fab54000b6df5cf0d6bfd479148d1
+TSN 1 USA,p3p://108.181.32.169:31277/645fb74800051f03cf3c1b7e48bd434c
+TSN 4 USA,p3p://108.181.32.169:31277/645fb758000165ffcf3c590a38de4f76
+TSN 5 USA,p3p://108.181.32.169:31277/645fb76a0007dccfcf3ca10218644e9c
+WWE USA,p3p://108.181.32.169:31277/6462701400067a04d9ddbe9873b90463
+BEIN SPORTS 11 USA,p3p://108.181.32.169:31277/6463a5b400077f08de9737e474b0055b
+USA: BeIN Sports 4 USA,p3p://108.181.32.169:31277/6463a5cb00045120de9790ec0ec340aa
+USA: BeIN Sports 6 USA,p3p://108.181.32.169:31277/6463a5de00091722de97dc4d0e413139
+beIN Sports USA1,p3p://108.181.32.169:31277/6463a5eb000a7089de980f6e0e9c48d5
+Supersport Premier League USA,p3p://108.181.32.169:31277/6463a5f80008b1c0de9841c45e2d124f
+Supersport Football USA,p3p://108.181.32.169:31277/6463a606000229f7de9876c846553fcc
+Supersport LaLiga USA,p3p://108.181.32.169:31277/6463a6260000ab5fde98f3660a053de2
+SuperSport MaXimo USA,p3p://108.181.32.169:31277/6463a638000409ffde993a937bef2d62
+Supersport Motorsport USA,p3p://108.181.32.169:31277/6463a64500015776de996caa4be276c3
+Supersport PSL USA,p3p://108.181.32.169:31277/6463a8ff000b74a1dea415d470ea7983
+Supersport Variety 3 USA,p3p://108.181.32.169:31277/6463a90d000d7e9adea44d0a511a6930
+Supersport Variety 4USA,p3p://108.181.32.169:31277/6463a926000e1336dea4aed876667f60
+Tennis Channel USA,p3p://108.181.32.169:31277/6463a94a000dac55dea53b5e725857f0
+
+全球电影台,#genre#
+HBO HD my,p3p://108.181.32.169:31277/64137ee50006d7eca581a3b3297e60a3
+HBO tw,p3p://108.181.32.169:31277/64137f0b0006a17fa58238155813216c
+HBO Family my,p3p://108.181.32.169:31277/64137f29000ae5e4a582ae5d42d65d7a
+HBO家庭,p3p://108.181.32.169:31277/64137f3c000d4a86a582f93235111bc5
+HBO Signature my,p3p://108.181.32.169:31277/64137f530000971da5834fca2631479a
+HBO强档,p3p://108.181.32.169:31277/64137f700008f329a583c3344ddf5dfc
+HBO Hits my,p3p://108.181.32.169:31277/64137f85000a578fa58415985b5b1f5d
+HBO原创,p3p://108.181.32.169:31277/64137f970005246ea5845a9326ce6233
+AXN tw,p3p://108.181.32.169:31277/64137fb6000e2555a584d5f94945113b
+Thrill,p3p://108.181.32.169:31277/644a0879000272f67a89b6687af342ae
+AXN tw2,p3p://108.181.32.169:31277/64137fed000660a5a585aad4055228a8
+AXN my,p3p://108.181.32.169:31277/6413800100002d47a585f75e0b4d15d4
+CINEMAX tw,p3p://108.181.32.169:31277/641380160003b61ca5864a4e3d49763a
+Cinemax my,p3p://108.181.32.169:31277/6413802a000969a0a58699e441aa3320
+Animax my,p3p://108.181.32.169:31277/6413803e00077f23a586e786585056af
+Animax tw,p3p://108.181.32.169:31277/6413807500012fe3a587bcbf2e6b7388
+Hits Movies my,p3p://108.181.32.169:31277/6413808800072695a588087e3cc239d1
+TVB 粤语片台 HYTV,p3p://108.181.32.169:31277/641022340009a273985f91092cb6113d
+电影一台,p3p://108.181.32.169:31277/6410224e00097a01985ff68e53d22e70
+CCM 天映经典,p3p://108.181.32.169:31277/64124d990007b0aaa0d9131033d9354a
+CCM 天映经典 CN中英字幕,p3p://108.181.32.169:31277/64124dd500082194a0d9fd8d736a3dff
+Celestial MY 天映,p3p://108.181.32.169:31277/64124e2b000b454ba0db4e4b137c6137
+Celestial MY 天映2,p3p://108.181.32.169:31277/64124e0f00045619a0dadf2552b73bf8
+CatchPlay电影台,p3p://108.181.32.169:31277/64252479000b7f1aea6ffd6177e3015c
+卫视中文 HD Star Chinese,p3p://108.181.32.169:31277/64252507000eefc4ea7228f32f390502
+好莱坞电影台,p3p://108.181.32.169:31277/6425244f0001184fea6f56a70aca63d2
+卫视电影台scm,p3p://108.181.32.169:31277/642525150008a4ecea725e071929091e
+星卫HD电影,p3p://108.181.32.169:31277/642521030009ef43ea62780c438e2a38
+美亚电影台,p3p://108.181.32.169:31277/642525310003ad3cea72ca2155c734c3
+卫视HD电影,p3p://108.181.32.169:31277/6425253c0007ee60ea72f6307ae25fdd
+东森电影台,p3p://108.181.32.169:31277/64253899000a078deabe99ff587050b0
+东森洋片,p3p://108.181.32.169:31277/64251f8a0008854aea5cb6fe64e47b4e
+纬来电影,p3p://108.181.32.169:31277/64251eae0001bef7ea5959e100ae671e
+龙祥电影台,p3p://108.181.32.169:31277/642d014b0009f96e092658cb4e1b23ff
+CCTV-6,p3p://108.181.32.169:31277/64260cc800087ffdedfb712c61a06569
+HBO Signature USA,p3p://108.181.32.169:31277/645fab94000cb9a6cf0e66527fc930bc
+HBO USA,p3p://108.181.32.169:31277/645faf2100095cb2cf1c4442765c172b
+HBO 2 USA,p3p://108.181.32.169:31277/645faf2e00057979cf1c760b55dd62b3
+HBO Comedy USA,p3p://108.181.32.169:31277/645faf390002967ccf1ca046036d356a
+HBO HD SIN USA,p3p://108.181.32.169:31277/645faf4700077bb5cf1cd83772282520
+HBO_West USA,p3p://108.181.32.169:31277/645faf5300023119cf1d05bc76d93f08
+Lifetime USA,p3p://108.181.32.169:31277/6462704200005b24d9de70b7255a7658
+LIFETIME MOVIES USA,p3p://108.181.32.169:31277/6463a5a5000a7afede96fe1018a905c5
+
+焦点知识,#genre#
+国家地理高画质野生,p3p://108.181.32.169:31277/642523f2000e0f35ea6deeb16ff816c9
+历史频道2,p3p://108.181.32.169:31277/642521e0000042a6ea65d4db3e9d23f9
+EYE TV旅游台,p3p://108.181.32.169:31277/642524030003a5b2ea6e2e6f6efc45a1
+探索科学,p3p://108.181.32.169:31277/6425241100084dfbea6e6650539d779f
+亚洲旅游台,p3p://108.181.32.169:31277/642520f70001a86dea62470d303d34d3
+美食星球,p3p://108.181.32.169:31277/6425252400079076ea72985811e07306
+CI 罪案侦查频道crime,p3p://108.181.32.169:31277/642520d9000d93c9ea61d4ea78792b01
+动物星球animal planet,p3p://108.181.32.169:31277/6425241f00027d03ea6e9b836b853b0b
+人间卫视,p3p://108.181.32.169:31277/6425224d00048156ea677fb9420534b4
+大爱电视,p3p://108.181.32.169:31277/6425225a0002859cea67b1ff6aaf6db6
+大爱二台,p3p://108.181.32.169:31277/64252264000022beea67d87308e9122e
+HGTV HD,p3p://108.181.32.169:31277/64138230000a80f9a58e81a3428a31c6
+HGTV TW,p3p://108.181.32.169:31277/641382440002a30ca58ecdbf74a8039c
+AFC AFN,p3p://108.181.32.169:31277/641382600009923ea58f3ce6638b7516
+TLC HD,p3p://108.181.32.169:31277/64138278000b9ab8a58f9b2b5a106790
+TLC旅游生活,p3p://108.181.32.169:31277/6413828d000cff1da58fed8f7d2719cf
+Food Network,p3p://108.181.32.169:31277/641382a10003769fa590393e3fb23f92
+Asia Food Network,p3p://108.181.32.169:31277/641382ce0009fbafa590eab223060296
+E! HD,p3p://108.181.32.169:31277/641382e1000e0ae1a59135f449455b3d
+DMAX HD,p3p://108.181.32.169:31277/6413830e000184eea591e2872b6d66d2
+Travel Channel,p3p://108.181.32.169:31277/6413832400050785a592395d1e6e5cd2
+Travel,p3p://108.181.32.169:31277/6413833b0002906da592929427bc2047
+CI 罪案侦查频道,p3p://108.181.32.169:31277/6413834e0001dcdfa592dc9e70500376
+Animal Planet,p3p://108.181.32.169:31277/64138361000ebac2a5932a2128c72b2e
+NatGeo,p3p://108.181.32.169:31277/6413837500016343a59374d77edf394b
+NatGeo Wild HD,p3p://108.181.32.169:31277/6413838c000428cca593cf656569021f
+HISTORY2,p3p://108.181.32.169:31277/641383a2000b3d73a59427257bb61a15
+Discovery Science,p3p://108.181.32.169:31277/641383bd000eddc3a594917b13206375
+Discovery Science TW,p3p://108.181.32.169:31277/641383d0000ded44a594db7641050686
+Discovery Asia TW,p3p://108.181.32.169:31277/641383e2000df6c4a59521c82bec6fdc
+Discovery Channel,p3p://108.181.32.169:31277/641383f300048101a59561c464b07293
+Love Nature,p3p://108.181.32.169:31277/64138508000471b7a5999bd702f428aa
+MTV LIVE my,p3p://108.181.32.169:31277/641381a8000b2beaa58c6e90661462b5
+nickelodeon MUSIC,p3p://108.181.32.169:31277/6462700200081b15d9dd78b270197060
+Nick Music,p3p://108.181.32.169:31277/6462701400067a04d9ddbe98570c53f1
+Music Choice,p3p://108.181.32.169:31277/64682d3700017fbaf0488e0c4d515f97
+Music Choice - Rap 2K HD,p3p://108.181.32.169:31277/64682d42000bb44ff048bba17fdc1687
+Music Choice - Hip-Hop R,p3p://108.181.32.169:31277/64682d4f000c56e6f048ee933d4966de
+Music Choice - ALTERNATIVE,p3p://108.181.32.169:31277/64682d6200079767f04937936ac935be
+MoviePlex FHD,p3p://108.181.32.169:31277/64682d6e000ead8df049684444cc6e25
+FUSION,p3p://108.181.32.169:31277/64682d86000d9dd7f049c5be62a544dc
+INVESTMENT PITCH,p3p://108.181.32.169:31277/64682d920000784af049f14136c47100
+MTV 2,p3p://108.181.32.169:31277/6465b57200035a76e6a4b4fa39e03456
+MTV CLASSIC,p3p://108.181.32.169:31277/6465b57e000664abe6a4e4a12a9c53c2
+MTV UHD,p3p://108.181.32.169:31277/6465b595000b11b4e6a53fac6b7c2eaa
+OUTDOOR CHANNEL,p3p://108.181.32.169:31277/6465b5a0000c3aa7e6a56af0523416a8
+Nat Geo Wild USA,p3p://108.181.32.169:31277/645fbc4e000ef087cf4fbd770b2c438b
+Nat Geo USA,p3p://108.181.32.169:31277/645fbc5a000d37fccf4febe77c8856bb
 
 
 
