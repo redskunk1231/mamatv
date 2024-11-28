@@ -214,12 +214,10 @@ CCTV-怀旧剧场,http://ha.xushining.com:50000/udp/225.1.2.173:5002$天津联�
 内蒙古经济生活,https://epg.pw/stream/84d6cddfeecc1983c80fb3222360e9838f5122e13c283e4fea1a84a76d648b61.m3u8
 内蒙古经济生活,http://10.11.43.21/PLTV/88888912/224/3221226113/10000100000000060000000000784886_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=8e4b7cf6a2c8a75f74aef1a8a07cef43&txTime=771E8800
-内蒙古文体娱乐,http://10.11.43.21/PLTV/88888912/224/3221226111/10000100000000060000000000784888_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
-内蒙古文体娱乐,https://livestream-bt.nmtv.cn/nmtv/2319general.m3u8?txSecret=82ed51a2a4cbf85b62fec8ef2bfe4529&txTime=771E8800
 
 内蒙古新闻综合,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000636
 内蒙古经济生活,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000640
-内蒙古文体娱乐,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000638
+
 
 
 安徽卫视,http://10.11.43.21/PLTV/88888912/224/3221226480/10000100000000060000000000873020_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
@@ -1674,6 +1672,275 @@ TVBS新闻台(B),P2p://generationnexxxt.com:19806/bb6082c57bae466b9e6c64ba43f2c1
 鳄鱼王漂流记,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/8da4a365db75455cb0c15bd7681b57fc/1200.m3u8
 黑猩猩的丛林法则,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/05ff5278105445e1a9d5651372faf47e/1200.m3u8
 龙宫里的奇异动物,https://hls.cntv.kcdnvip.com/asp/hls/1200/0303000a/3/default/3528163c6b7d4a48b09b24027351ccf7/1200.m3u8
+
+MTV,#genre#
+
+蔡琴-今宵多珍重,http://em.21dtv.com/songs/60023921.mkv
+蔡琴-绿岛小夜曲,http://em.21dtv.com/songs/60028153.mkv
+
+草蜢-半点心,http://vodcdn.video.taobao.com/oss/ali-video/68fc953ff930412784dada5eb79d0821/1461058499/video.m3u8.m3u8
+草蜢-宝贝对不起,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/RQdMfitGKCINh4BPzc9%40%40sd.m3u8
+草蜢-失恋阵线联盟,http://vodcdn.video.taobao.com/oss/ali-video/bbae2fc164d9517913ed5a9117f8455b/video.m3u8
+草蜢-忘情森巴舞,http://vodcdn.video.taobao.com/oss/ali-video/a30020a6cd9ce2a8b387e029f9c5365c/video.m3u8
+
+陈百强-今宵多珍重,http://em.21dtv.com/songs/60023922.mkv
+陈百强-南北一家亲,http://em.21dtv.com/songs/60031082.mkv
+陈百强-念亲恩,http://em.21dtv.com/songs/60032661.mkv
+陈百强-偏偏喜欢你,http://em.21dtv.com/songs/60033420.mkv
+陈百强-天才白痴梦,http://em.21dtv.com/songs/60041756.mkv
+
+陈慧娴-孤单背影,http://vodcdn.video.taobao.com/oss/ali-video/092bc3fac8ea013544a1dda61de41e58/video.m3u8
+陈慧娴-归来吧,http://vodcdn.video.taobao.com/oss/ali-video/c89589fd5809cf6e2f1a4d7a52023733/video.m3u8
+陈慧娴-红茶馆,http://vodcdn.video.taobao.com/oss/ali-video/22ecb463b2e44875b1fa78090d0ffd4e/1460015776/video.m3u8.m3u8
+陈慧娴-黎明不要来,http://em.21dtv.com/songs/60026831.mkv
+陈慧娴-明日有明天,http://em.21dtv.com/songs/60030151.mkv
+陈慧娴-千千阙歌,http://vodcdn.video.taobao.com/oss/ali-video/8f45a35108ebe1b1951d2936007e3cd0/video.m3u8
+陈慧娴-让一切随风,http://em.21dtv.com/songs/60100587.mkv
+陈慧娴-人生何处不相逢,http://vodcdn.video.taobao.com/oss/ali-video/e45ed62546d055938577994f0c16d2e0/video.m3u8
+陈慧娴-逝去的诺言,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/i78cWdjCSglPJHDaedL%40%40ld.m3u8
+陈慧娴-逝去的诺言,http://em.21dtv.com/songs/60039551.mkv
+陈慧娴-跳舞街,http://vodcdn.video.taobao.com/oss/ali-video/5e463c16339f3dd6839e6a7d2074915c/video.m3u8
+
+陈明真-百万个吻,http://vodcdn.video.taobao.com/oss/ali-video/0c66aff1e198e944fb0460172d33d780/video.m3u8
+陈明真-变心的翅膀,http://vodcdn.video.taobao.com/oss/ali-video/e18dd3abfada11fb6faf26a521084343/video.m3u8
+陈明真-念念不忘的情人,http://vodcdn.video.taobao.com/oss/ali-video/a4e5b03f0ce8a9b20cea95e6ff3ce25a/video.m3u8
+陈明真-为爱笑着流泪,http://vodcdn.video.taobao.com/oss/ali-video/4f31a4692aae0974dbc82a95d23339f4/video.m3u8
+
+陈淑桦+李宗盛-你走你的路,http://em.21dtv.com/songs/60032576.mkv
+
+陈奕迅-马利奥派对,http://em.21dtv.com/songs/60028368.mkv
+陈奕迅-玛利奥派对(HD演唱会),http://em.21dtv.com/songs/60028396.mkv
+陈奕迅-每一个明天,http://em.21dtv.com/songs/60029081.mkv
+
+崔健-不是我不明白,http://em.21dtv.com/songs/60011382.mkv
+崔健-新长征路上的摇滚,http://em.21dtv.com/songs/60050989.mkv
+
+达明一派-每日一禁果,http://em.21dtv.com/songs/60029045.mkv
+达明一派-你还爱我吗,http://em.21dtv.com/songs/60031731.mkv
+
+得意的笑,http://vdown.kuwo.cn/resource//t4/22/49/ZAlSw_dVq1Q.mp4
+邓丽君-漫步人生路,http://em.21dtv.com/songs/60028564.mkv
+邓丽君-你在我心中,http://em.21dtv.com/songs/60032477.mkv
+
+动力火车+迪克牛仔-一样的月光,http://em.21dtv.com/songs/60053816.mkv
+动力火车-热情的沙漠,http://em.21dtv.com/songs/60036260.mkv
+
+古巨基+侧田-年年有今日,http://em.21dtv.com/songs/60032631.mkv
+
+古巨基-年年有今日,http://em.21dtv.com/songs/60032632.mkv
+
+关淑怡-恋一世的爱,http://em.21dtv.com/songs/60027152.mkv
+关淑怡-梦伴,http://em.21dtv.com/songs/60029476.mkv
+关淑怡-缱绻星光下,http://em.21dtv.com/songs/60034339.mkv
+关淑怡-缱绻星光下,http://em.21dtv.com/songs/60034341.mkv
+
+光良-第一次,http://vodcdn.video.taobao.com/oss/ali-video/fe68ff471420aaefcb3a7f4f413ad3f4/video.m3u8
+光良-童话,http://vodcdn.video.taobao.com/oss/ali-video/e2c54a5b89aaa794cfc186c41d2ef348/video.m3u8
+
+黄凯芹-每一个晚上,http://em.21dtv.com/songs/60029087.mkv
+黄凯芹-你留我在此,http://em.21dtv.com/songs/60031902.mkv
+黄凯芹-若生命等候,http://em.21dtv.com/songs/60037108.mkv
+黄凯芹-伤感的恋人,http://vodcdn.video.taobao.com/oss/ali-video/71b50ed488178715c6144a55b11e8d03/video.m3u8
+黄凯芹-深秋立楼头,http://em.21dtv.com/songs/60129834.mkv
+黄凯芹-相爱很难,http://vodcdn.video.taobao.com/oss/ali-video/11b6273898b6a1b1da34e646264cd036/video.m3u8
+黄凯芹-雨中的恋人们,http://vodcdn.video.taobao.com/oss/ali-video/75a2bc3f02719748be65b567afb8e0de/video.m3u8
+
+黄琦珊-一样的月光,http://em.21dtv.com/songs/60053818.mkv
+黄小琥-没那么简单,http://em.21dtv.com/songs/60028730.mkv
+黄小琥-突然的自我,http://em.21dtv.com/songs/60042926.mkv
+黄晓明-你在我心上,http://em.21dtv.com/songs/60032476.mkv
+黄耀明+容祖儿-你还爱我吗,http://em.21dtv.com/songs/60031732.mkv
+
+
+雷安娜-今宵多珍重,http://em.21dtv.com/songs/60023924.mkv
+
+黎瑞恩-为情为爱,http://vodcdn.video.taobao.com/oss/ali-video/73348f95d4cee3fcc96a63c30deed357/video.m3u8
+
+李克勤+梁荣忠-恋爱大过天,http://em.21dtv.com/songs/60026999.mkv
+李克勤-缱绻星光下,http://em.21dtv.com/songs/60034340.mkv
+李克勤-球迷奇遇记,http://em.21dtv.com/songs/60035810.mkv
+李克勤-三千零一夜,http://em.21dtv.com/songs/60037285.mkv
+
+李玟-你在我心上,http://em.21dtv.com/songs/60032475.mkv
+李心洁-像你,http://em.21dtv.com/songs/60049391.mkv
+李翊君-多情人都把灵魂给了谁,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/o1koj80kDcERprb8epC%40%40hd.m3u8
+李翊君-诺言,http://vodcdn.video.taobao.com/oss/ali-video/b8096cd4762369bbcb4ceb52cc25a938/video.m3u8
+
+李宗盛-鬼迷心窍,http://em.21dtv.com/songs/60019400.mkv
+梁朝伟-一天一天爱恋,http://vodcdn.video.taobao.com/oss/ali-video/d8c74bd184d05f8cf1cbd4bbd7307f79/video.m3u8
+
+梁静茹-纯真,http://em.21dtv.com/songs/60013402.mkv
+梁静茹-如果有一天,http://em.21dtv.com/songs/60036968.mkv
+梁静茹-问,http://vodcdn.video.taobao.com/oss/ali-video/b2a2adf565e97d00d1bd6d62145184d1/video.m3u8
+梁静茹-勇气,http://vodcdn.video.taobao.com/oss/ali-video/f501ffc81da040099b17fb1db30b92fe/1462937648/video.m3u8.m3u8
+
+林忆莲-匆匆,http://em.21dtv.com/songs/60013474.mkv
+林忆莲-存在,http://em.21dtv.com/songs/60013615.mkv
+
+林子祥-每一个晚上,http://em.21dtv.com/songs/60029088.mkv
+林子祥-男儿当自强,http://em.21dtv.com/songs/60030887.mkv
+林子祥-千亿个夜晚,http://em.21dtv.com/songs/60034180.mkv
+林子祥-千亿个夜晚,http://em.21dtv.com/songs/60034181.mkv
+林子祥-千忆个夜晚,http://em.21dtv.com/songs/60092855.mkv
+
+刘若英-绿岛小夜曲,http://em.21dtv.com/songs/60028155.mkv
+刘惜君-万水千山总是情,http://em.21dtv.com/songs/60043311.mkv
+刘小慧-初恋情人,http://vodcdn.video.taobao.com/oss/ali-video/fce8631e2287d0c7ac98595060ab6e4c/video.m3u8
+
+龙飘飘《歌声恋情》,https://vdse.bdstatic.com//552f15ac34dc97bdb3cc7725cd0a0aa4.mp4
+龙飘飘《往事》,https://vdse.bdstatic.com//a28e362e15fa8c361219944bfb59b596.mp4
+龙飘飘《我没醉》,https://vdse.bdstatic.com//3d48e45e47836cd75c202ec957260837.mp4
+
+吕方-多爱你一天,http://vodcdn.video.taobao.com/oss/ali-video/dcd97358c3e72377932aa883727320f9/video.m3u8
+吕方-朋友别哭,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/qgljCDKewD8vEgOMrrt%40%40sd.m3u8
+
+梅艳芳-今宵多珍重,http://em.21dtv.com/songs/60023925.mkv
+梅艳芳-留住你今晚,http://em.21dtv.com/songs/60027592.mkv
+梅艳芳-朦胧夜雨里,http://em.21dtv.com/songs/60029445.mkv
+梅艳芳-梦伴,http://em.21dtv.com/songs/60029478.mkv
+梅艳芳-你留我在此,http://em.21dtv.com/songs/60031903.mkv
+
+孟庭苇-爱你太深,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/KbJb4OVT1yH1ZDvri5p%40%40hd.m3u8
+孟庭苇-把思念寄托远方,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Y0iKpwmE2YZona6PY7A%40%40hd.m3u8
+孟庭苇-不下雨就出太阳吧,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/lhaW77A2RRwiJrh0CiJ%40%40hd.m3u8
+孟庭苇-春雪,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/5ZFrpzPk37KvY7CaTUj%40%40hd.m3u8
+孟庭苇-冬季到台北来看雨,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Pd8qTC385qKJVXaXcKj%40%40hd.m3u8
+孟庭苇-风里的梦,http://vodcdn.video.taobao.com/oss/ali-video/626e2336b5e9765e14ba22a617fd6223/video.m3u8
+孟庭苇-风中有朵雨做的云,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/Cg9qI5imMInpPvK5Mnm%40%40hd.m3u8
+孟庭苇-过冬,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/U9QKnKK2RpKMElnSS07%40%40hd.m3u8
+孟庭苇-红雨,http://vodcdn.video.taobao.com/oss/ali-video/a816f01838e07c4dac5f8612331bca63/video.m3u8
+孟庭苇-没有情人的情人节,http://vodcdn.video.taobao.com/oss/ali-video/c041d5ed45716d7d73233244b528eed6/video.m3u8
+孟庭苇-你究竟有多少个好妹妹,http://vodcdn.video.taobao.com/oss/ali-video/dfb07cbdd8435d48cb1e6691122d8d85/video.m3u8
+孟庭苇-你看你看月亮的脸,http://vodcdn.video.taobao.com/oss/ali-video/6e098f7b47614885845efb7a45998eb1/1465875165/video.m3u8.m3u8
+孟庭苇-谁的眼泪在飞,http://vodcdn.video.taobao.com/oss/ali-video/bfcfddb1694a43957962294c2f75bdfb/video.m3u8
+孟庭苇-我说的谎都是真的,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/9aqTcUjlJ7KZkA37W1E%40%40hd.m3u8
+孟庭苇-无声的雨,http://vodcdn.video.taobao.com/oss/ali-video/d404a897abb4526c94bb5f72dc566952/video.m3u8
+孟庭苇-雾里看花,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/fi3PjAgsnTjwzAvSboT%40%40hd.m3u8
+孟庭苇-相爱的可能性,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/5lsxCqoKs6ZE7MfJZvM%40%40hd.m3u8
+孟庭苇-一个爱上浪漫的人,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/DpBYbctgwaRj7bEYzFn%40%40hd.m3u8
+孟庭苇-真的还是假的,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/vhJvCIZiDOz7f6VTCON%40%40hd.m3u8
+莫文蔚-姑娘酒窝,http://em.21dtv.com/songs/60018945.mkv
+莫文蔚-溜溜的情歌,http://em.21dtv.com/songs/60076463.mkv
+
+那英-想念,http://em.21dtv.com/songs/60049175.mkv
+
+彭佳慧-回味,http://vodcdn.video.taobao.com/oss/ali-video/6801f707771eacdb5264f8bb20e4d599/video.m3u8
+彭佳慧-无法割舍,http://vodcdn.video.taobao.com/oss/ali-video/8be8f7d28d4f2c7ce759d431f0d3181b/video.m3u8
+彭羚+容祖儿-心淡,http://em.21dtv.com/songs/60084239.mkv
+
+裘正海-爱你十分泪七分,http://vodcdn.video.taobao.com/oss/ali-video/6ad63af2dc4b244d0dc773b2004374c3/video.m3u8
+裘正海-爱我的人和我爱的人,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/9Nbjzo7cialBKOcZ0fj%40%40hd.m3u8
+
+群星-青苹果乐园,http://em.21dtv.com/songs/60034768.mkv
+任齐贤-心太软,http://vodcdn.video.taobao.com/oss/ali-video/1675208d8b5f0f0d8ce09236f4068dfe/video.m3u8
+
+邰正宵-亲爱的小孩,http://em.21dtv.com/songs/60097616.mkv
+太极乐队-曙光,http://em.21dtv.com/songs/60039781.mkv
+
+谭咏麟/关淑怡-明天你是否依然爱我,http://vodcdn.video.taobao.com/oss/ali-video/0b56ad556e887a9be35d496d318a7565/video.m3u8
+谭咏麟+杜丽莎-今宵多珍重,http://em.21dtv.com/songs/60070818.mkv
+谭咏麟+李克勤-理想与和平,http://em.21dtv.com/songs/60026892.mkv
+谭咏麟+李克勤-梦仍是一样,http://em.21dtv.com/songs/60029634.mkv
+谭咏麟+李克勤-球迷奇遇记,http://em.21dtv.com/songs/60035811.mkv
+谭咏麟-理想与和平,http://em.21dtv.com/songs/60026893.mkv
+田震-千百回期待,http://em.21dtv.com/songs/60034057.mkv
+童安格-让生命等候,http://em.21dtv.com/songs/60036098.mkv
+汪峰-你走你的路,http://em.21dtv.com/songs/60128161.mkv
+汪峰-怒放的生命,http://em.21dtv.com/songs/60032787.mkv
+汪峰-小鸟,http://em.21dtv.com/songs/60049679.mkv
+
+王菲-爱与痛的边缘,http://vodcdn.video.taobao.com/oss/ali-video/f5e79c70df75bdccf2714ed788764f58/video.m3u8
+王菲-容易受伤的女人(国语),http://vodcdn.video.taobao.com/oss/ali-video/84722d96b62883dafdcc154afbf0bb03/video.m3u8
+王菲-容易受伤的女人(粤语),http://vodcdn.video.taobao.com/oss/ali-video/ed5aed790e002b229c9a8870e900f985/video.m3u8
+王菲-如风,http://vodcdn.video.taobao.com/oss/ali-video/f176658a3f974aecd5ce3df456092835/video.m3u8
+王菲-执迷不悔,http://vodcdn.video.taobao.com/oss/ali-video/15bf7da88b44048edaabe73d6b17c00b/video.m3u8
+
+王杰-说谎的爱人,http://vodcdn.video.taobao.com/oss/ali-video/c018ec304eb6566b56d7f0b85c77b473/video.m3u8
+王力宏-梦想被冷冻,http://em.21dtv.com/songs/60029668.mkv
+
+巫启贤-太傻,http://vodcdn.video.taobao.com/oss/ali-video/e6f2953419f904065dc2ce38efc85515/video.m3u8
+巫启贤-只因你伤心,http://vodcdn.video.taobao.com/oss/ali-video/c28acbe36530da595b04161855bba004/video.m3u8
+
+五月天-纯真,http://em.21dtv.com/songs/60013405.mkv
+伍佰-美丽新世界,http://em.21dtv.com/songs/60029283.mkv
+伍佰-挪威的森林,http://em.21dtv.com/songs/60032810.mkv
+伍佰-世界第一等,http://em.21dtv.com/songs/60039260.mkv
+伍佰-突然的自我,http://em.21dtv.com/songs/60042927.mkv
+伍思凯-想念,http://em.21dtv.com/songs/60049176.mkv
+
+辛晓琪-仿佛是昨天,http://vodcdn.video.taobao.com/oss/ali-video/dbaf6d1d5a0ec2d93a668796e46e4f05/video.m3u8
+辛晓琪-俩俩相忘,http://vodcdn.video.taobao.com/oss/ali-video/6b406c70e3007a5c66a2085c39b13d80/video.m3u8
+辛晓琪-领悟,http://vodcdn.video.taobao.com/oss/ali-video/2a4e61d4bba6b712bd5638fd508e85a5/video.m3u8
+辛晓琪-亲爱的小孩,http://em.21dtv.com/songs/60077183.mkv
+辛晓琪-味道,http://vodcdn.video.taobao.com/oss/ali-video/ce005204d02a88cfac474f1583f08add/video.m3u8
+
+徐小凤-故乡的雨,http://em.21dtv.com/songs/60019095.mkv
+徐小凤-黎明不要来,http://em.21dtv.com/songs/60026833.mkv
+徐小凤-流下眼泪前,http://em.21dtv.com/songs/60027719.mkv
+徐小凤-每日怀念你,http://em.21dtv.com/songs/60029044.mkv
+徐小凤-热情的沙漠,http://em.21dtv.com/songs/60036262.mkv
+徐小凤-深秋立楼头,http://em.21dtv.com/songs/60038343.mkv
+徐小凤-深秋立楼头,http://em.21dtv.com/songs/60038344.mkv
+许冠文-流下眼泪前,http://em.21dtv.com/songs/60027720.mkv
+许美静-想念,http://em.21dtv.com/songs/60049180.mkv
+许茹芸-不爱我放了我,http://vodcdn.video.taobao.com/oss/ali-video/b0f458650135c68f1b88ea7667eec629/video.m3u8
+许茹芸-独角戏,http://vodcdn.video.taobao.com/oss/ali-video/5333f389ce940d0a2c1dd6090927746c/video.m3u8
+许茹芸-泪海,http://vodcdn.video.taobao.com/oss/ali-video/76fe6eb28aee716783f2a47ba8a15e5a/video.m3u8
+许茹芸-如果云知道,http://vodcdn.video.taobao.com/oss/ali-video/fd87aea7bc293a5930b8a64c752df476/video.m3u8
+许茹芸-我依然爱你,http://vodcdn.video.taobao.com/oss/ali-video/4c4ec12e6efa0d76e5a269ac05ea394e/video.m3u8
+许巍-纯粹,http://em.21dtv.com/songs/60013384.mkv
+许巍-纯真,http://em.21dtv.com/songs/60013403.mkv
+许巍-蓝莲花,http://em.21dtv.com/songs/60026063.mkv
+许巍-漫步,http://em.21dtv.com/songs/60028561.mkv
+许巍-漫步,http://em.21dtv.com/songs/60028562.mkv
+许巍-少年,http://em.21dtv.com/songs/60038121.mkv
+许巍-时光,http://em.21dtv.com/songs/60039096.mkv
+
+杨千嬅-你还爱我吗,http://em.21dtv.com/songs/60031733.mkv
+杨小萍-梦醒不了情,http://em.21dtv.com/songs/60029704.mkv
+杨钰莹-等你一万年,http://vodcdn.video.taobao.com/oss/ali-video/e1e0b88e5c6d40d7176f353d41aac985/video.m3u8
+杨钰莹-红彤彤的春天,http://vodcdn.video.taobao.com/oss/ali-video/31fcc5242ffc9a00a5a62d89b21c0bea/video.m3u8
+杨钰莹-轻轻告诉你,http://vodcdn.video.taobao.com/oss/ali-video/1905c60363f40cea52f342ec59132da0/video.m3u8
+杨钰莹-我不想说,http://vodcdn.video.taobao.com/oss/ali-video/cc97a07de2cac88c025590ef874253fc/video.m3u8
+
+叶倩文-曾经心痛,http://vodcdn.video.taobao.com/oss/ali-video/0ea34400f2502a94ee14aea506e0042b/video.m3u8
+叶倩文-冲动,http://em.21dtv.com/songs/60012844.mkv
+叶倩文-伤逝,http://vodcdn.video.taobao.com/oss/ali-video/9f6ad7cd057bc2cf21d1c5a6cc57eed7/video.m3u8
+叶倩文-我的爱对你说,http://bizcommon.alicdn.com/l2nDqpMmn6DGHnWzZQA/7xXG24i7EbZtCTOtSnh%40%40sd.m3u8
+叶倩文-潇洒走一回,http://vodcdn.video.taobao.com/oss/ali-video/371d75312720e701b5f3988d46cdf4ef/video.m3u8
+
+袁惟仁-四季的眼泪,http://em.21dtv.com/songs/60040677.mkv
+张惠妹-别在伤口撒盐,http://vodcdn.video.taobao.com/oss/ali-video/5997fdd5c8b241b7b2995ae6da3bc8f8/1458294379/video.m3u8.m3u8
+张惠妹-冲动,http://em.21dtv.com/songs/60012845.mkv
+张惠妹-天才白痴梦,http://em.21dtv.com/songs/60041755.mkv
+张惠妹-听海,http://vodcdn.video.taobao.com/oss/ali-video/c105aa7685c54fbfa74b92e8cc88a3e3/1457681472/video.m3u8.m3u8
+
+张清芳-纯粹,http://em.21dtv.com/songs/60013385.mkv
+张清芳-时间的滋味,http://em.21dtv.com/songs/60039131.mkv
+
+张信哲-亲爱的小孩,http://em.21dtv.com/songs/60119496.mkv
+张学友+许慧欣-流星下的愿,http://em.21dtv.com/songs/60027735.mkv
+张学友-你是爱我的,http://em.21dtv.com/songs/60031991.mkv
+张学友-一颗不变心,http://vodcdn.video.taobao.com/oss/ali-video/1dcf180669ab98697e49c4c9b5f76cd7/video.m3u8
+张学友-只想一生跟你走,http://vodcdn.video.taobao.com/oss/ali-video/7f567e1159256a099f3de8f1fdda2db0/video.m3u8
+张学友-只愿一生爱一人,http://vodcdn.video.taobao.com/oss/ali-video/ea4c5cc5613797ac8c44027adb1a029e/video.m3u8
+张智霖+许秋怡-片片枫叶情,http://em.21dtv.com/songs/60033436.mkv
+张智霖-片片枫叶情,http://vodcdn.video.taobao.com/oss/ali-video/1d02cf8794a542c930fbf210c0a4e3e7/video.m3u8
+张智霖-现代爱情故事,http://vodcdn.video.taobao.com/oss/ali-video/864b1ca28cb8b566e2989775ae737de7/video.m3u8甄妮+MELODY-梦中的妈妈,http://em.21dtv.com/songs/60029774.mkv
+甄妮-绿岛小夜曲,http://em.21dtv.com/songs/60028156.mkv
+甄妮-明日话今天,http://em.21dtv.com/songs/60030135.mkv
+甄妮-七级半地震,http://em.21dtv.com/songs/60033743.mkv
+甄妮-热情的沙漠,http://em.21dtv.com/songs/60036264.mkv
+
+钟镇涛-没那么简单,http://em.21dtv.com/songs/60028729.mkv
+钟镇涛-让一切随风,http://em.21dtv.com/songs/60036211.mkv
+钟镇涛-让一切随风,http://em.21dtv.com/songs/60036212.mkv
+周传雄-存在,http://em.21dtv.com/songs/60013616.mkv
+周华健-鬼迷心窍,http://em.21dtv.com/songs/60019401.mkv
+周华健-朋友,http://vodcdn.video.taobao.com/oss/ali-video/6079de4355c45a42073ead75954c1b2f/video.m3u8
+周华健-温柔的瞬息,http://em.21dtv.com/songs/60090835.mkv
+周慧敏-痴心换情深,http://vodcdn.video.taobao.com/oss/ali-video/aa07f0b5c8a36740b3bee03d69a4116c/video.m3u8
+周蕙-如果没有你,http://em.21dtv.com/songs/60036826.mkv
 
 
 
