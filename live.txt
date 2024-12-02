@@ -162,7 +162,9 @@ CCTV11,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSM
 CCTV11,http://116.117.106.7:8096/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$内蒙古联通 酒店
 
 CCTV11,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010092/1.m3u8#http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000019789/index.m3u8?channel-id=ystenlive&Contentid=1000000002000019789&livemode=1&stbId=3#http://[2409:8087:74f0:22::4]:6410/270000001128/9900000509/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000509#http://[2409:8087:74f0:22::4]:6410/270000001128/9900000508/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000508
-CCTV11,rtp://239.3.1.152:8120
+CCTV11,http://1.24.190.98:10089/hls/11/index.m3u8
+CCTV11,http://1.26.25.110:9999/udp/239.125.1.101:4120
+
 
 
 
@@ -182,7 +184,8 @@ CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0SuXozn3alq9%2BUx7ZLG1w9awc14iEUxQ5VsTsr5pEBsmF56tXUfsukRUpygmTCKvAI
 CCTV13,http://116.117.106.7:8096/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$内蒙古联通 酒店
 CCTV13,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010073/index.m3u8#http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010093/1.m3u8#http://[2409:8087:5e00:24::11]:6060/200000001898/460000089800010093/1.m3u8#http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000021303/index.m3u8?channel-id=ystenlive&Contentid=1000000002000021303&livemode=1&stbId=3#http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000510
-CCTV13,rtp://239.3.1.124:8128
+CCTV13,http://1.24.190.98:10089/hls/13/index.m3u8
+CCTV13,http://1.26.25.110:9999/udp/239.125.1.53:4120
 
 
 CCTV-风云剧场,http://1.82.144.44:4022/rtp/239.111.205.66:5140
@@ -194,11 +197,11 @@ CCTV-第一剧场,http://223.10.21.36:8083/udp/239.1.1.94:8094
 CCTV-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CCTV-重温经典,http://mtw.so/5NPX0U
 
-CCTV-怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
 CCTV-怀旧剧场,http://111.167.49.238:5002/udp/225.1.2.173:5002
-CCTV-怀旧剧场,http://223.10.21.36:8083/udp/239.1.1.95:8095
+CCTV-怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 CCTV-怀旧剧场,http://1.82.144.44:4022/rtp/239.111.205.67:5140
 CCTV-怀旧剧场,http://183.53.109.145:9003//hls/122/index.m3u8
+CCTV-怀旧剧场,http://1.24.190.98:10089/hls/122/index.m3u8
 
 
 卫视,#genre#
@@ -206,12 +209,15 @@ CCTV-怀旧剧场,http://183.53.109.145:9003//hls/122/index.m3u8
 内蒙古新闻综合,http://10.11.43.21/PLTV/88888912/224/3221226109/10000100000000060000000000784890_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 内蒙古新闻综合,https://epg.pw/stream/be7e252270432ee9f17312a39a1f303c3d89f55594ed1d36f9ba46cc61e7a1a5.m3u8
+内蒙古新闻综合,http://1.24.190.98:10089/hls/32/index.m3u8
+内蒙古新闻综合,http://1.26.25.110:9999/udp/239.125.1.70:4120
 
 
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
 内蒙古经济生活,https://epg.pw/stream/84d6cddfeecc1983c80fb3222360e9838f5122e13c283e4fea1a84a76d648b61.m3u8
 内蒙古经济生活,http://10.11.43.21/PLTV/88888912/224/3221226113/10000100000000060000000000784886_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
-
+内蒙古经济生活,http://1.24.190.98:10089/hls/34/index.m3u8
+内蒙古经济生活,http://1.26.25.110:9999/udp/239.125.1.74:4120
 
 
 
