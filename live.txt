@@ -199,6 +199,9 @@ CCTV-怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 CCTV-怀旧剧场,http://1.82.144.44:4022/rtp/239.111.205.67:5140
 CCTV-怀旧剧场,http://183.53.109.145:9003//hls/122/index.m3u8
 CCTV-怀旧剧场,http://1.24.190.98:10089/hls/122/index.m3u8
+CCTV-怀旧剧场,http://221.196.136.66:1/udp/225.1.2.173:5002
+CCTV-怀旧剧场,http://111.167.49.238:5002/udp/225.1.2.173:5002
+CCTV-怀旧剧场,http://223.10.21.36:8083/udp/239.1.1.95:8095
 
 
 卫视,#genre#
@@ -643,22 +646,18 @@ CCTV-怀旧剧场,http://1.24.190.98:10089/hls/122/index.m3u8
 经典剧集,#genre#
 
 我爱我家,http://120.77.28.4:8648/yy.php?id=1382735557
-我爱我家,http://11.xmyxc.cn/api/php/yy.php?id=1356212303
+我爱我家,http://43.138.170.29:35455/yy/1382735557
 我爱我家,http://159.75.85.63:35455/yy/1382735557
-
-我爱我家,http://159.75.85.63:35455/yylunbo.m3u?url=http://159.75.85.63:35455/yy/1382735557
-
+我爱我家,http://159.75.85.63:35455/yy.php?id=1382735557
 我爱我家,http://live.iill.top/yy.php?id=1382735557
 我爱我家,http://43.138.170.29:35455/yy/1356212303
 我爱我家,https://live.metshop.top/yy/1382735557
 我爱我家,http://www.goodiptv.club/yy/1382735557
+我爱我家,http://11.xmyxc.cn/api/php/yy.php?id=1356212303
 
 夏洛特烦恼,https://lunbo.freetv.top/yy/1354936201
 东北一家人,https://www.goodiptv.club/douyu/7642724
-武林外传,http://120.77.28.4:8648/huya.php?id=21059598
-武林外传,http://cfss.cc/cdn/hy/21059598.flv
-武林外传,http://120.77.28.4:8648/yy.php?id=1355652820
-武林外传,http://zby.xjqxz.top/live10/live.m3u8
+武林外传,http://live.iill.top/yy.php?id=21092633
 来自星星的你,http://live.iill.top/yy.php?id=1354930976
 来自星星的你,https://www.goodiptv.club/yy/1354930976
 来自星星的你,https://live.metshop.top/yy/1354930976
@@ -682,7 +681,7 @@ CCTV-怀旧剧场,http://1.24.190.98:10089/hls/122/index.m3u8
 神雕侠侣,http://live.iill.top/yy.php?id=1351762426
 鹿鼎记,http://live.iill.top/yy.php?id=28265277
 笑傲江湖,http://live.iill.top/yy.php?id=1354930909
-武林外传,http://live.iill.top/yy.php?id=21092633
+
 笑傲江湖2,http://live.iill.top/yy.php?id=1354282410
 寻秦记,http://live.iill.top/yy.php?id=1382851591
 隋唐英雄传,http://live.iill.top/yy.php?id=1352475619
