@@ -196,12 +196,13 @@ CCTV-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CCTV-重温经典,http://mtw.so/5NPX0U
 
 CCTV-怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
-CCTV-怀旧剧场,http://1.82.144.44:4022/rtp/239.111.205.67:5140
-CCTV-怀旧剧场,http://183.53.109.145:9003//hls/122/index.m3u8
-CCTV-怀旧剧场,http://1.24.190.98:10089/hls/122/index.m3u8
-CCTV-怀旧剧场,http://221.196.136.66:1/udp/225.1.2.173:5002
-CCTV-怀旧剧场,http://111.167.49.238:5002/udp/225.1.2.173:5002
-CCTV-怀旧剧场,http://223.10.21.36:8083/udp/239.1.1.95:8095
+CCTV-怀旧剧场,http://113.118.13.147:808/hls/92/index.m3u8
+CCTV-怀旧剧场,http://58.254.14.226:808/hls/507/index.m3u8
+CCTV-怀旧剧场,http://110.241.191.247:808/hls/56/index.m3u8
+CCTV-怀旧剧场,http://cdnzxrrs.gz.chinamobile.com:6060/PLTV/88888888/224/3221226097/385114681.smil/index.m3u8
+CCTV-怀旧剧场,http://112.27.145.212:9901http://10.60.198.25:8114/AHBKLIVE/11111120210421000000000000000043?FvSeid=733106ad805f7c40&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=1070858&Fsv_chan_hls_se_idx=44&Fsv_TBt=8004312&Fsv_ShiftEnable=1&Fsv_ShiftTsp=60&Fsv_SV_PARAM1=0&Fsv_otype=0&Provider_id=AHBKLIVE&Pcontent_id=11111120210421000000000000000043&Fsv_CMSID=AHBK
+CCTV-怀旧剧场,http://183.11.239.36:808/hls/92/index.m3u8
+
 
 
 卫视,#genre#
