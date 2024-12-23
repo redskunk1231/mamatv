@@ -1171,11 +1171,11 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-法国时尚,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+法国时尚A,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
 法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8 
 
 FASHIONTV,https://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
-法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+
 
 
 无线新闻频道,https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8
