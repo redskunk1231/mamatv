@@ -583,9 +583,6 @@ CCTV-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/
 
 经典剧集,#genre#
 
-我爱我家,http://120.77.28.4:8648/yy.php?id=1382735557
-
-我爱我家,http://43.138.170.29:35455/yy/1382735557
 我爱我家,http://159.75.85.63:35455/yy/1382735557
 我爱我家,http://159.75.85.63:35455/yy.php?id=1382735557
 我爱我家,http://live.iill.top/yy.php?id=1382735557
@@ -979,7 +976,6 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 周星驰专辑轮播,http://zby.xjqxz.top/live12/live.m3u8
 周星驰1,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
 周星驰2,http://diyp.zxxoo.work/douyu/122402
-周星星,http://159.75.85.63:35455/huya/11342412
 星爷喜剧经典,http://epg.112114.eu.org/douyu/122402
 
 回魂夜,https://v3.dious.cc/20220401/y9ihZG1e/index.m3u8
@@ -1108,7 +1104,6 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 
 FASHIONTV,https://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 
-Channel[V],http://110.72.67.13:808/hls/64/index.m3u8
 
 无线新闻频道,https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8
 无线新闻频道,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
