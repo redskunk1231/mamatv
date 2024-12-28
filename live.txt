@@ -186,12 +186,6 @@ CCTV13,http://1.24.190.98:10089/hls/13/index.m3u8
 CCTV13,http://1.26.25.110:9999/udp/239.125.1.53:4120
 
 
-CCTV-风云剧场,http://1.82.144.44:4022/rtp/239.111.205.66:5140
-CCTV-风云剧场,http://223.10.21.36:8083/udp/239.1.1.93:8093
-
-CCTV-第一剧场,http://1.82.144.44:4022/rtp/239.111.205.65:5140
-CCTV-第一剧场,http://223.10.21.36:8083/udp/239.1.1.94:8094
-
 CCTV-重温经典,http://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 CCTV-重温经典,http://mtw.so/5NPX0U
 
@@ -199,15 +193,10 @@ CCTV-怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 CCTV-怀旧剧场,http://183.53.109.145:9003//hls/122/index.m3u8
 CCTV-怀旧剧场,http://223.10.21.36:8083/udp/239.1.1.95:8095
 
-CCTV-怀旧剧场,http://221.196.136.66:1/udp/225.1.2.173:5002
+CCTV-怀旧剧场,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000002495/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
-CCTV-怀旧剧场,http://111.167.49.238:5002/udp/225.1.2.173:5002
-CCTV-怀旧剧场,http://1.82.144.44:4022/rtp/239.111.205.67:5140
+CCTV-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/1.m3u8
 
-CCTV-怀旧剧场,http://60.2.190.206:4000/udp/239.253.93.252:6430
-CCTV-怀旧剧场,http://175.146.122.104:8888/udp/232.0.0.38:1234
-CCTV-怀旧剧场,http://175.173.198.22:9010/udp/232.0.0.38:1234
-CCTV-怀旧剧场,http://60.10.106.114:555/udp/239.253.93.252:6430
 
 
 
@@ -496,65 +485,6 @@ CCTV-怀旧剧场,http://60.10.106.114:555/udp/239.253.93.252:6430
 海南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8#http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225769/index.m3u8
 
 
-
-老电影,#genre#
-
-智取华山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ef243e3fa20544df9cc24b72ace8efa0/850.m3u8
-地下尖兵,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/188d5706e5774f06850e06e4f181c4bd/850.m3u8
-闪闪的红星,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/b90fcf1a5425479baf3a045282a1f263/850.m3u8
-上甘岭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c91f7aae9b8b4c578a7d9ecdf94b9dca/850.m3u8
-平原游击队,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/180ef18dec9a4edeb9d2b520d57cfc7f/850.m3u8
-神秘的旅伴,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/ef95b9f13e2c47b882b67ef52139786a/850.m3u8
-前哨,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/1e9c4ffe4002492484c0f50235299759/850.m3u8
-刘三姐,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/680e102dc8614632862cf49a236def6e/850.m3u8
-鸡毛信,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/41fcf9fefcf247c78e2d64c7af5d6edd/850.m3u8
-马兰花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c89d105b9661464bb8c5c5f46977f6c4/850.m3u8
-南征北战,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9557e1bfd91b4319975dfeffcc44d6b7/850.m3u8
-羊城暗哨,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/215e7a6713884bcab8cc461e245531af/850.m3u8
-冰山上的来客,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c86d45b176d642738dabf9da7361653b/850.m3u8
-51号兵站,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/fa6557276d644b5ea399956a6bf94e59/850.m3u8
-红日,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f2ee6e22cd894be1bc8c90b19f47ae2e/850.m3u8
-战火中的青春,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/be0d797e3b494f5fa1cb6d48d29643f3/850.m3u8
-英雄虎胆,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b7fcd0d4ebb045fe8e653ee71b4ef8fc/850.m3u8
-突破乌江,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bf8ccfff8bc949a6a2ed6bcda45eb4e2/850.m3u8
-三进山城,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ee157540ff2540ada0250edf3f6a3e0a/850.m3u8
-苦菜花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ec47d310d888464f8446af5e6e04ded8/850.m3u8
-渡江侦察记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d708e9c64aa34519af5490a793756c38/850.m3u8
-奇袭,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ac8b28fb66104aa7a5e3cd5a10ea986b/850.m3u8
-小花,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/f97fb71bff5947ddaf905cc121c42ee4/850.m3u8
-英雄儿女,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/479d044b7a3d465fa3a5b850d36b219c/850.m3u8
-泉水叮咚,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8b039f6988a04ca8b086d35031a77204/850.m3u8
-柳堡的故事,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/706b979b8a934aaab677a11c410bb119/850.m3u8
-李双双,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/bac928d747984ed3bd17550879522f89/850.m3u8
-花为媒,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/48da40a19746409997717371a80fd9e6/2000.m3u8
-牛郎织女,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/adc6931516694659a7b54176e4b38299/2000.m3u8
-梁山伯与祝英台,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
-碧玉簪,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/9e90b1a2872b476b8a4f9882f9b63cde/850.m3u8
-五女拜寿,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/c38771a355214e97a855c213693a1153/850.m3u8
-杜鹃山01,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/f468a89e0e394a718474523afe37c702/850.m3u8
-杜鹃山02,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5f76957927c5421e8bd75d0f53c95e4a/850.m3u8
-红灯记,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/84fd88d42e65413a90b9a8b54b685fde/850.m3u8
-奇袭白虎团,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/8d476d0de4a343bd8c77c8a83331fc16/850.m3u8
-智取威虎山,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/b59e746e354d4c0baefaca2f031eec25/850.m3u8
-
-沙家浜,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/6241c3f25a9a4dda9b05b9ba185500e0/850.m3u8
-红楼梦01,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f66e935661b44ff6b80a290537d5d204/2000.m3u8
-红楼梦02,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/10470613ead24f5cb435137b5f39ab98/2000.m3u8
-追鱼,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/3515e586d18743be99eb6cc2004cb995/2000.m3u8
-秦香莲,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/f8daefadadef41989225543875268a70/2000.m3u8
-女驸马,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/ba29b790f8ec435ba94fc072558431f0/850.m3u8
-天仙配,http://hls.cntv.myalicdn.com/asp/hls/850/0303000a/3/default/1cd056751daf430a943e63e6428c40d7/850.m3u8
-林海雪原,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/5023f1dcc73b4090962ee31e017fb8e3/850.m3u8
-评剧《花为媒》,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/48da40a19746409997717371a80fd9e6/2000.m3u8
-越剧《梁山伯与祝英台》,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/427eb50cc6844d47bcd35d2fac737a0a/850.m3u8
-京剧《野猪林》,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/d2ddcbd8cdba4473a541687e683c1aca/850.m3u8
-京剧《穆桂英大战洪州》,http://hls.cntv.kcdnvip.com/asp/hls/2000/0303000a/3/default/aaa5a373d97a47d1bc95b1418b672b33/2000.m3u8
-黄梅戏《王老虎抢亲》,http://hls.cntv.kcdnvip.com/asp/hls/850/0303000a/3/default/3b6ae81ae49f4c72b0c977023565c762/850.m3u8
-京剧《铁弓缘》,http://hls.cntv.myalicdn.com/asp/hls/2000/0303000a/3/default/e19f3238b0ba4849aa50d6b7f1118ab9/2000.m3u8
-
-
-
-
 历届春晚,#genre#
 
 1983年,https://alimov2.a.kwimgs.com/upic/2022/01/31/15/BMjAyMjAxMzExNTU5MTRfNDAzMDAxOTlfNjYyNzMxNjcwMjBfMF8z_b_Beb3bda599f76c60c463c433ca7460153.mp4
@@ -659,6 +589,7 @@ CCTV-怀旧剧场,http://60.10.106.114:555/udp/239.253.93.252:6430
 我爱我家,http://159.75.85.63:35455/yy/1382735557
 我爱我家,http://159.75.85.63:35455/yy.php?id=1382735557
 我爱我家,http://live.iill.top/yy.php?id=1382735557
+我爱我家,http://live.iill.top/yy.php?id=1356212303
 我爱我家,http://43.138.170.29:35455/yy/1356212303
 我爱我家,https://live.metshop.top/yy/1382735557
 我爱我家,http://www.goodiptv.club/yy/1382735557
@@ -758,7 +689,6 @@ CCTV-怀旧剧场,http://60.10.106.114:555/udp/239.253.93.252:6430
 金婚,http://live.iill.top/yy.php?id=1382736832
 黑冰,http://live.iill.top/yy.php?id=1354932427
 天道,http://live.iill.top/yy.php?id=1382735574
-父母爱情,http://live.iill.top/yy.php?id=1354926650
 上海滩80版,http://live.iill.top/yy.php?id=1382745184
 我的前半生,http://live.iill.top/yy.php?id=1382735564
 小欢喜,http://live.iill.top/yy.php?id=1382737888
@@ -1049,6 +979,8 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 周星驰专辑轮播,http://zby.xjqxz.top/live12/live.m3u8
 周星驰1,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
 周星驰2,http://diyp.zxxoo.work/douyu/122402
+周星星,http://159.75.85.63:35455/huya/11342412
+星爷喜剧经典,http://epg.112114.eu.org/douyu/122402
 
 回魂夜,https://v3.dious.cc/20220401/y9ihZG1e/index.m3u8
 功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
@@ -1176,7 +1108,7 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 
 FASHIONTV,https://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 
-
+Channel[V],http://110.72.67.13:808/hls/64/index.m3u8
 
 无线新闻频道,https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8
 无线新闻频道,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
@@ -1287,26 +1219,16 @@ tvbs新闻,http://59.127.17.227:8597/http/61.67.128.137:8081/hls/75/817/ch59.m3u
 闽壹新闻,http://59.127.17.227:8548/http/61.67.128.137:8081/hls/66/808/ch24.m3u8
 民视新闻,http://59.127.17.227:8542/http/61.67.128.137:8081/hls/73/815/ch51.m3u8
 
-TRAce体育台,http://59.127.17.227:8509/http/61.67.128.137:8092/upload/212/TraceS_TS-1111
-DAZN体育-壹,http://59.127.17.227:8566/http/61.67.128.137:8078/hls/25/80/esport.m3u8
-DAZN体育-贰,http://59.127.17.227:8567/http/61.67.128.137:8078/hls/26/80/esport2.m3u8
-
-咪咕24小时体育台,http://159.75.85.63:36666/migu/654102378.m3u8?migutoken=ed0b1203c206d58c3baaf94cceb1d045166a6d0962d9bd11e791fd4d7bc07fb30224a55a11b321e46ea503b6ff030520328c3468fde6191e0647fa92d83640f913b22cc4a89290205e4c75fadd
-
-红色轮播台,https://migu1.vip-tptv.xyz/migu/713600957?sign=gAAAAABnUrBh_PIYiUjdsVmFLNS_GdZyN-69GAEajEy1tVNl9yY7_2JBjoXf5wJhlUujCkFvYwFWzFb3xl5Q_B0gz535PXsCb2UEigOtU02z8RqosOFCJtVhvNADXxS62jlMuhf3d9Zb-92abIFhuHq2a6ZDxz9YfruarZ2oTHNGuDkYu3CpdAB4YXjldk4fDEG3zRZ4RkDqdn2lZSf0-ju6y6nj7DYfWw%3D%3D
 
 壹電視綜合台,https://mg.52sw.top/chaojidianshi.php?id=https://www.chaojidianshi.net/zhibo/35.html
 
 壹電視新聞台,https://mg.52sw.top/chaojidianshi.php?id=https://www.chaojidianshi.net/zhibo/34.html
 
-
+东森新闻,http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MD1D1428989414289894&ct=19346&tsum=d8fc0ab62e1d97aaca4279883cb1101c
+非凡新闻,http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
 
 东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-5.ctv
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-6.ctv
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-7.ctv
-东森新闻,https://stream1.freetv.fun/dong-sen-xin-wen-3.ctv
 东森新闻,http://litv.zapi.us.kg/?id=4gtv-4gtv152
 东森新闻,http://37.27.111.214:8080/live/20/hls.m3u8
 东森新闻,http://211.72.65.236:8540/.m3u8
