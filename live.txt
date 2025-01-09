@@ -1263,6 +1263,21 @@ tvbs新闻,P2p://starvod.xyz:19806/2d8677ecc37c49819fa2a9a9e663fee5
 TVBS,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
 三立新闻,http://ali.hlspull.yximgs.com/live/tboxprohmcyoywqqubqdfqfvchtquqxcqxvcbsqfsdxcbmqsllivexw.flv
 
+壹新闻 HD,http://ali.hlspull.yximgs.com/live/7c69a997402ff8b33fa5b7b9b9bd072a.flv
+年代新闻,http://ali.hlspull.yximgs.com/live/23efa1a517301ec1030b8e43d7f73724.flv
+年代,http://ali.hlspull.yximgs.com/live/0a84d414be3b4653bdb55a4ddb30c21d.flv
+三立台湾台,http://ali.hlspull.yximgs.com/live/6c54ea45c1df30a5073de2d9825e1fa9.flv
+动物星球,http://ali.hlspull.yximgs.com/live/kqO9ne37zu3u70JZR2tEExA4GN9n6WHF.flv
+东森电影,http://ali.hlspull.yximgs.com/live/4df7ad1ab9d3a3cf9053d3134f190ff6.flv
+东森洋片,http://ali.hlspull.yximgs.com/live/2d010027189a2bb351babe3520b47514.flv
+东森戏剧,http://ali.hlspull.yximgs.com/live/25874afe944f1b6315549db1cbc0f5e6.flv
+美亚电影频粤,http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
+美亚电影台,https://iptv.vip-tptv.xyz/tv.php?id=1
+TVB翡翠,http://cdn9.1689.us.kg/smt1.1.php?id=jade_twn
+TVB星河,http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe
+TVB J1,http://cdn3.132.us.kg/live/j1/stream.m3u8
+TVB PLUS,http://cdn.132.us.kg/live/tvbp/stream.m3u8
+无线新闻,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 
 亚洲新闻720P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 美·红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
