@@ -45,6 +45,16 @@ CCTV8,http://1.24.190.98:10080/hls/8/index.m3u8
 CCTV11,http://1.24.190.98:10080/hls/11/index.m3u8
 CCTV13,http://1.24.190.98:10080/hls/13/index.m3u8
 
+CCTV1,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
+CCTV2,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031101/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3
+CCTV5,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008885/index.m3u8?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=3
+CCTV5+,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000011000031127/index.m3u8?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=3
+CCTV6,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008886/index.m3u8?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=3
+CCTV8,http://[2409:8087:5e08:24::17]:6610/000000001000/5000000004000008888/index.m3u8?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=3
+CCTV9,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000032162/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032162&livemode=1&stbId=3
+CCTV11,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031106/index.m3u8?channel-id=bestzb&Contentid=5000000011000031106&livemode=1&stbId=3
+CCTV13,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031108/index.m3u8?channel-id=bestzb&Contentid=5000000011000031108&livemode=1&stbId=3
+
 
 
 
@@ -218,7 +228,6 @@ CCTV-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/
 
 
 
-
 安徽卫视,http://10.11.43.21/PLTV/88888912/224/3221226480/10000100000000060000000000873020_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 北京卫视,http://10.11.43.21/PLTV/88888912/224/3221226462/10000100000000060000000000871722_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 浙江卫视,http://10.11.43.21/PLTV/88888912/224/3221226460/10000100000000060000000000871725_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
@@ -253,7 +262,12 @@ CCTV-怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/
 陕西卫视,http://10.11.43.21/PLTV/88888912/224/3221226677/426212062.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 
 
-
+北京卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000031556/index.m3u8?channel-id=bestzb&Contentid=5000000004000031556&livemode=1&stbId=3
+湖南卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000018044/index.m3u8?channel-id=wasusyt&Contentid=6000000001000018044&livemode=1&stbId=3
+东方卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000265018/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=3
+安徽卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000023002/index.m3u8?channel-id=bestzb&Contentid=5000000004000023002&livemode=1&stbId=3
+江苏卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000014861/index.m3u8?channel-id=wasusyt&Contentid=6000000001000014861&livemode=1&stbId=3
+浙江卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000032070/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032070&livemode=1&stbId=3
 
 辽宁卫视,http://221.2.36.34:8888/newlive/live/hls/43/live.m3u8
 内蒙古卫视,ttp://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
@@ -1243,7 +1257,11 @@ tvbs新闻,P2p://starvod.xyz:19806/2d8677ecc37c49819fa2a9a9e663fee5
 民视新闻,P2p://starvod.xyz:19806/e816d53913e84fb78818a5913ab3ba04
 中视新闻,P2p://starvod.xyz:19806/c4fabeb367b44cf3926454703f69a17a
 
-
+中天新闻,http://ali.hlspull.yximgs.com/live/tboxpropqqtvvqqqyquuqqfvbscvqdqtwqfsqqsqqqcvuyqemqeqtxw.flv
+中天综合,http://ali.hlspull.yximgs.com/live/tboxpropqqtvvqqqyquuqqfvbscvqdqtwqfsqqsqqqcvuyqemqeqtxw.flv
+中天娱乐,https://histar.zapi.us.kg/?id=cti-yule
+TVBS,http://tianhewan.top/ZIPP.php?url=http://211.72.65.236:8575/.m3u8
+三立新闻,http://ali.hlspull.yximgs.com/live/tboxprohmcyoywqqubqdfqfvchtquqxcqxvcbsqfsdxcbmqsllivexw.flv
 
 
 亚洲新闻720P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
@@ -1255,15 +1273,6 @@ E!,p3p://108.181.32.169:27540/645fab07000aed4ecf0c3f1353ef26e9
 EPIX,p3p://108.181.32.169:27540/645fab1400052294cf0c7060144638c8
 E! Entertainment,p3p://108.181.32.169:27540/6463a9740001391ddea5dc3e432509a2
 
-BEIN SPORTS 11,p3p://108.181.32.169:27540/6463a5b400077f08de9737e474b0055b
-USA: BeIN Sports 4,p3p://108.181.32.169:27540/6463a5cb00045120de9790ec0ec340aa
-USA: BeIN Sports 6,p3p://108.181.32.169:27540/6463a5de00091722de97dc4d0e413139
-beIN Sports USA,p3p://108.181.32.169:27540/6463a5eb000a7089de980f6e0e9c48d5
-Supersport Premier League,p3p://108.181.32.169:27540/6463a5f80008b1c0de9841c45e2d124f
-Supersport Football,p3p://108.181.32.169:27540/6463a606000229f7de9876c846553fcc
-Supersport LaLiga,p3p://108.181.32.169:27540/6463a6260000ab5fde98f3660a053de2
-SuperSport MaXimo,p3p://108.181.32.169:27540/6463a638000409ffde993a937bef2d62
-Supersport Motorsport,p3p://108.181.32.169:27540/6463a64500015776de996caa4be276c3
 
 
 港剧循环播,#genre#
