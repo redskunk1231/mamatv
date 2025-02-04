@@ -207,49 +207,6 @@ CCTV-怀旧剧场,http://121.19.134.10:4022/udp/239.253.92.98:6120
 CCTV-怀旧剧场,http://tvbox6.icu/tv/iptv2.php?id=26
 
 
-咪咕体育,#genre#
-咪咕全民热练,http://122.96.29.196:8014/2000000003000000068/hnbblive/index.m3u8$8M1080_湖南bblive
-咪咕全民热练,http://122.96.29.196:8014/1000000006000270007/ystenlive/index.m3u8$8M1080_易视腾
-咪咕视频1,http://122.96.29.196:8014/3000000020000011528/FifastbLive/index.m3u8$8M1080_咪视通
-咪咕视频2,http://122.96.29.196:8014/3000000020000011529/FifastbLive/index.m3u8$8M1080_咪视通
-咪咕视频3,http://122.96.29.196:8014/3000000020000011530/FifastbLive/index.m3u8$8M1080_咪视通
-咪咕视频4,http://122.96.29.196:8014/3000000020000011531/FifastbLive/index.m3u8$8M1080_咪视通
-咪咕视频5,http://122.96.29.196:8014/2000000003000000060/hnbblive/index.m3u8$8M1080_湖南bblive
-咪咕视频6,http://122.96.29.196:8014/2000000003000000061/hnbblive/index.m3u8$8M1080_湖南bblive
-咪咕视频7,http://122.96.29.196:8014/2000000003000000062/hnbblive/index.m3u8$8M1080_湖南bblive
-咪咕视频8,http://122.96.29.196:8014/2000000003000000063/hnbblive/index.m3u8$8M1080_湖南bblive
-咪咕视频9,http://122.96.29.196:8014/2000000003000000064/hnbblive/index.m3u8$8M1080_湖南bblive
-咪咕视频10,http://122.96.29.196:8014/2000000003000000065/hnbblive/index.m3u8$8M1080_湖南bblive
-咪咕视频11,http://122.96.29.196:8014/1000000006000270001/ystenlive/index.m3u8$8M1080_易视腾
-咪咕视频12,http://122.96.29.196:8014/1000000006000270002/ystenlive/index.m3u8$8M1080_易视腾
-咪咕视频13,http://122.96.29.196:8014/1000000006000270003/ystenlive/index.m3u8$8M1080_易视腾
-咪咕视频14,http://122.96.29.196:8014/1000000006000270004/ystenlive/index.m3u8$8M1080_易视腾
-咪咕视频15,http://122.96.29.196:8014/1000000006000270005/ystenlive/index.m3u8$8M1080_易视腾
-咪咕视频16,http://122.96.29.196:8014/1000000006000270006/ystenlive/index.m3u8$8M1080_易视腾
-咪咕视频17,http://122.96.29.196:8014/3000000010000000097/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频18,http://122.96.29.196:8014/3000000010000002019/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频19,http://122.96.29.196:8014/3000000010000002809/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频20,http://122.96.29.196:8014/3000000010000003915/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频21,http://122.96.29.196:8014/3000000010000004193/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频22,http://122.96.29.196:8014/3000000010000006077/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频23,http://122.96.29.196:8014/3000000010000006658/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频24,http://122.96.29.196:8014/3000000010000009788/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频25,http://122.96.29.196:8014/3000000010000010833/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频26,http://122.96.29.196:8014/3000000010000011297/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频27,http://122.96.29.196:8014/3000000010000011518/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频28,http://122.96.29.196:8014/3000000010000012558/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频29,http://122.96.29.196:8014/3000000010000012616/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频30,http://122.96.29.196:8014/3000000010000015470/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频31,http://122.96.29.196:8014/3000000010000015560/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频32,http://122.96.29.196:8014/3000000010000017678/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频33,http://122.96.29.196:8014/3000000010000019839/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频34,http://122.96.29.196:8014/3000000010000021904/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频35,http://122.96.29.196:8014/3000000010000023434/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频36,http://122.96.29.196:8014/3000000010000025380/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频37,http://122.96.29.196:8014/3000000010000027691/FifastbLive/index.m3u8$5M1080_咪视通
-咪咕视频38,http://122.96.29.196:8014/3000000010000031669/FifastbLive/index.m3u8$5M1080_咪视通
-
-
 
 卫视,#genre#
 
@@ -1167,56 +1124,11 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 师兄撞鬼,https://ukzy.ukubf4.com/20220407/VEDHd72z/index.m3u8
 师兄撞鬼,https://v3.dious.cc/20220329/VxLeWBv1/index.m3u8
 
-埋堆堆线,#genre#
-埋堆堆 𝟙,http://ttkx.cc:776/8585/hy.php?id=23740156
-埋堆堆 𝟚,http://ttkx.cc:776/8585/hy.php?id=23749096
-埋堆堆 𝟛,http://ttkx.cc:776/8585/hy.php?id=23735126
-埋堆堆 𝟜,http://ttkx.cc:776/8585/hy.php?id=23903123
-埋堆堆 𝟝,http://ttkx.cc:776/8585/hy.php?id=23734169
-埋堆堆 𝟞,http://ttkx.cc:776/8585/hy.php?id=23863804
-埋堆堆 𝟟,http://ttkx.cc:776/8585/hy.php?id=23865080
-埋堆堆 𝟠,http://ttkx.cc:776/8585/hy.php?id=23864973
-埋堆堆 𝟡,http://ttkx.cc:776/8585/hy.php?id=23903130
-埋堆堆 𝟙𝟘,http://ttkx.cc:776/8585/hy.php?id=23860039
-埋堆堆 𝟙𝟙,http://ttkx.cc:776/8585/hy.php?id=23903183
-埋堆堆 𝟙𝟚,http://ttkx.cc:776/8585/hy.php?id=23903196
-埋堆堆 𝟙𝟛,http://ttkx.cc:776/8585/hy.php?id=23728674
-埋堆堆 𝟙𝟜,http://ttkx.cc:776/8585/hy.php?id=23865036
-埋堆堆 𝟙𝟝,http://ttkx.cc:776/8585/hy.php?id=23829543
-埋堆堆 𝟙𝟞,http://ttkx.cc:776/8585/hy.php?id=23865161
-埋堆堆 𝟙𝟟,http://ttkx.cc:776/8585/hy.php?id=23865058
-埋堆堆 𝟙𝟠,http://ttkx.cc:776/8585/hy.php?id=23824164
-埋堆堆 𝟙𝟡,http://ttkx.cc:776/8585/hy.php?id=23863796
-埋堆堆 𝟚𝟘,http://ttkx.cc:776/8585/hy.php?id=23734183
-埋堆堆 𝟚𝟙,http://ttkx.cc:776/8585/hy.php?id=23728660
-埋堆堆 𝟚𝟚,http://ttkx.cc:776/8585/hy.php?id=23865142
-埋堆堆 𝟚𝟛,http://ttkx.cc:776/8585/hy.php?id=23734246
-埋堆堆 𝟚𝟜,http://ttkx.cc:776/8585/hy.php?id=23865171
-埋堆堆 𝟚𝟝,http://ttkx.cc:776/8585/hy.php?id=23734256
-埋堆堆 𝟚𝟞,http://ttkx.cc:776/8585/hy.php?id=23749083
-电视剧场一,http://ttkx.cc:776/8585/hy.php?id=29465862
-电视剧场二,http://ttkx.cc:776/8585/hy.php?id=11336591
-电视剧场三,http://ttkx.cc:776/8585/hy.php?id=21059563
-电视剧场四,http://ttkx.cc:776/8585/hy.php?id=26355783
-电视剧场五,http://ttkx.cc:776/8585/hy.php?id=11352912
-电视剧场六,http://ttkx.cc:776/8585/hy.php?id=11352936
-电视剧场七,http://ttkx.cc:776/8585/hy.php?id=21059630
-电视剧场八,http://ttkx.cc:776/8585/hy.php?id=26355775
-电视剧场九,http://ttkx.cc:776/8585/hy.php?id=21059594
-电视剧场十,http://ttkx.cc:776/8585/hy.php?id=11336592
-电视剧场十一,http://ttkx.cc:776/8585/hy.php?id=11602088
+
 
 港台频道,#genre#
 
-法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
-法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
-法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-法国时尚A,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
-法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8 
 
-FASHIONTV,https://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 
 
 无线新闻频道,https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8
@@ -1386,6 +1298,16 @@ TVB PLUS,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 
 亚洲新闻720P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 美·红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
+
+法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+時尚台FTV,http://80.94.54.42/fashiontv/stream/playlist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+法国时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
+法国时尚A,https://fashs043.cloudycdn.services/scte/africa/playlist.m3u8
+法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8 
+
+FASHIONTV,https://lb.streaming.sk/fashiontv/stream/chunklist_w1906011378.m3u8
 
 EWTN,p3p://108.181.32.169:27540/64325ec5000cef141e1b7e242f5e7157
 Entertainment,p3p://108.181.32.169:27540/64325edb000004f91e1bd0c550bc67ad
