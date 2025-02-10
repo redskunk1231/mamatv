@@ -175,9 +175,7 @@ CCTV11,http://1.26.25.110:9999/udp/239.125.1.101:4120
 CCTV11,http://39.164.160.249:9901/tsfile/live/0011_1.m3u8
 CCTV11,http://hangfun.top:35455/gaoma/cctv11.m3u8
 CCTV11,http://hotelplay.net/live/pmb8krf68n4z/4d8cf4af8de3574c/476897.m3u8
-CCTV11,http://newtv.fun:35455/gaoma/cctv11.m3u8
-CCTV11,http://112.74.115.68:35455/gaoma/cctv11.m3u8
-CCTV11,http://180.213.174.225:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+
 
 
 
