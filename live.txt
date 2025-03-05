@@ -202,9 +202,8 @@ CCTV13,http://111.170.172.113:35455/gaoma/cctv13.m3u8
 
 
 
-CCTV怀旧剧场,http://jf.jxx2023.work:40446/tsfile/live/1149_1.m3u8
-CCTV怀旧剧场,http://tvbox6.icu/tv/iptv2.php?id=26
 CCTV怀旧剧场,http://180.213.174.225:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV怀旧剧场,http://tvbox6.icu/tv/iptv2.php?id=26
 
 
 
