@@ -212,16 +212,6 @@ CCTV怀旧剧场,http://180.213.174.225:9901/tsfile/live/1049_1.m3u8?key=txiptv&
 CCTV怀旧剧场,http://tvbox6.icu/tv/iptv2.php?id=26
 CCTV怀旧剧场,http://106.46.147.82:10443/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
-CCTV怀旧剧场,http://183.11.239.36:808/hls/92/index.m3u8
-
-东森戏剧,http://122.117.71.103:8529/http/61.222.53.250:8081/hls/64/806/ch13.m3u8
-龙华戏剧,http://122.117.71.103:8533/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8
-戏曲精选,http://wouu.net:9977/udp/239.93.0.144:5140
-梨园频道,http://live.dxhmt.cn:9081/tv/11122-1.m3u8
-
-
-
-
 
 
 
