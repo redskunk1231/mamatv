@@ -178,6 +178,7 @@ CCTV11,http://1.24.190.98:10089/hls/11/index.m3u8
 CCTV11,http://1.26.25.110:9999/udp/239.125.1.101:4120
 CCTV11,http://39.164.160.249:9901/tsfile/live/0011_1.m3u8
 CCTV11,http://hangfun.top:35455/gaoma/cctv11.m3u8
+CCTV11,http://227w9f5104.zicp.fun:35455/gaoma/cctv11.m3u8
 CCTV11,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226448/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eqfhzy1ZrFZrYrATDOB991A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOu522yjh6D1Z_dApuOt9eE%2CEND
 
 
@@ -204,14 +205,16 @@ CCTV13,http://1.26.25.110:9999/udp/239.125.1.53:4120
 CCTV13,http://60.12.183.46:9901/tsfile/live/0013_1.m3u8
 CCTV13,https://tv.bfsu.edu.cn/hls/cctv13hd.m3u8
 CCTV13,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV13,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
+CCTV13,http://112.81.218.254:35455/gaoma/cctv13.m3u8
 
-
-咪咕24小时体育台,http://tvbox6.icu/tv/migu.php?id=mg24hty
-
-CCTV怀旧剧场,http://180.213.174.225:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV怀旧剧场,http://tvbox6.icu/tv/iptv2.php?id=26
 CCTV怀旧剧场,http://106.46.147.82:10443/tsfile/live/1041_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
+CCTV怀旧剧场,http://[2409:8087:7008:20::c]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226972/1.m3u8
+CCTV怀旧剧场,http://[2409:8087:7008:20::d]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
+CCTV怀旧剧场,http://58.219.17.113:8001/rtp/239.49.9.12:6000
+CCTV怀旧剧场,http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
 
 
 
@@ -1165,7 +1168,6 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 
 
 
-无线新闻频道,https://stream1.freetv.fun/678d877ac436471c003e6f566eaa81b022de75dca45be60e1660efbf223765ca.m3u8
 无线新闻频道,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 无线新闻频道,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻,http://zsntlqj.xicp.net:8896/bysid/83.m3u8
@@ -1173,6 +1175,15 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 Astro Football,http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
 Astro IQIYI,http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
+中天新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+中天新聞台,https://stream1.freetv.fun/5b84b0baf55fce778cffd1d5a35ef8e77dfb02436d82cd5a83dd78c61c90462e.m3u8
+年代新聞HD,https://stream1.freetv.fun/b568fdf49ecc39119662a57f6e4ee16a6e41643a2a3c66854f9bc81663a8174b.ctv
+東森新聞,https://stream1.freetv.fun/3c39204a43b38809d7ca92a73dcb9263c9c3690fd81b5b27532fd26896789489.m3u8
+東森新聞,https://stream1.freetv.fun/34438cfe544b494f8d68c7620c788c161e9bc0d59b6261d14b67c8c7900b084f.ctv
+非凡新聞HD,rtmp://f13h.mine.nu/sat/tv581
+非凡新闻,https://stream1.freetv.fun/89b12f910e34ec223f59569e2172e3563e66ab735a999b873c54ca24b7b47dd0.ctv
+
+娛樂新聞台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
 民視台灣台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
 民視新聞台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
 民視第一台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
@@ -1181,7 +1192,8 @@ Astro IQIYI,http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 台視新聞,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
 寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
 愛爾達娛樂台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
-東森新聞,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-10/AKTV.m3u8
+東森新聞,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+三立新聞iNEWS,http://aktv_stream1.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 amc電影台,http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
 HITS頻道,http://aktv_stream1.m16tv.cfd/stream/taiwan/hits/AKTV.m3u8
 TVBS精采台,http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
