@@ -35,14 +35,19 @@ CCTV5+,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000153
 CCTV11,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000583
 
 
-CCTV1,http://1.24.190.98:10080/hls/1/index.m3u8
-CCTV2,http://1.24.190.98:10080/hls/2/index.m3u8
-CCTV3,http://1.24.190.98:10080/hls/3/index.m3u8
-CCTV5,http://1.24.190.98:10080/hls/5/index.m3u8
-CCTV5+,http://1.24.190.98:10080/hls/16/index.m3u8
-CCTV8,http://1.24.190.98:10080/hls/8/index.m3u8
-CCTV11,http://1.24.190.98:10080/hls/11/index.m3u8
-CCTV13,http://1.24.190.98:10080/hls/13/index.m3u8
+CCTV1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
+CCTV3,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
+CCTV4,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND
+CCTV5,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErKwB8Qqtvssoy-K7GEgesQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
+CCTV5+,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Em70vyfVI_MkrcLYjHWnqOA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNlS0O1LA8iGydXPYujpRue%2CEND
+CCTV6,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226453/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Ex56LEwufYqPdJkUNYhbNCw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOH2PzEhAK60LI_FWtVxfVS%2CEND
+CCTV8,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226451/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EO_1NY-UghfdG_S28Bf_FPw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNO1anuaDcpMt0_BMig72trX%2CEND
+CCTV11,http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0RcQQbNseiHvFO8XWf466A%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV11,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226448/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Eqfhzy1ZrFZrYrATDOB991A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOu522yjh6D1Z_dApuOt9eE%2CEND
+CCTV12,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226228/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E2knJCFLHz_HqfBZXNGeA1A%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMIlZ5z7o_ym15iMooogSvj%2CEND
+CCTV13,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
+CCTV13,http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226446/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EU-IJJyzlYeEElWsacI4JKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMT7DWkynQtRPzNDJCOY_C_%2CEND
+
 
 CCTV1,http://[2409:8087:5e08:24::2]:6610/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=3
 CCTV2,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031101/index.m3u8?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=3
@@ -221,11 +226,6 @@ CCTV怀旧剧场,http://60.255.240.247:8090/live/lgs_2000.m3u8
 CCTV怀旧剧场,http://183.11.239.36:808/hls/92/index.m3u8
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 
-怀旧剧场剧经典,http://zzy789.xyz/douyu1.php?id=7119207
-中央新影-老故事,http://z.b.bkpcp.top/m.php?id=lgs
-中央新影-老故事,http://tvbox6.icu/tv/migu.php?id=lgss
-中央新影-老故事,http://121.19.134.10:4022/udp/239.253.92.132:8068
-中央新影-老故事,http://60.255.240.247:8090/live/lgs_2000.m3u8
 中央新影-老故事,http://183.11.239.36:808/hls/26/index.m3u8
 中央新影-老故事,http://120.76.248.139/live/bfgd/4200000166.m3u8
 
@@ -1174,16 +1174,20 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 
 港台频道,#genre#
 
+鳳凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+鳳凰資訊,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+鳳凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
 
-
-
+亞洲新聞台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
+三立新聞iNEWS,http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
+中天新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
 无线新闻频道,http://cdn9.1689.us.kg/smt1.1.php?id=inews_twn
 无线新闻频道,http://php.jdshipin.com/smt.php?id=inews_twn
 无线新闻,http://zsntlqj.xicp.net:8896/bysid/83.m3u8
+无线新闻台(北美),http://aktv-stream.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
+無線新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 
 无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-Astro Football,http://aktv_stream1.m16tv.cfd/stream/tuntun/astrofootball/AKTV.m3u8
-Astro IQIYI,http://aktv_stream1.m16tv.cfd/stream/tuntun/fashiontv4k/AKTV.m3u8
 
 中天新聞台,https://stream1.freetv.fun/5b84b0baf55fce778cffd1d5a35ef8e77dfb02436d82cd5a83dd78c61c90462e.m3u8
 中天新闻台,http://cdn.iptv8k.top/dl/jspd.php?id=1
@@ -1197,29 +1201,9 @@ TVBS新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 
 东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 东森新闻,http://122.117.71.103:8539/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
-中天亚洲台,http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-中天亚洲台,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571212&extension=ts&play_token=yaoffzUbUJ
-娛樂新聞台(HK),http://aktv_stream1.m16tv.cfd/stream/aktv/hk/AKTV.m3u8
-民視台灣台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-1/AKTV.m3u8
-民視新聞台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-12/AKTV.m3u8
-民視第一台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null/AKTV.m3u8
-中視新聞,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-13/AKTV.m3u8
-台視,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-3/AKTV.m3u8
-台視新聞,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-15/AKTV.m3u8
-寰宇新聞台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-14/AKTV.m3u8
-愛爾達娛樂台,http://aktv_stream1.m16tv.cfd/stream/taiwan/null-11/AKTV.m3u8
-東森新聞,http://aktv_stream1.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
-三立新聞iNEWS,http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
-amc電影台,http://aktv_stream1.m16tv.cfd/stream/taiwan/amc/AKTV.m3u8
-HITS頻道,http://aktv_stream1.m16tv.cfd/stream/taiwan/hits/AKTV.m3u8
-TVBS精采台,http://aktv_stream1.m16tv.cfd/stream/taiwan/tvbs/AKTV.m3u8
-無線衛星新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv3/null-2/AKTV.m3u8
-Nick Jr,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickjr/AKTV.m3u8
-Nickelodeon,http://aktv_stream1.m16tv.cfd/stream/aktv3/nickelodeon/AKTV.m3u8
-Thrill,http://aktv_stream1.m16tv.cfd/stream/aktv3/thrill/AKTV.m3u8
-Xite Hits,http://aktv_stream1.m16tv.cfd/stream/aktv3/xitehits/AKTV.m3u8
-Xite Rock,http://aktv_stream1.m16tv.cfd/stream/aktv3/xiterock/AKTV.m3u8
-ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
+东森新闻,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+
+
 无线新闻台(北美);http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 臺視新聞,https://stream1.freetv.fun/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8
 臺視新聞,https://stream1.freetv.fun/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
@@ -1230,28 +1214,7 @@ ZooMoo,http://aktv_stream1.m16tv.cfd/stream/aktv3/zoomoo/AKTV.m3u8
 臺視新聞臺,https://stream1.freetv.fun/3e712c7facb3dbae8eebf29e560978e03f3711827b09e8a4f2ae7f346673716f.m3u8
 臺視新聞臺,https://stream1.freetv.fun/9e87c84976d8ad7ce1dac1ba154da29c85371dffd4a6c00a3dfde2bf1fed5735.m3u8
 东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
-龙祥电影台,http://ali.hlspull.yximgs.com/live/huanqiuhktvmqloehqbqqqpvboyjetqewsqhthqyuqfqwetyqqqhflxsq.flv
-翡翠台,https://bxtvcdn.587788.xyz/stream/bxtv/null/master.m3u8?u=xiaojia&p=edae81555a120d107ce989b744c762c7031a03490a7cb78b3613ab6d7b947ceb
-凤凰资讯,https://ali.hlspull.yximgs.com/live/qq491695550-fh.flv
-天映经典,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvvcnyjsqfqsetqqfcvbcjtsqqfvxcvsqnmbnlqqhqqnmyhsqqftyjq.flv
-龙祥时代电影,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvmqloehqbqqqpvboyjetqewsqhthqyuqfqwetyqqqhflxsq.flv
-龙华洋片台,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvqeqcxlvofbqbvbqqqfqvqhslcfvxcvxsqbcvqfjvsfcbqbnqtyxty.flv
-CineMax电影台,http://ali.hlspull.yximgs.com:80/live/huanqiuhktvqeqcxlvofbqbvbqqqbvyvblcfybqxjbcqcfjvsfcbqbnqtcqnemqx.flv
-民视新闻,http://108.181.20.197/livehttpplay?channel_id=20097
-ELTA体育1,http://108.181.20.197/livehttpplay?channel_id=20043
-ELTA体育2,http://108.181.20.197/livehttpplay?channel_id=20107
-NOW新闻,http://108.181.20.197/livehttpplay?channel_id=20041
-非凡新闻,http://108.181.20.197/livehttpplay?channel_id=20034
-壹新闻,http://108.181.20.197/livehttpplay?channel_id=20028
-HBO1,http://108.181.20.197/livehttpplay?channel_id=20093
-HBO2,http://108.181.20.197/livehttpplay?channel_id=20314
-ELEVENSPORTS1,http://108.181.20.197/livehttpplay?channel_id=10104
-ELEVENSPORTS2,http://108.181.20.197/livehttpplay?channel_id=10105
-年代新闻,http://108.181.20.197/livehttpplay?channel_id=20033
-美国中文电视,http://108.181.20.197/livehttpplay?channel_id=10128
-东森新闻,http://108.181.20.197/livehttpplay?channel_id=20082
-無線新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
-中天新聞台,http://aktv_stream1.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
+
 
 亚洲新闻720P,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 美·红牛运动,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
