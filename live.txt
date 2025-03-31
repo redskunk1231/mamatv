@@ -62,8 +62,6 @@ CCTV13,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000011000031108/index
 
 
 
-
-
 CCTV1,http://open.live-web.timetv.cn/live/hndx.m3u8?token=TV259836903HNDX04252008&channel=222
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
@@ -614,6 +612,11 @@ CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 我爱我家,https://live.metshop.top/yy/1382735557
 我爱我家,http://www.goodiptv.club/yy/1382735557
 我爱我家,http://11.xmyxc.cn/api/php/yy.php?id=1356212303
+我爱我家,http://120.78.6.151:8968/yy.php?id=1382735557
+我爱我家,http://luobo.bkpcp.top/yy/1382735557
+
+
+鹿鼎记,https://lunbo.freetv.top/yy/1354658049
 
 夏洛特烦恼,https://lunbo.freetv.top/yy/1354936201
 东北一家人,https://www.goodiptv.club/douyu/7642724
@@ -633,6 +636,7 @@ CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 来自星星的你,https://www.goodiptv.club/yy/1354930976
 来自星星的你,https://live.metshop.top/yy/1354930976
 来自星星的你,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=GITV-JS-47.m3u8
+来自星星的你,http://luobo.bkpcp.top/yy/1354930976
 83射雕英雄传,http://wab201.win:35455/yy/1354210357
 95神雕侠侣粤,http://wab201.win:35455/yy/1354926637
 96笑傲江湖版,http://wab201.win:35455/yy/1354930909
@@ -1174,11 +1178,18 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 
 港台频道,#genre#
 
-鳳凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
-鳳凰資訊,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
-鳳凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+凤凰中文,http://aktv-stream.m16tv.cfd/stream/aktv/null-3/AKTV.m3u8
+凤凰资讯,http://aktv-stream.m16tv.cfd/stream/aktv/null-4/AKTV.m3u8
+凤凰香港,http://aktv-stream.m16tv.cfd/stream/aktv/null-5/AKTV.m3u8
+凤凰中文,http://43.129.81.169/qctv.fengshows.cn/live/0701pcc72.flv
+凤凰资讯,http://43.129.81.169/qctv.fengshows.cn/live/0701pin72.flv
+凤凰香港,http://43.129.81.169/qctv.fengshows.cn/live/0701phk72.flv
 
+凤凰香港,http://162.62.120.19/qctv.fengshows.cn/live/0701phk72.flv
+凤凰资讯,http://162.62.120.19/qctv.fengshows.cn/live/0701pin72.flv
+凤凰中文,http://162.62.120.19/qctv.fengshows.cn/live/0701pcc72.flv
 
+无线新闻台,https://ali.hlspull.yximgs.com/live/5t6y7u8i9o0p1q2w3edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5.flv
 亞洲新聞台,http://aktv-stream.m16tv.cfd/stream/aktv3/null-3/AKTV.m3u8
 三立新聞iNEWS,http://aktv-stream.m16tv.cfd/stream/taiwan/inews/AKTV.m3u8
 中天新聞台,http://aktv-stream.m16tv.cfd/stream/aktv/null-6/AKTV.m3u8
@@ -1206,14 +1217,21 @@ TVBS新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 
 
 无线新闻台(北美);http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
-臺視新聞,https://stream1.freetv.fun/f860d9c0db6439c0bacd9a76f24d9d18ce57a7c6b44826832f890f0f9b5840a5.m3u8
-臺視新聞,https://stream1.freetv.fun/4c8adef47c01115677bc13b65593946135e6fe8c470fad1db810248c3ca10150.m3u8
-臺視新聞,https://stream1.freetv.fun/323de3953f32eaf0c224d78f1db77be185fa7ce9245786b3bd95d462d86d08d8.m3u8
-臺視新聞臺,https://stream1.freetv.fun/2cd7d95623d15269907381c4334b4472875d13eb3d29b2e59dd6f4c25ac9e78a.m3u8
-臺視新聞臺,https://stream1.freetv.fun/784ae05fb9ac11addbb721a62d2ac99848c7ce019b5ede7f8faa8bc2c6e5de6f.m3u8
-臺視新聞臺,https://stream1.freetv.fun/84bd51e83b43802f2624c730b0fb47c23e165aa46dc85122678d745ed1a8a2b0.m3u8
-臺視新聞臺,https://stream1.freetv.fun/3e712c7facb3dbae8eebf29e560978e03f3711827b09e8a4f2ae7f346673716f.m3u8
-臺視新聞臺,https://stream1.freetv.fun/9e87c84976d8ad7ce1dac1ba154da29c85371dffd4a6c00a3dfde2bf1fed5735.m3u8
+
+非凡新闻,http://108.181.20.197/livehttpplay?channel_id=20034
+非凡新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20034
+民视新闻,http://108.181.20.197/livehttpplay?channel_id=20097
+民视新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20097
+年代新闻,http://108.181.20.197/livehttpplay?channel_id=20033
+年代新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20033
+三立新闻,http://108.181.20.197/livehttpplay?channel_id=10126
+三立综合,http://108.181.21.27:27347/livehttpplay?channel_id=12038
+壹电影,http://108.181.20.197/livehttpplay?channel_id=20108
+壹电影,http://108.181.21.27:27347/livehttpplay?channel_id=20108
+壹新闻,http://108.181.20.197/livehttpplay?channel_id=20028
+壹新闻,http://108.181.21.27:27347/livehttpplay?channel_id=20028
+中天新闻,http://vallest.uk/livehttpplay?channel_id=20163
+
 东森洋片,http://50.7.234.10:8278/ettvwestern/playlist.m3u8?tid=MB7B8303252483032524&ct=19249&tsum=14f89967cdf6c504230be29a87cc54f0
 
 
