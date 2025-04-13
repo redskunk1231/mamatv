@@ -140,6 +140,14 @@ CCTV11,http://huashetou.fun:35455/gaoma/cctv11.m3u8
 CCTV13,http://3501776.xyz:35455/gaoma/cctv13.m3u8
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 
+//nmg单播
+CCTV5,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240246_1/encoder/0/playlist.m3u8
+CCTV5+,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240128_1/encoder/0/playlist.m3u8
+CCTV6,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240247_1/encoder/0/playlist.m3u8
+CCTV11,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240016_1/encoder/0/playlist.m3u8
+CCTV12,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240017_1/encoder/0/playlist.m3u8
+CCTV13,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240126_1/encoder/0/playlist.m3u8
+
 
 CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
@@ -191,7 +199,7 @@ CCTV5+,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224
 
 
 CCTV6,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-CCTV6,rtsp://115.153.233.154/PLTV/88888888/224/3221226909/65396493.smil
+CCTV6,rtsp://10.11.43.21/PLTV/88888912/224/3221226627/395135735.smil
 CCTV6,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
 CCTV6,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
@@ -240,7 +248,7 @@ CCTV11,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/888888
 CCTV11,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000497/index.m3u8?IAS
 CCTV11,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010092/1.m3u8
 CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
-CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8$黑龙江哈尔滨 移动
+CCTV11,rtsp://10.11.43.21/PLTV/88888912/224/3221226699/426211166.smil
 CCTV11,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226565/index.m3u8$5.5M_1080
 CCTV11,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
 CCTV11,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTWDyIgRkFJBAHMhA2ayG0Qj2xHA4vdPGsjBbxSL3p%2FmAObVTfznR%2Fpc%2B76QYmLRMuL3Lj9iabhv8arW7kJe6%2F4
@@ -312,6 +320,7 @@ CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 
 
 呼市新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
+呼市新闻综合,http://10.11.43.21/PLTV/88888912/224/3221226585/10000100000000060000000001126204_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 
 
 
