@@ -131,14 +131,10 @@ CCTV12,http://10.11.33.83/PLTV/88888912/224/3221226447/1000010000000006000000000
 CCTV13,http://10.11.33.83/PLTV/88888912/224/3221226678/382484600.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 
 //测试
-CCTV1,http://129.146.6.71:35455/gaoma/cctv1.m3u8
-CCTV2,http://129.146.6.71:35455/gaoma/cctv2.m3u8
-CCTV2,http://36.105.100.208:35455/gaoma/cctv2.m3u8
-CCTV5,http://home.kuaidi521.com:35455/gaoma/cctv5.m3u8
-CCTV5,http://xiaoya.crccxw.top:35455/gaoma/cctv5.m3u8
-CCTV5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-CCTV5+,http://117.169.124.46:6410/ysten-businessmobile/live/hdcctv05plus/1.m3u8
-CCTV6,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
+CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
+CCTV1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
+
+CCTV6,http://123.123.74.59:9003//hls/6/index.m3u8
 CCTV6,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
 CCTV11,http://huashetou.fun:35455/gaoma/cctv11.m3u8
 CCTV11,http://home.kuaidi521.com:35455/gaoma/cctv11.m3u8
@@ -688,6 +684,9 @@ CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 
 经典剧集,#genre#
 
+我爱我家,http://luobo.bkpcp.top/yy/1382735557
+我爱我家,http://mmitv.top/pltv/yy.php?id=1382735557
+我爱我家,http://luobo.bkpcp.top/yy/1356212303
 我爱我家,http://jiaojirentv.top/2020/yy.php?id=1382735557
 我爱我家,http://159.75.85.63:35455/yy.php?id=1382735557
 我爱我家,http://live.iill.top/yy.php?id=1382735557
@@ -697,14 +696,12 @@ CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
 我爱我家,http://www.goodiptv.club/yy/1382735557
 我爱我家,http://11.xmyxc.cn/api/php/yy.php?id=1356212303
 我爱我家,http://120.78.6.151:8968/yy.php?id=1382735557
-我爱我家,http://luobo.bkpcp.top/yy/1382735557
-我爱我家,http://mmitv.top/pltv/yy.php?id=1382735557
-我爱我家,http://120.77.28.4:8648/yy.php?id=1382735557
 
 
 
 
-夏洛特烦恼,https://lunbo.freetv.top/yy/1354936201
+夏洛特烦恼,http://luobo.bkpcp.top/yy/1354936201
+
 东北一家人,https://www.goodiptv.club/douyu/7642724
 武林外传,http://live.iill.top/yy.php?id=21092633
 射雕英雄传83版,http://jiaojirentv.top/2020/yy.php?id=1354210357
@@ -1123,24 +1120,6 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 
 星爷全集,#genre#
 
-星爷电影,http://124.248.69.76:26781/huya/11342412
-粤语星爷电影,http://cfss.cc/cdn/hy/11336587.m3u8
-周星驰典@代,http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu_2000.m3u8
-绝版电影@代,https://lunbo.freetv.top/yy/1455988450
-周星驰,http://zby.xjqxz.top/live12/live.m3u8
-周星驰专辑轮播,http://zby.xjqxz.top/live12/live.m3u8
-周星驰1,http://huanqiuzhibo.cn/manifest/douyu.php?id=122402
-周星驰2,http://diyp.zxxoo.work/douyu/122402
-星爷喜剧经典,http://epg.112114.eu.org/douyu/122402
-周星驰,http://lxajh.top/tv/douyu.php?id=122402
-粤语剧集轮播,http://wab201.win:35455/douyu/10338873
-粤语综艺轮播,http://wab201.win:35455/douyu/7919720
-粤语星爷电影,http://rihou.cc:555/huyad.php?id=11336587
-粤语极清电影,https://pullhw.zhaoyangyang.cn/live/8759288.flv?auth_info=jK%2Brr88wi6Pl8cjYQIMsRvZdnRiQa2jeGonIH77W95c%3D.597954345669364b6d6956666b707373
-粤语版电影一,http://wab201.win:35455/douyu/5033502
-粤语版电影二,http://wab201.win:35455/douyu/6566671
-粤语版电影三,http://wab201.win:35455/douyu/1226741
-
 
 回魂夜,https://v3.dious.cc/20220401/y9ihZG1e/index.m3u8
 功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
@@ -1294,7 +1273,27 @@ TVBS新闻,http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941
 东森新闻,http://aktv.top/AKTV/live/aktv2/null/AKTV.m3u8
 东森新闻,http://122.117.71.103:8539/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 东森新闻,http://aktv-stream.m16tv.cfd/stream/aktv2/null/AKTV.m3u8
+TVBS新闻,http://61.221.215.25:8800/hls/9/index.m3u8
+TVBS新闻,http://211.72.65.236:8574/.m3u8
+TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts
+TVBS新闻,http://125.227.210.55:8186/VideoInput/play.ts$LR•IPV4『线路6』
+民视新闻,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+台视新闻,http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist0.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
 
+三立新闻,http://122.117.71.103:8542/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-4.m3u8
+三立新闻,https://stream1.freetv.fun/san-li-xin-wen-5.ctv
+
+非凡新闻,rtmp://f13h.mine.nu/sat/tv581
+非凡新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv010
+年代新闻,http://211.72.65.236:8539/.m3u8
+年代新闻,http://50.7.234.10:8278/niandainews_twn/playlist.m3u8?tid=m062d2322888417909285&ct=17874&tsum=da6e0908f8df0e85b37f9d93167b9fcd
+中天新闻,http://122.117.71.103:8540/中天新闻.m3u8
+中天新闻,http://eu.huohuoaa.tech:1025/Smart.php?id=ctinews
+中天新闻,https://4gtv.mytvsuper.xyz/4gtv.php?id=4gtv-4gtv009
 
 无线新闻台(北美);http://aktv_stream1.m16tv.cfd/stream/aktv2/null-1/AKTV.m3u8
 
@@ -1366,6 +1365,16 @@ E! Entertainment,p3p://108.181.32.169:27540/6463a9740001391ddea5dc3e432509a2
 粤语港剧轮播,http://124.248.69.76:35455/douyu/6478650
 粤语港剧回忆,http://124.248.69.76:35455/douyu/742565
 粤语轮播剧集,http://124.248.69.76:35455/douyu/10567318
+
+粤语版电影,http://epg.112114.xyz/douyu/1226741
+奶虫影院✔原,http://zzy789.xyz/douyu1.php?id=263824
+冰冰影厅✔原,http://zzy789.xyz/douyu1.php?id=74374
+刀刀影院✔原,http://zzy789.xyz/douyu1.php?id=747764
+橙記港剧✔原,http://zzy789.xyz/douyu1.php?id=4549169
+热门港剧✔原,http://zzy789.xyz/douyu1.php?id=5522351
+经典剧集✔原,http://zzy789.xyz/douyu1.php?id=6863367
+
+HK港鬼片(🚀),http://epg.112114.eu.org/douyu/8009547
 
 
 
