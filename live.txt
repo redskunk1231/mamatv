@@ -43,7 +43,9 @@ CCTV8,https://www.freetv.top/migu/624878356.m3u8?migutoken=e815d6cc32cc5f0ae9da0
 CCTV9,https://www.freetv.top/migu/673168140.m3u8?migutoken=bb1033f6eec6afc5278ea2529fa459f55db8515cd1bf3064529a887ac9e181c7c625023043f95a6d1d745fcb3a127bcc245c47b485c8a3e8dc33fdd880b224f99b6809765e645d7283c70b49af
 CCTV11,https://www.freetv.top/migu/667987558.m3u8?migutoken=ae91ae97c60d43335f774a1b708100df445db34134cb37f728f833e8ea0059efa097ec768c9c997aeab29a8e94493ddb5665dec63f7b804c6e520708ac952dac4f5b16cabec373b2e20a369449
 CCTV13,https://www.freetv.top/migu/608807423.m3u8?migutoken=6cf1ac193c23c7b5657ed381e61e438485d3012e2bc49d8c95ba10897e91f3a837c9a7efd030a52749eaf551dbc505905fcdfec511990dd26209dbc21314b439459726378bd7b6347d3b9f921c
+CCTV老故事,https://www.freetv.top/migu/884121956.m3u8?migutoken=328000bda37b007e7f281925f97e92e4c8c6e09d8559f71a564f0b8d5cd1260080685aa28e779ffe8a4bb848f6564178988f4970df2e95cdf0245d1efa8035876d35f5ba3814957f24a4a020e2
 CCTV怀旧剧场,https://nptv.freetv.top/nptv/hjjc.m3u8
+咪咕24小时体育台,https://www.freetv.top/migu/654102378.m3u8?migutoken=920888210b7a69c83bf003c908058a0db5e1735ef436f480f7f145cf01aba578270c3a96df15f663b202db99ccf488f6568313e8afb808f8d14eae3d780a7260241cbc7b8a0d5608353174369b
 
 
 //nm联通单播测试
@@ -305,14 +307,6 @@ CCTV13,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/
 CCTV13,http://112.81.218.254:35455/gaoma/cctv13.m3u8
 
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
-CCTV怀旧剧场,http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-CCTV怀旧剧场,http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/index.m3u8
-CCTV怀旧剧场,http://111.61.236.247:9081/hls/67/index.m3u8
-CCTV怀旧剧场,http://t8622699o8.vicp.fun:60024/tptv/G_NVXINGSS-CQ.m3u8
-CCTV怀旧剧场,http://180.213.174.225:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV怀旧剧场,rtsp://115.153.245.70/PLTV/88888888/224/3221226996/86128881.smil
-CCTV怀旧剧场,rtsp://115.153.247.80/PLTV/88888888/224/3221226996/86128881.smil
-CCTV怀旧剧场,rtsp://115.153.222.112:554/PLTV/88888888/224/3221226996/86128881.smil
 CCTV怀旧剧场,http://60.255.240.247:8090/live/lgs_2000.m3u8
 CCTV怀旧剧场,http://183.11.239.36:808/hls/92/index.m3u8
 CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
