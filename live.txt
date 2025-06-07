@@ -34,20 +34,11 @@ CCTV5+,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000153
 CCTV11,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000583
 
 //肥羊直播
-CCTV1,https://www.freetv.top/migu/608807420.m3u8?migutoken=62cc412b9ed80aedbbfbfa6a55531ee8b985d61113ed0b3a1eeca8b89d22ad1421fa10735503c61f31e2f2ce0a171251aeef21c117c85c7402fad2ac072d34433a2894846daa562bba18718b94
-CCTV2,https://www.freetv.top/migu/631780532.m3u8?migutoken=5396c865eb8aa1dd8ded083170dabb95304b9bc2386131e8f59a7a5a1ed2bba57d7d4b178565e984cbbad8b52c5f27c3eb5f3a1376edf3e8bee111cefc92f392cd5cfaa8ca32f08c62b000a778
-CCTV4,https://www.freetv.top/migu/631780421.m3u8?migutoken=b13ef72dab17f01562c3a24e9cf7cdd236cb377d526c66696b7ca4cdc8dd4274de7e285aef1e960102a47d9f2d1b08c8f54020ebb489a3ccc0296cb7ae2a2ff5437e969431ed0267dfd82cc326
-CCTV5,https://www.freetv.top/migu/641886683.m3u8?migutoken=0ddaf285505e7b1a48bdac6ba93383b982d5cac6e170d2351072ecf3757d89db85689c849d662bfee2b5d38bab9c4cfa230d4c80dd124f50d6cca72dd3d81f444d5e128152c15da12cb2ecfbec
-CCTV5+,https://www.freetv.top/migu/641886773.m3u8?migutoken=af558a693614440a59bfd6a33cf11cf3e38380498ad276f208f43ca52ac6d732087302060efe1b5f21cd8ccc89c417e7bdddd9c1d3e6233a834e1f149818024731e56f97b1489c88735ef75551
-CCTV6,https://www.freetv.top/migu/624878396.m3u8?migutoken=0dbbc32c19150dcab91829c86403826573a64e669aae727bbcf7531d9d53e77b93b0e70f2a87ced7b967b719336d82554fb4fcf4b5b37759c78d3aaba2c417a32ee19fbf0f9d6bddc5cf2388f0
-CCTV8,https://www.freetv.top/migu/624878356.m3u8?migutoken=e815d6cc32cc5f0ae9da06fb64d85fab326d2d92e6fc57103cb16e2bfa24304a1c6d91c31c03be593d8fca694a69996347f8448eed2141af2fb8204dca211864b5668cd259afd5af894cbe63fc
-CCTV9,https://www.freetv.top/migu/673168140.m3u8?migutoken=bb1033f6eec6afc5278ea2529fa459f55db8515cd1bf3064529a887ac9e181c7c625023043f95a6d1d745fcb3a127bcc245c47b485c8a3e8dc33fdd880b224f99b6809765e645d7283c70b49af
-CCTV11,https://www.freetv.top/migu/667987558.m3u8?migutoken=ae91ae97c60d43335f774a1b708100df445db34134cb37f728f833e8ea0059efa097ec768c9c997aeab29a8e94493ddb5665dec63f7b804c6e520708ac952dac4f5b16cabec373b2e20a369449
-CCTV13,https://www.freetv.top/migu/608807423.m3u8?migutoken=6cf1ac193c23c7b5657ed381e61e438485d3012e2bc49d8c95ba10897e91f3a837c9a7efd030a52749eaf551dbc505905fcdfec511990dd26209dbc21314b439459726378bd7b6347d3b9f921c
-CCTV怀旧剧场,https://nptv.freetv.top/nptv/hjjc.m3u8
-CCTV老故事,https://www.freetv.top/migu/884121956.m3u8?migutoken=328000bda37b007e7f281925f97e92e4c8c6e09d8559f71a564f0b8d5cd1260080685aa28e779ffe8a4bb848f6564178988f4970df2e95cdf0245d1efa8035876d35f5ba3814957f24a4a020e2
-咪咕24小时体育台,https://www.freetv.top/migu/654102378.m3u8?migutoken=920888210b7a69c83bf003c908058a0db5e1735ef436f480f7f145cf01aba578270c3a96df15f663b202db99ccf488f6568313e8afb808f8d14eae3d780a7260241cbc7b8a0d5608353174369b
-红色轮播台,https://www.freetv.top/migu/713600957.m3u8?migutoken=075bf1989281115dfaf51683f0a468242dbf0bfb6e10d7cb88602203ee5fc55ebd53608d98c9af8c5547cb7918c225eed3449d365de3d96d4408719d3bd2253d21780bf1685c20421e63b234b5
+
+CCTV6,http://112.46.105.20:8009/hls/6/index.m3u8
+CCTV11,http://112.46.105.20:8009/hls/11/index.m3u8
+CCTV13,http://112.46.105.20:8009/hls/13/index.m3u8
+
 
 
 //nm联通单播测试
@@ -308,11 +299,10 @@ CCTV13,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224
 CCTV13,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
 CCTV13,http://112.81.218.254:35455/gaoma/cctv13.m3u8
 
-CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
-CCTV怀旧剧场,http://60.255.240.247:8090/live/lgs_2000.m3u8
-CCTV怀旧剧场,http://183.11.239.36:808/hls/92/index.m3u8
-CCTV怀旧剧场,http://120.76.248.139/live/bfgd/4200000224.m3u8
-
+CCTV怀旧剧场,http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
+CCTV怀旧剧场,http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
+CCTV怀旧剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
+CCTV怀旧剧场,https://live.goodiptv.club/api/yqgd.php?id=hjjc
 
 卫视,#genre#
 
