@@ -299,10 +299,9 @@ CCTV13,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224
 CCTV13,http://[2409:8087:7008:20::8]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/index.m3u8
 CCTV13,http://112.81.218.254:35455/gaoma/cctv13.m3u8
 
-CCTV怀旧剧场,http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
+CCTV怀旧剧场,http://47.92.218.6:43855/nptv/hjjc.m3u8
 CCTV怀旧剧场,http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
-CCTV怀旧剧场,http://101.72.196.41/r/baiducdnct.inter.iqiyi.com/tslive/c16_lb_huaijiujuchang_1080p_t10/c16_lb_huaijiujuchang_1080p_t10.m3u8
-CCTV怀旧剧场,https://live.goodiptv.club/api/yqgd.php?id=hjjc
+
 
 卫视,#genre#
 
