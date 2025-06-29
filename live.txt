@@ -294,6 +294,8 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 CCTV怀旧剧场,http://47.92.218.6:43855/nptv/hjjc.m3u8
 CCTV怀旧剧场,http://101.33.125.212:1008/nptv/hjjc.m3u8
 CCTV怀旧剧场,http://115.58.140.72:5555/nptv/hjjc.m3u8
+CCTV怀旧剧场,http://120.46.177.235:90/cqyx.php?id=hjjcHD
+CCTV怀旧剧场,https://115.190.105.236/nptv/hjjc.m3u8
 
 卫视,#genre#
 
