@@ -292,10 +292,10 @@ CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000510
 
 CCTV怀旧剧场,http://47.92.218.6:43855/nptv/hjjc.m3u8
-CCTV怀旧剧场,http://101.33.125.212:1008/nptv/hjjc.m3u8
-CCTV怀旧剧场,http://115.58.140.72:5555/nptv/hjjc.m3u8
-CCTV怀旧剧场,http://120.46.177.235:90/cqyx.php?id=hjjcHD
-CCTV怀旧剧场,https://115.190.105.236/nptv/hjjc.m3u8
+CCTV怀旧剧场,http://10.11.43.21/PLTV/88888912/224/3221226097/382484600.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
+CCTV怀旧剧场,http://10.11.43.21/PLTV/88888912/224/3221226097/10000100000000060000000000719622_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
+CCTV怀旧剧场,http://10.11.43.21/PLTV/88888912/224/3221226700/10000100000000060000000006385151_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
+
 
 卫视,#genre#
 
@@ -675,18 +675,21 @@ CCTV怀旧剧场,https://115.190.105.236/nptv/hjjc.m3u8
 
 经典剧集,#genre#
 
-我爱我家,http://luobo.bkpcp.top/yy/1382735557
+我爱我家,https://live.metshop.top/yy/1382735557
 我爱我家,http://mmitv.top/pltv/yy.php?id=1382735557
 我爱我家,http://luobo.bkpcp.top/yy/1356212303
 我爱我家,http://jiaojirentv.top/2020/yy.php?id=1382735557
 我爱我家,http://159.75.85.63:35455/yy.php?id=1382735557
 我爱我家,http://live.iill.top/yy.php?id=1382735557
-我爱我家,http://live.iill.top/yy.php?id=1356212303
 我爱我家,http://43.138.170.29:35455/yy/1356212303
-我爱我家,https://live.metshop.top/yy/1382735557
 我爱我家,http://www.goodiptv.club/yy/1382735557
 我爱我家,http://11.xmyxc.cn/api/php/yy.php?id=1356212303
 我爱我家,http://120.78.6.151:8968/yy.php?id=1382735557
+我爱我家,http://liushizupu.site:35455/yy/1382735557$LR•IPV4
+我爱我家,http://120.77.28.4:8648/yy.php?id=1382735557
+我爱我家,http://159.75.85.63:35455/yy/1382735557
+我爱我家,http://124.248.69.76:35455/yy/1382735557
+
 
 
 
