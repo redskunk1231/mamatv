@@ -291,11 +291,17 @@ CCTV13,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/
 CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?channel-id=newtv&livemode=4&Contentid=9900000510
 
-CCTV怀旧剧场,http://47.92.218.6:43855/nptv/hjjc.m3u8
+CCTV怀旧剧场,http://239.125.1.53:4120/nptv/hjjc.m3u8
 CCTV怀旧剧场,http://10.11.43.21/PLTV/88888912/224/3221226097/382484600.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 CCTV怀旧剧场,http://10.11.43.21/PLTV/88888912/224/3221226097/10000100000000060000000000719622_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 CCTV怀旧剧场,http://10.11.43.21/PLTV/88888912/224/3221226700/10000100000000060000000006385151_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
+CCTV怀旧剧场,http://10.11.43.21/PLTV/88888893/224/3221226972/10000100000000060000000006385151_0.smil/01.m3u8?fmt=ts2hls&icpid=88888893&from=19&hms_devid=1424&online=1702564791
+CCTV怀旧剧场,http://10.11.43.21/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls&icpid=88888888&from=19&hms_devid=1424&online=1702564791
+CCTV怀旧剧场,http://10.11.43.21/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls&icpid=88888888&from=19&hms_devid=1424&online=1702564791
+CCTV怀旧剧场,http://118.113.157.64:4022/udp/239.125.1.53:4120
+CCTV怀旧剧场,http://10.11.43.21/PLTV/88888893/224/3221226972/1/index.m3u8?fmt=ts2hls&icpid=88888893&from=19&hms_devid=1424&online=1702564791
 
+CCTV怀旧剧场,http://10.11.43.21/PLTV/88888888/224/3221226700/10000100000000060000000006385151_0.smil/01.m3u8?fmt=ts2hls&icpid=88888888&from=19&hms_devid=1424&online=1702564791
 
 卫视,#genre#
 
@@ -693,7 +699,7 @@ CCTV怀旧剧场,http://10.11.43.21/PLTV/88888912/224/3221226700/100001000000000
 
 
 
-
+鹿鼎记,http://luobo.bkpcp.top/yy/28265277
 夏洛特烦恼,http://luobo.bkpcp.top/yy/1354936201
 
 东北一家人,https://www.goodiptv.club/douyu/7642724
@@ -704,19 +710,19 @@ CCTV怀旧剧场,http://10.11.43.21/PLTV/88888912/224/3221226700/100001000000000
 老三国,http://jiaojirentv.top/2020/yy.php?id=1354936241
 神雕侠侣,http://jiaojirentv.top/2020/yy.php?id=1382704651
 剧集_新三国,http://jiaojirentv.top/2020/yy.php?id=23512910
-来自星星的你,http://live.iill.top/yy.php?id=1354930976
+来自星星的你,http://luobo.bkpcp.top/yy/1354930976
 来自星星的你,https://www.goodiptv.club/yy/1354930976
 来自星星的你,https://live.metshop.top/yy/1354930976
 来自星星的你,http://115.120.210.199/proxy/jsyd.php?p=gitv&id=GITV-JS-47.m3u8
 83射雕英雄传,http://wab201.win:35455/yy/1354210357
 95神雕侠侣粤,http://wab201.win:35455/yy/1354926637
 96笑傲江湖版,http://wab201.win:35455/yy/1354930909
-我的体育老师,http://wab201.win:35455/yy/1382745169
+我的体育老师,http://luobo.bkpcp.top/yy/1382745169
 火凤凰,http://jiaojirentv.top/2020/yy.php?id=1463088777
-欢乐颂电视剧,http://wab201.win:35455/douyu/3756989
-好先生电视剧,http://wab201.win:35455/douyu/9650792
+欢乐颂电视剧,https://www.goodiptv.club/douyu/3756989
+好先生电视剧,https://www.goodiptv.club/douyu/9650792
 武林外传轮播,http://wab201.win:35455/yy/1355652820
-征服孙红雷,http://120.77.28.4:8648/douyu.php?id=2726977
+征服孙红雷,https://www.goodiptv.club/douyu/2726977
 寻秦记,https://lunbo.freetv.top/yy/1382749900
 封神榜86版,http://live.iill.top/yy.php?id=1353426319
 红楼梦87版,http://live.iill.top/yy.php?id=1382745084
@@ -725,7 +731,7 @@ CCTV怀旧剧场,http://10.11.43.21/PLTV/88888912/224/3221226700/100001000000000
 新水浒传11版,http://diyp.zxxoo.work/huya/11342384
 新水浒传11版,http://cfss.cc/cdn/hy/11342384.flv
 新水浒传11版,http://159.75.85.63:35455/huya/11342384?cdn=hwcdn
-活着,https://vip.ffzy-play.com/20221011/100_192cffb5/index.m3u8
+
 疯狂的外星人,https://vip.ffzy-online2.com/20230607/38938_95adfc88/index.m3u8
 疯狂的赛车,https://vip.ffzy-play2.com/20221021/169_37d917eb/index.m3u8
 疯狂的石头,https://vip.ffzy-play2.com/20221021/170_91678c84/index.m3u8
@@ -739,7 +745,7 @@ CCTV怀旧剧场,http://10.11.43.21/PLTV/88888912/224/3221226700/100001000000000
 倚天屠龙记吴启华版,http://159.75.85.63:35455/huya/23734246?cdn=hwcdn
 倚天屠龙记苏有朋版,http://live.iill.top/yy.php?id=1449856066
 神雕侠侣,http://live.iill.top/yy.php?id=1351762426
-鹿鼎记,http://live.iill.top/yy.php?id=28265277
+
 笑傲江湖,http://live.iill.top/yy.php?id=1354930909
 有话好好说,https://vip.ffzy-play7.com/20221112/3406_98dc6f14/index.m3u8
 命运呼叫转移,https://vip.ffzy-play6.com/20221030/2878_fd228534/index.m3u8
@@ -814,8 +820,6 @@ CCTV怀旧剧场,http://10.11.43.21/PLTV/88888912/224/3221226700/100001000000000
 康熙王朝,http://159.75.85.63:35455/huya/11352940?cdn=hwcdn
 
 西游记,http://159.75.85.63:35455/huya/26355861?cdn=txcdn
-西游记后传,http://live.iill.top/yy.php?id=1382736846
-西游记张卫健版,http://live.iill.top/yy.php?id=1354936155
 西游记2,http://159.75.85.63:35455/huya/29465859?cdn=txcdn
 新白娘子传奇,http://live.iill.top/yy.php?id=1354930969
 太子妃升职记,http://live.iill.top/yy.php?id=1354932359
@@ -1231,24 +1235,6 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 
 港台频道,#genre#
 
-POPC,http://api.mytv666.top/api/qwt.php?t=影视频道&id=POPC
-Now爆谷台,http://api.mytv666.top/api/qwt.php?t=影视频道&id=Now爆谷台
-Now星影台,http://api.mytv666.top/api/qwt.php?t=影视频道&id=Now星影台
-天映经典,http://api.mytv666.top/api/qwt.php?t=影视频道&id=天映经典
-TVB功夫台(国),http://api.mytv666.top/api/qwt.php?t=影视频道&id=TVB功夫台(国)
-TVB功夫台(粤),http://api.mytv666.top/api/qwt.php?t=影视频道&id=TVB功夫台(粤)
-美亚电影(国),http://api.mytv666.top/api/qwt.php?t=影视频道&id=美亚电影(国)
-美亚电影(粤),http://api.mytv666.top/api/qwt.php?t=影视频道&id=美亚电影(粤)
-中国电影频道,http://api.mytv666.top/api/qwt.php?t=影视频道&id=中国电影频道
-纬来电影,http://api.mytv666.top/api/qwt.php?t=影视频道&id=纬来电影
-东森电影,http://api.mytv666.top/api/qwt.php?t=影视频道&id=东森电影
-东森洋片,http://api.mytv666.top/api/qwt.php?t=影视频道&id=东森洋片
-tvN,http://api.mytv666.top/api/qwt.php?t=影视频道&id=tvN
-Kix,http://api.mytv666.top/api/qwt.php?t=影视频道&id=Kix
-ROCK超级娱乐,http://api.mytv666.top/api/qwt.php?t=影视频道&id=ROCK超级娱乐
-ROCK综艺娱乐,http://api.mytv666.top/api/qwt.php?t=影视频道&id=ROCK综艺娱乐
-AXN,http://api.mytv666.top/api/qwt.php?t=影视频道&id=AXN
-Animax,http://api.mytv666.top/api/qwt.php?t=影视频道&id=Animax
 Thrill惊悚,http://api.mytv666.top/api/qwt.php?t=影视频道&id=Thrill惊悚
 美亚电影台,http://api.mytv666.top/api/qwt.php?t=影视频道&id=美亚电影台
 AXN頻道,http://api.mytv666.top/api/qwt.php?t=影视频道&id=AXN頻道
