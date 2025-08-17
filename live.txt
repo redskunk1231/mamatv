@@ -701,8 +701,10 @@ CCTV怀旧剧场,http://10.11.43.21/PLTV/88888888/224/3221226700/100001000000000
 我爱我家,http://124.248.69.76:35455/yy/1382735557
 24h 我爱我家 纯音频,https://mursor.ottiptv.cc/yy/1356212303
 
+夏洛特烦恼-国内电影-喜剧,https://mursor.ottiptv.cc/yy/1354936201
 鹿鼎记,https://mursor.ottiptv.cc/yy/1460463356
 鹿鼎记-高清全集,https://mursor.ottiptv.cc/yy/1382704650
+鹿鼎记-周星驰版,https://mursor.ottiptv.cc/yy/1354658049
 古惑仔,https://mursor.ottiptv.cc/yy/1458015189
 武林外传 超清,https://mursor.ottiptv.cc/yy/21092633
 武林外传,https://mursor.ottiptv.cc/yy/1355652820
@@ -716,6 +718,7 @@ CCTV怀旧剧场,http://10.11.43.21/PLTV/88888888/224/3221226700/100001000000000
 83射雕英雄传,https://mursor.ottiptv.cc/yy/1354210357
 天龙八部,http://jiaojirentv.top/2020/yy.php?id=1382736855
 寻秦记,https://mursor.ottiptv.cc/yy/1354658048
+三国演义【1994】,https://mursor.ottiptv.cc/yy/1354930932
 天龙八部,https://mursor.ottiptv.cc/yy/1351814644
 狂飙,https://mursor.ottiptv.cc/yy/1382754187
 神雕侠侣,https://mursor.ottiptv.cc/yy/1351762426
@@ -1146,6 +1149,7 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 
 星爷全集,#genre#
 致敬星爷致敬经典,https://mursor.ottiptv.cc/yy/1354889048
+星爷经典-百看不厌,https://mursor.ottiptv.cc/yy/1382736808
 【周星驰】搞笑电影,https://mursor.ottiptv.cc/yy/38670875
 我是周粤驰,https://mursor.ottiptv.cc/huya/23864973
 星爷经典-百看不厌,https://mursor.ottiptv.cc/yy/1382736808
