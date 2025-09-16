@@ -698,6 +698,10 @@ CCTV怀旧剧场,http://10.11.43.21/PLTV/88888893/224/3221226972/1/index.m3u8?fm
 24h 我爱我家 纯音频,https://mursor.ottiptv.cc/yy/1356212303
 
 夏洛特烦恼-国内电影-喜剧,https://mursor.ottiptv.cc/yy/1354936201
+鹿鼎记-高清全集,https://mgtv.ottiptv.cc/mg/yy/28265277.m3u8?userid=834690701&sign=a323005c848e8ace7b31fa68802da34d32515167f15d24b2c85d06c1f71a76cfd3991653af6abc7107fcd29f1897eefde761cdb36931395888b3966032c81bf31c46b52069219a81ca3399496d389b01&auth_token=3347db0e1f3fda99598b067b59d0895e
+
+
+
 鹿鼎记,https://mursor.ottiptv.cc/yy/1460463356
 鹿鼎记-高清全集,https://mursor.ottiptv.cc/yy/1382704650
 鹿鼎记-周星驰版,https://mursor.ottiptv.cc/yy/1354658049
