@@ -309,10 +309,6 @@ CCTV怀旧剧场,http://10.11.43.21/PLTV/88888888/224/3221225765/1/index.m3u8?fm
 CCTV怀旧剧场,http://118.113.157.64:4022/udp/239.125.1.53:4120
 CCTV怀旧剧场,http://10.11.43.21/PLTV/88888893/224/3221226972/1/index.m3u8?fmt=ts2hls&icpid=88888893&from=19&hms_devid=1424&online=1702564791
 
-抗战经典影片,https://mgtv.ottiptv.cc/mg/617432318.m3u8?userid=834690701&sign=2fe70ac9effeab4c945dd84053b0df881841f7c045f0e342d70d3ee6a1375f5b73eef2a74fa6e7e88c1d2f61891d1b920e27e801f7b4444702d61bf7ca4cfe61c89c89152e240963831a6a178a5ab111&auth_token=4b0e673c1d1040ab1bff6690d39cd304
-
-重温经典,https://gdcucc.v1.mk/gdcucc/cwjd.m3u8
-
 
 卫视,#genre#
 
