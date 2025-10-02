@@ -41,6 +41,7 @@ CCTV5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?userid=834690701&sign=b84941192
 
 CCTV6,https://mgtv.ottiptv.cc/mg/624878396.m3u8?userid=834690701&sign=00412f471446476731bb93368ed764b1d52a16c8ca061e9a2ae03402212bd3271d4fb1fd66e9570ba06d7e48160e30297c98686791a45a16158a3f343f1b120107a02a078bf8320f021fa880872e98a1&auth_token=4b0e673c1d1040ab1bff6690d39cd304
 
+
 CCTV8,https://mgtv.ottiptv.cc/mg/624878356.m3u8?userid=834690701&sign=824a71f34431be9c03532eee94d0bc821b0a78ad6e3cab354414cc45d98e5c344498c14e72b2fd4967551a69c23c1d80ef33b3ca598f855edf716b4862908c8f2879d7c51391986361c458c669228d5f&auth_token=4b0e673c1d1040ab1bff6690d39cd304
 
 
@@ -50,6 +51,20 @@ CCTV13,https://mgtv.ottiptv.cc/mg/608807423.m3u8?userid=834690701&sign=9359fcca6
 
 CCTV11,https://live.catvod.com/catvod_com.php?id=cctv11&token=62922a408b618773b9e39e5b19695df1ae73363e75c6e7f60123b7a51917e742%3A1757904658
 CCTV13,https://live.catvod.com/catvod_com.php?id=cctv13&token=977155f38082859f2fa82296fe116a64840119cc50287ea970412e25c7ae75ff%3A1757904658
+
+CCTV5,https://live.ottiptv.cc/mcp/cctv5.m3u8?userid=834690701&sign=f588b92a03b3704a5b3e96e2cdabd5a45426d02ca7c4003d64a63c408451a93616961936a13fc4d75e130972a105aa3439e5f7616eba447f263333857165a20a2de19789df005869a2a7abca&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+CCTV5+,https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=834690701&sign=0975619ed079895a5e33621403480fbe50edb61279060b4952b5ebccfbb4a8618f7ebc945ee959d1d0b2da58622a318b00f1e8852cb54b15e03843c8bb317f128a94c060de55e24961cb3b2d90&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+
+CCTV6,https://live.ottiptv.cc/mcp/cctv6.m3u8?userid=834690701&sign=303b03ff7a1939d1b49113ace34799353c1d56c53bedc0177cd648e270f5cca4d6a683cd286bbae3518fd0c16932967097a3183a0ee44a52188532b1241a5409244229cea32317e59a9c89f7&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+
+CCTV11,https://live.ottiptv.cc/mcp/cctv11.m3u8?userid=834690701&sign=24429ea4b7ce6877fc9fd9fd6c58e774aebd80fc317412048188d3ea2fd326b69c86cf9710365eb26a6b121eb251e56c1daedbee41a76c2371e3774a78f3c3eeebbd7908707dddcaba31049586&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+
+CCTV13,https://live.ottiptv.cc/mcp/cctv13.m3u8?userid=834690701&sign=6708832febec39cce136568d1345d1b2dfb42c881c65fcf9292e52170a9d215f84a4562f1e0299add92607215ca54d56cb6db5edb275e6881f9fd927213a06ff5279fc38eda73c7ed18f42043d&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+
+
+
+
+
 
 
 
@@ -304,10 +319,13 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 
 CCTV怀旧剧场,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=834690701&sign=4c3d738396c5fb5eeb24c256cc12aa07ee7fd28aaf249eda505c2a4fb7065fb1e868e300e602585488d49dc941065d2913579abf17e9b2d1175ef3825128d5d35f1547645938c9894c58d9&auth_token=4b0e673c1d1040ab1bff6690d39cd304
 
-CCTV怀旧剧场,http://10.11.43.21/PLTV/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls&icpid=88888888&from=19&hms_devid=1424&online=1702564791
-CCTV怀旧剧场,http://10.11.43.21/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls&icpid=88888888&from=19&hms_devid=1424&online=1702564791
-CCTV怀旧剧场,http://118.113.157.64:4022/udp/239.125.1.53:4120
-CCTV怀旧剧场,http://10.11.43.21/PLTV/88888893/224/3221226972/1/index.m3u8?fmt=ts2hls&icpid=88888893&from=19&hms_devid=1424&online=1702564791
+CCTV怀旧剧场,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=834690701&sign=0fa3b82c3462b3454c6ad9008b05e8edbbf386ae01defe58367b56c358c99803b604efca71ce5bc28cd43d753000f9eb7fba1f55ef4a37632a303560ee568b64807d5e356c2cd68edbf4a8&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+
+老故事,https://mgtv.ottiptv.cc/mg/884121956.m3u8?userid=834690701&sign=e485d06052941ad5590d68ec591beac525965b91dfd2b8ed9c4ace1beb30638f3be036909b2281e614f9f55b087ef9cc5fe392f0ec01b9a5ce47ca8de0750efa42655ab45a96fa4a2a2cf1c7a265dec8&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+
+抗战经典影片,https://mgtv.ottiptv.cc/mg/617432318.m3u8?userid=834690701&sign=a6fc5093f0ac09772ee6654ba947939cc851a41324afaafe70af3ca92bda0d5d21f8b30bf555298881a135cefbbd23620c0d603725dfaa7354b9b7e29e4d1a5c32a8b831bacd9e47079422f144da11dd&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+
+
 
 
 卫视,#genre#
@@ -365,12 +383,19 @@ CCTV怀旧剧场,http://10.11.43.21/PLTV/88888893/224/3221226972/1/index.m3u8?fm
 陕西卫视,http://10.11.43.21/PLTV/88888912/224/3221226677/426212062.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 
 
-北京卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000031556/index.m3u8?channel-id=bestzb&Contentid=5000000004000031556&livemode=1&stbId=3
-湖南卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000018044/index.m3u8?channel-id=wasusyt&Contentid=6000000001000018044&livemode=1&stbId=3
-东方卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/1000000005000265018/index.m3u8?channel-id=ystenlive&Contentid=1000000005000265018&livemode=1&stbId=3
-安徽卫视,http://[2409:8087:5e08:24::2]:6610/000000001000/5000000004000023002/index.m3u8?channel-id=bestzb&Contentid=5000000004000023002&livemode=1&stbId=3
-江苏卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000014861/index.m3u8?channel-id=wasusyt&Contentid=6000000001000014861&livemode=1&stbId=3
-浙江卫视,http://[2409:8087:5e08:24::17]:6610/000000001000/6000000001000032070/index.m3u8?channel-id=wasusyt&Contentid=6000000001000032070&livemode=1&stbId=3
+东方卫视,https://mgtv.ottiptv.cc/mg/651632648.m3u8?userid=834690701&sign=0cc7c2f61cb3c03c7d3105651ac3ea3c098e7083c215c8e9ab42e1290949ac1ee2eca5196aabbd2c1f2bef0283076f4847d875aa6a73533ac4705145cc7f24d5777ce4601fbb3cea02ba4c8ad3a2826e&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+江苏卫视,https://mgtv.ottiptv.cc/mg/623899368.m3u8?userid=834690701&sign=24eadc5d2272105217997c09fc19f4e1395c3d668b6115eef666e4911e50b6191d49a085ff31924f4c341db525ec96e77b91ff5034da93a007dd823f6722bf0436ed4ca54fde51657e1d4340d143cbc6&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+北京卫视,https://live.ottiptv.cc/mcp/beijing.m3u8?userid=834690701&sign=f95eacb46a53bdabcb6c7d4b58a867e5cd673fbd762936d946c99656b7abf5db7e105242a00023da83dbb094d25379ce377af95e130f41c83bba220edf9f9d7b816ad0dec688845e754fdc63313d&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+湖南卫视,https://live.ottiptv.cc/mcp/hunan.m3u8?userid=834690701&sign=7a50aa982a882a69e752350f52e607811bc23d7613d548bc1550c4b7512c61dd8cb353ce9db3f58984ff49d5c589e1e32b73dfecb15b15fec65f2baa6c6677a39b483389e61c9a2249030d25&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+江苏卫视,https://live.ottiptv.cc/mcp/jiangsu.m3u8?userid=834690701&sign=b3cda7143a2fb71e40645ad3c065deb626b9a7eeefb3f562a128a258ea17df0620f92e65870d5fa693c60fdae39df241c461207b46cccabe1126db0ef4c1c754cbccdc074e4a23b0a24f4ab12ea5&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+东方卫视,https://live.ottiptv.cc/mcp/dongfang.m3u8?userid=834690701&sign=4ffb534f1af48d973b3bafd14310f2c6ebf4c99d36954c07800165f7fc09e3cf07819e9c50a6e03942679036ee411b8f1038287e3ee92378279c15f88d26174acbf663fabcf52f3597a1f7433ed1e9&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+浙江卫视,https://live.ottiptv.cc/mcp/zhejiang.m3u8?userid=834690701&sign=470b4a313ff95b351c102b4f7b80e2a722e06810d1b4438cfeadb4a63c33b8d835a47466af2017986f0cc4334f1c79b56d518e741e1ba6111e6c1f95b19fd52db39bf510d53c9b8831c29b194bbabe&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+
+
+
+
+
+
 
 辽宁卫视,http://221.2.36.34:8888/newlive/live/hls/43/live.m3u8
 内蒙古卫视,ttp://221.213.43.82:8888/newlive/live/hls/49/live.m3u8
@@ -728,6 +753,7 @@ CCTV怀旧剧场,http://10.11.43.21/PLTV/88888893/224/3221226972/1/index.m3u8?fm
 三国演义【1994】,https://mursor.ottiptv.cc/yy/1354930932
 天龙八部,https://yylunbo.ottiptv.cc/yy/1351814644
 狂飙,https://mursor.ottiptv.cc/yy/1382754187
+好先生,https://yylunbo.ottiptv.cc/yy/79382500
 神雕侠侣,https://mursor.ottiptv.cc/yy/1351762426
 老三国,http://jiaojirentv.top/2020/yy.php?id=1354930932
 老三国,http://jiaojirentv.top/2020/yy.php?id=1354936241
@@ -903,6 +929,7 @@ CCTV怀旧剧场,http://10.11.43.21/PLTV/88888893/224/3221226972/1/index.m3u8?fm
 读心神探,http://live.iill.top/yy.php?id=1382736875
 读心神探2节点,http://live.iill.top/yy.php?id=1382851589
 心理追凶,http://live.iill.top/yy.php?id=1354936207
+我的体育老师,https://yylunbo.ottiptv.cc/yy/1382745169
 机动部队,http://live.iill.top/yy.php?id=1354932371
 刑事侦缉档案,http://m.wuzhij.com/huya.php?id=23734169&cdn=txcdn
 刑事侦缉档案,http://159.75.85.63:35455/huya/23734169?cdn=txcdn
@@ -1412,21 +1439,28 @@ Astro Beinsports 3,https://live.catvod.com/catvod_com.php?id=Astrobein3&token=18
 
 港剧循环播,#genre#
 橙記Orange,https://mursor.ottiptv.cc/douyu/4549169
+橙記Orange,https://live.ottiptv.cc/douyu/4549169
 粤语电影,https://mursor.ottiptv.cc/douyu/1226741
 疯狂尛瀦瀦,https://mursor.ottiptv.cc/douyu/4290711
 疯狂小潴潴,https://www.goodiptv.club/douyu/5522351
 疯狂尛瀦瀦,https://www.goodiptv.club/douyu/4290711
 牛奶味的梦猪猪,https://www.goodiptv.club/douyu/5261342
 牛奶味的梦猪猪,https://mursor.ottiptv.cc/douyu/5261342
+
+疯狂小潴潴,https://live.ottiptv.cc/douyu/5522351
+牛奶味的梦猪猪,https://live.ottiptv.cc/douyu/5261342
 疯狂小潴潴,https://mursor.ottiptv.cc/douyu/5522351
 橙記Orange,https://www.goodiptv.club/douyu/4549169
 粤语电影,https://www.goodiptv.club/douyu/1226741
 一起看港剧,https://www.goodiptv.club/douyu/5061550
 一起看港剧,https://mursor.ottiptv.cc/douyu/5061550
+一起看港剧,https://live.ottiptv.cc/douyu/5061550
 TVB爱情故事,https://mursor.ottiptv.cc/huya/23863818
 港剧职场日记,https://mursor.ottiptv.cc/huya/23903164
 TVB悬疑大片,https://mursor.ottiptv.cc/huya/23865072
 新橙記Orange,https://mursor.ottiptv.cc/huya/30590779
+车模颜值大赏,https://live.ottiptv.cc/douyu/10118209
+一起看港剧,https://live.ottiptv.cc/douyu/5061550
 
 永远快乐的小美女,https://www.goodiptv.club/douyu/6091425
 
