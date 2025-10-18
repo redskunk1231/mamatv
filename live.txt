@@ -33,6 +33,19 @@ CCTV5,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000648
 CCTV5+,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000153   
 CCTV11,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000583
 
+//冰茶
+
+CCTV1,https://migu.188766.xyz/?migutoken=9e886825c748322d59369ff231cbb876&id=CCTV1&type=yy
+CCTV2,https://migu.188766.xyz/?migutoken=0942ab536396cf9a47607c04a833640d&id=CCTV2&type=yy
+CCTV5,https://migu.188766.xyz/?migutoken=1ea0b6083885919480d6f4b8ad45a242&id=CCTV5&type=yy
+CCTV5+,https://migu.188766.xyz/?migutoken=42268677d212f6931a7efb58f53e2cd9&id=CCTV5p&type=yy
+CCTV6,https://migu.188766.xyz/?migutoken=1f20e7a34f869710e75aa26ff72cb265&id=CCTV6&type=yy
+CCTV11,https://migu.188766.xyz/?migutoken=8b1d75b5b50dd70db5c70d3fe9859797&id=CCTV11&type=yy
+CCTV13,https://migu.188766.xyz/?migutoken=a54deeff33bba2a1c76cd12cc30f7136&id=CCTV13&type=yy
+
+
+
+
 //肥羊直播
 
 CCTV5,https://mgtv.ottiptv.cc/mg/641886683.m3u8?userid=834690701&sign=e3fbdb330a8ebf5f9e7b2e8e79e6286042da40a07da81b6cf3942ed6c7acf6a7b122faaec89adb16edafaeb126de776997bf3957b10b3d08441985ab49defded98e70cb2f91a51c16dd0e268314a4883&auth_token=4b0e673c1d1040ab1bff6690d39cd304
@@ -321,10 +334,13 @@ CCTV怀旧剧场,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=834690701&sign=4c3
 
 CCTV怀旧剧场,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=834690701&sign=0fa3b82c3462b3454c6ad9008b05e8edbbf386ae01defe58367b56c358c99803b604efca71ce5bc28cd43d753000f9eb7fba1f55ef4a37632a303560ee568b64807d5e356c2cd68edbf4a8&auth_token=4b0e673c1d1040ab1bff6690d39cd304
 
-老故事,https://mgtv.ottiptv.cc/mg/884121956.m3u8?userid=834690701&sign=e485d06052941ad5590d68ec591beac525965b91dfd2b8ed9c4ace1beb30638f3be036909b2281e614f9f55b087ef9cc5fe392f0ec01b9a5ce47ca8de0750efa42655ab45a96fa4a2a2cf1c7a265dec8&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+CCTV怀旧剧场,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=834690701&sign=a263dc855fa9ef5c09078ff7123b13f94863bcd309abbe5a81d5729f8f599fa74af292a44178e8f6be9f4b2b20ddcc1f8bcd7a7550a7c42b6b4e2241277712ef6595acbcd14044cf7712ce&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+
 
 抗战经典影片,https://mgtv.ottiptv.cc/mg/617432318.m3u8?userid=834690701&sign=a6fc5093f0ac09772ee6654ba947939cc851a41324afaafe70af3ca92bda0d5d21f8b30bf555298881a135cefbbd23620c0d603725dfaa7354b9b7e29e4d1a5c32a8b831bacd9e47079422f144da11dd&auth_token=4b0e673c1d1040ab1bff6690d39cd304
+抗战经典影片,https://migu.188766.xyz/?migutoken=9e0ae039e218ef6255dc59e23f25728e&id=%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87&type=yy
 
+咪咕24小时体育台,https://mgtv.ottiptv.cc/mg/654102378.m3u8?userid=834690701&sign=b4f1b74b67c1ab9770fb3cafa8a98f8fd2a67733a06577647dbc6c9939cda68f11282a57ffe3584b04d821c1ad154195987dcb000836487afebc7eeef63c220de2bd7f481d955719c4b7fe1f1dbde43a&auth_token=4b0e673c1d1040ab1bff6690d39cd304
 
 
 
@@ -335,6 +351,7 @@ CCTV怀旧剧场,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=834690701&sign=0fa
 内蒙古新闻综合,https://epg.pw/stream/be7e252270432ee9f17312a39a1f303c3d89f55594ed1d36f9ba46cc61e7a1a5.m3u8
 内蒙古新闻综合,http://1.24.190.98:10089/hls/32/index.m3u8
 内蒙古新闻综合,http://1.26.25.110:9999/udp/239.125.1.70:4120
+内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
 
 
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
@@ -342,6 +359,7 @@ CCTV怀旧剧场,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=834690701&sign=0fa
 内蒙古经济生活,http://10.11.43.21/PLTV/88888912/224/3221226113/10000100000000060000000000784886_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 内蒙古经济生活,http://1.24.190.98:10089/hls/34/index.m3u8
 内蒙古经济生活,http://1.26.25.110:9999/udp/239.125.1.74:4120
+内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
 
 
 呼市新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
