@@ -1403,55 +1403,55 @@ E! Entertainment,p3p://108.181.32.169:27540/6463a9740001391ddea5dc3e432509a2
 
 外网体育直播,#genre#
 
-Astro Premier League 1,https://live.catvod.com/catvod_com.php?id=go_assp1&token=0fba5699d0b6598e5590f9f1751a8dda929c6063df8a8141602da64bd45c83b7%3A1757904658
-Astro EPL 1 backup,https://live.catvod.com/catvod_com.php?id=go_assp1x&token=3ed97d2526b83a46bc8881d0c8177d7d3a6a4c98aab897cad0990205ffdee584%3A1757904658
-Astro Premier League 2,https://live.catvod.com/catvod_com.php?id=go_assp2&token=d98aa37f048dac31715e2e99f98c22f0875ee8b24d8c89bbb3a47c1ba166b24c%3A1757904658
-Astro Grandstand,https://live.catvod.com/catvod_com.php?id=go_assp3&token=7e0009c8619dd6532181fd476ae504e868dc66d29ca23ee7d5746b4f7c2833ef%3A1757904658
-Astro Football,https://live.catvod.com/catvod_com.php?id=go_assp4&token=e32e28d5c150a876e23db57bc7e57dc3c6ddc312bd1e46878759c0d93e2d801d%3A1757904658
-Astro Sports Plus,https://live.catvod.com/catvod_com.php?id=go_sportsplus&token=801564428d1796a46ffeb90e926cf6f81d26b1243ebb0c95ba60b14e81db8437%3A1757904658
-Astro Badminton 1,https://live.catvod.com/catvod_com.php?id=go_badminton1&token=29cd8440385b7b501ccbed0a7982f53a1acc8aeb10b3e8aa1813ed723d72e071%3A1757904658
-Astro Badminton 2,https://live.catvod.com/catvod_com.php?id=go_badminton2&token=43d3212002376f83e8724b9e6f4693e11e6cfd3548f9d1e05544146ae5b6c0d0%3A1757904658
-Astro W-Sports,https://live.catvod.com/catvod_com.php?id=go_assp5&token=1acfb3ec318fa6d4c7adc8a330fcd5bea527783e62107d8155db76feb9227b67%3A1757904658
-Supersports 1,https://live.catvod.com/catvod_com.php?id=Assp1&token=53435f9ba674c2d1a4f02ee17fc11bcb5bdf5181807d69d240f269f95c5aad6f%3A1757904658
-Supersports 2,https://live.catvod.com/catvod_com.php?id=Assp2&token=d32d60b55e6dc98ccdb61ff5bbad022e16b2af2298a731f1cdd88533b0cd6310%3A1757904658
-Supersports 3,https://live.catvod.com/catvod_com.php?id=Assp3&token=8bac9f424ac4389ea6ab9ca06871cd5e1f47eb38f8c28f103f49a3c11b53fc1b%3A1757904658
-Supersports 4,https://live.catvod.com/catvod_com.php?id=Assp4&token=c0ba29fdbedcef9b022b336cd5ac209795f3460452a159f76ad13b4c5361ae32%3A1757904658
-WWE,https://live.catvod.com/catvod_com.php?id=Wwe&token=da08c02cef1b152257b6ce991c87a9ad3c29c14ea1221f4be6833b64d6caa7e2%3A1757904658
-Fight Sports,https://live.catvod.com/catvod_com.php?id=Fs&token=43f682bf9b57acd15fe186bc01c1297e26f462233643e81d4b1cbf877322299f%3A1757904658
-NBA TV,https://live.catvod.com/catvod_com.php?id=Nba&token=6b43f50cb0685dd25f0b5f54ce7aa7174239c6603fe7332c387069d7e2fb5c19%3A1757904658
-Astro Cricket,https://live.catvod.com/catvod_com.php?id=Acricket&token=af7cfa6ad37a3fc8472fffa300d572a30d9dcd8ade12b35fe0d5a2fd9b85983c%3A1757904658
-Astro Golf,https://live.catvod.com/catvod_com.php?id=Agolf&token=1a03ccdba045e412d7d2c5161e20d7824bf82c07f4af46dcb07d90c0b82904c7%3A1757904658
-Tnt Sports 1,https://live.catvod.com/catvod_com.php?id=6fac0aaead&token=faffecdee76073c361a2adc04455cde631857ff044f404dd245f4eb80f305b3b%3A1757904658
-TNT Sports 2,https://live.catvod.com/catvod_com.php?id=d9a76a79cc&token=ae40fc07b7ea9cbcbaeb461012c0e968c95d02ad6e05c074c4ce85d242ae2f3d%3A1757904658
-TNT Sports 3,https://live.catvod.com/catvod_com.php?id=5fea4d73db&token=5b1e5fa6b2d1bcee6dfbb5657d95aed8974db671d4b5e0bc1d7dd721f9881fb7%3A1757904658
-TNT Sports 4,https://live.catvod.com/catvod_com.php?id=tntsport4&token=689b82794a77f5a7faf4488d27e631fb4646c1f3d74accf89ace95a015d0d8fb%3A1757904658
-Sony Ten 1,https://live.catvod.com/catvod_com.php?id=ten1_raj&token=d748f9f809c59cf57f5749b224dd574ed464d513c268c0fa938b228a6356244c%3A1757904658
-Sony Ten 2,https://live.catvod.com/catvod_com.php?id=ten2_raj&token=dd7deb5a90cec713d279542869910cedbc38d0b06ea4beea7e2413a1ca9b50ae%3A1757904658
-Sony Ten 3,https://live.catvod.com/catvod_com.php?id=ten3_raj&token=990c318e162ebb54d27d68e10534b4047218bc99bd05ad1e5ad66bbd2067c737%3A1757904658
-SPOTV 1 HD,https://live.catvod.com/catvod_com.php?id=go_spotv&token=467c6f0e96f95519ae19d596b7717d8ab9f599e298d37b13084a5ac457f07d40%3A1757904658
-SPO TV 2,https://live.catvod.com/catvod_com.php?id=go_spotv2&token=5e1eb8da10c43b63ddb648b69fd0af09f4f57a0591f3e762dfb74c7fb223098e%3A1757904658
-Skysports F1,https://live.catvod.com/catvod_com.php?id=tiankongf1&token=44fea7f9901104171bf8b69175fc8bedce052fe7c8ee0a8a1bf2e25528de8d40%3A1757904658
-Skysports Cricket,https://live.catvod.com/catvod_com.php?id=tiankongcricket&token=cdaf27632d80ed30def987da0197fe1889047918a76ee9d44d5215e392da9ea2%3A1757904658
-Skysports EPL,https://live.catvod.com/catvod_com.php?id=tiankongepl&token=8ac86824252a8451271ccf15b28922395737fe6e0211d26757e66fae4d46b933%3A1757904658
-Skysports Main Event,https://live.catvod.com/catvod_com.php?id=tiankongmain&token=db10c3405b52d168fac9eca1f6355fa6d49aa712ffbb5731398d5fe99a3a62b7%3A1757904658
-Skysports News,https://live.catvod.com/catvod_com.php?id=tiankongnews&token=87c7a3ed362aee024337e81269ec9d1ca8bd02319dac499fc344df8bffbc32d7%3A1757904658
-Skysports Mix,https://live.catvod.com/catvod_com.php?id=tiankongmix&token=9f73f41b6427cb25d8ce76c6119534a9cebed80bb9c6cdeebcee20b2194ad6b6%3A1757904658
-爱尔达体育1台,https://live.catvod.com/catvod_com.php?id=eltasport_twn&token=c17014432776c03f5a89a782170ccc5a8be6114adfc56b370baeaabfd8dfdc6d%3A1757904658
-爱尔达体育2台,https://live.catvod.com/catvod_com.php?id=eltasport2_twn&token=57438994a49febf5bdba5e6529b1940d2df7a11d4fcea95dfcb15f67174d70fb%3A1757904658
-爱尔达体育3台,https://live.catvod.com/catvod_com.php?id=eltasport3_twn&token=0c7cda442cd8c604eac1971b9054f89552cb09cfa19e3a5d203b3ab8db1efa7d%3A1757904658
-爱尔达体育4台,https://live.catvod.com/catvod_com.php?id=eltasports4_twn&token=f19b144c1b9691910fd77c97bee3f808b948a47b8cd730f330342d3496123a28%3A1757904658
-
-DAZN 1,https://live.catvod.com/catvod_com.php?id=dazn1_twn&token=2ccfca48a6ec73ece98772e1674f009c990db24fd58114e20e693f7eea737604%3A1757904658
-DAZN 2,https://live.catvod.com/catvod_com.php?id=dazn2_twn&token=b777117f1a1d5006aa6ddfbb7bb8e5735b85fb745a5d1bb19ac684d0c8706d32%3A1757904658
-Rugby Pass TV,https://live.catvod.com/catvod_com.php?id=Rugbypasstv&token=9c699f392b58b28a17e4998131513847ed337ecd0527c81db6467877f36b3be8%3A1757904658
-RTM Sports HD,https://live.catvod.com/catvod_com.php?id=Rtmsport&token=253084cea284b1233308d8703b95ef0ca2765ec7aa2a2aa686870111d602274f%3A1757904658
-Arena,https://live.catvod.com/catvod_com.php?id=Arena&token=1c5d5890ef2b9357c3dba3d12641096e4643708afc4aa90220310638b961250d%3A1757904658
-Arena 2,https://live.catvod.com/catvod_com.php?id=Arena2&token=d21854e11a7127cfa6937ea87f43a22aa60f85c0ca9946628f209153ca38ad6a%3A1757904658
-BolaArena 1,https://live.catvod.com/catvod_com.php?id=Bolaarena1&token=76e093f640eb4f1f54df85b902621c3428cb19013c30ea2b4317780ec559629e%3A1757904658
-BolaArena 2,https://live.catvod.com/catvod_com.php?id=Bolaarena2&token=72aa2374291be308f37e8c2214908ed9f7af16aa63bf628ea7494f3ca289bac9%3A1757904658
-Astro Beinsports 1,https://live.catvod.com/catvod_com.php?id=Astrobein1&token=9875a5886aa21f0154d92afb4121e5bfd429ec86c13e95c4e96730180598ff5a%3A1757904658
-Astro Beinsports 2,https://live.catvod.com/catvod_com.php?id=Astrobein2&token=71887544b68f933b163edfbfeaf9164e40e5d278ca5ffd6cd4b5d85e00e2a6d3%3A1757904658
-Astro Beinsports 3,https://live.catvod.com/catvod_com.php?id=Astrobein3&token=18672eb2c3567072582c6c452fddba3bf0195bedbe931b85da2afe9c1a0b250a%3A1757904658
+Astro Premier League 1,https://live.catvod.com/live.php?id=go_assp1&token=863a88b2484fb927f53284d91db81c80133322f13b21a63fe4d41c64dc4061a9%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+Astro EPL 1 backup,https://live.catvod.com/live.php?id=go_assp1x&token=45fdd01df94f491f66bfdba2957dbbebd792ecd749c19f75cac91d2908f0b3ca%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+Astro Premier League 2,https://live.catvod.com/live.php?id=go_assp2&token=d078ed8cd1337fa161f4c0cc0dc7469007e391bed602b35b8541dbab23fe2274%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+Astro Grandstand,https://live.catvod.com/live.php?id=go_assp3&token=8189dc78fe2223333a4e6dc818c7bea5d2b7d9c9809d41642de0505274efb87c%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+Astro Football,https://live.catvod.com/live.php?id=go_assp4&token=95e6f7a489a8dbaccfc966e5135f1dd64033337495a082b75a604fe6087c6fec%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+Astro Sports Plus,https://live.catvod.com/live.php?id=go_sportsplus&token=dbf9636f0e082d3dd06893802b5dfebb855c283339acb4c43eed982ae048bbdb%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+Astro Badminton 1,https://live.catvod.com/live.php?id=go_badminton1&token=a12f6d8624bd1ca4d1d163b1f5f02779d66815993dd3ea6bb661f1f6e761032c%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+Astro Badminton 2,https://live.catvod.com/live.php?id=go_badminton2&token=1d972fc4a488a960f23d7264bbf219d758dc5a05e71d034c573852d53fd580f5%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+Astro W-Sports,https://live.catvod.com/live.php?id=go_assp5&token=65a36a8bb228d3b36c90c01337f7e69faea6765719e0ae257def1bdb0cc577c3%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+Supersports 1,https://live.catvod.com/live.php?id=Assp1&token=54014061d882f3043eb88f41817b656c5fdaacc07187af58806bca4a68ae0ddd%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+Supersports 2,https://live.catvod.com/live.php?id=Assp2&token=0c8d5ba6ec7a6fe8d89e486e49436762ec201def5a38825a729788c221429538%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+Supersports 3,https://live.catvod.com/live.php?id=Assp3&token=cf3b91b959a5ba56c2f03a351cfa72ffd2f3fbcaa5d3555e4cb24fd053c0b5be%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+Supersports 4,https://live.catvod.com/live.php?id=Assp4&token=520d254b82378a58409262cb52424b217286b724fe82ef2fbea02c425c767b29%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+WWE,https://live.catvod.com/live.php?id=Wwe&token=3328604f87fda2c50dde9deecee4791c0ef4f4b8dd259558e44894135fbf38d3%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+FIGHTSPORTS,https://live.catvod.com/live.php?id=Fs&token=63dc2c2771f9f4fed170f6822b378bad94060b062b71872d89ef80e6914ac320%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+NBATV,https://live.catvod.com/live.php?id=Nba&token=dbc32bd244a9e0e977ee25271271eccd1187040d247aa1b8aabf07b108b748a4%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+Astro Cricket,https://live.catvod.com/live.php?id=Acricket&token=0cdac84242c4565fa29a3daa88977d9c81c6fe712476012679dea33fcc4ea971%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+Astro Golf,https://live.catvod.com/live.php?id=Agolf&token=71ca6ae1a6370f9b83e675e1cda4e1dcdf0fb11eae0c50dfceacbf0e0bb6f79a%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+TNTSPORTS1,https://live.catvod.com/live.php?id=6fac0aaead&token=e2f0029a8e717edf27d035cd65b48c0835324eeeaaf2def1efaad237d8a1a4c8%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+TNTSPORTS2,https://live.catvod.com/live.php?id=d9a76a79cc&token=218d97f5828265da991628ca3054d98498a40349d6ec4d0d8ea28e942a706abc%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+TNTSPORTS3,https://live.catvod.com/live.php?id=5fea4d73db&token=be2f609606eda9b094753442fda43807b4e9e8171c1f538a3567401b5485c83d%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+TNTSPORTS4,https://live.catvod.com/live.php?id=tntsport4&token=3606bb8cc9859c14fc0affe2efb70d234aa4cdb40f6fcf958fba0c8ef69266ee%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+SONYTEN1,https://live.catvod.com/live.php?id=ten1_raj&token=d96f7d0b0ee55e0ed4a8b367fac4bcd17558b9ec1c2fa7a7af3271e089cdb639%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+SONYTEN2,https://live.catvod.com/live.php?id=ten2_raj&token=a5d57e342ba1d9e71d939834b368f482e7bdf00905c6f31fcbcd194d380ee7cf%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+SONYTEN3,https://live.catvod.com/live.php?id=ten3_raj&token=e585eab2c8057291648ce3ea5bf2dca5f2e7c52aefe4730905fd0480cda08a0f%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+SPOTV,https://live.catvod.com/live.php?id=go_spotv&token=92036b055bf67f5231dd7def3d1ead5909d462d8e741e636d81636ba59a57328%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+SPOTV2,https://live.catvod.com/live.php?id=go_spotv2&token=9ba329e53f8827d9e3c524e8dbaf29cbef3a1b3afcc37b1a9d0cc04865d79d6c%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+SKYSPORTS F1,https://live.catvod.com/live.php?id=tiankongf1&token=6b8b60f37cb69cfd1460a27dc85ae9589f17e2502ecaf5b403283fb31cb05750%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+SKYSPORTS Cricket,https://live.catvod.com/live.php?id=tiankongcricket&token=e552269b6980ae1923d22bf0993cfbc9e26cc513c7c6bb0789e709dc6050ad58%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+SKYSPORTS EPL,https://live.catvod.com/live.php?id=tiankongepl&token=f750a0e190adc3b71f246dbf2e872d8dc6299ce3576f84c59bf8aaeabd652ac9%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+SKYSPORTS Main Event,https://live.catvod.com/live.php?id=tiankongmain&token=0f70d9a9e5edd335cf71de2dfe00b0d3f14409b12d2fabe09872d47dbd14f644%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+SKYSPORTS News,https://live.catvod.com/live.php?id=tiankongnews&token=047d0001ba03962a73cfad884e47d0c0a1e674c2dfc90467716c635076779164%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+SKYSPORTS Mix,https://live.catvod.com/live.php?id=tiankongmix&token=b973392e6941a1681bfb7d28cf337d75f3d24655dd12f0701892139b0c787527%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+爱尔达体育1台,https://live.catvod.com/live.php?id=eltasport_twn&token=49a9c68061fe4ee9689e536328cb21fc34c64eaf93757b42020f526ec6f1cee6%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+爱尔达体育2台,https://live.catvod.com/live.php?id=eltasport2_twn&token=7d413416d9ff749b49d533a2008bcad0b918c5dc9b2cd562705d927ed0ac5156%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+爱尔达体育3台,https://live.catvod.com/live.php?id=eltasport3_twn&token=2d230800b2cf83a756dfbb34729d7e2a473f387a442d07e4f7f1833672772569%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+爱尔达体育4台,https://live.catvod.com/live.php?id=eltasports4_twn&token=0b7d2d736f66e6c19f93960a26d9a1ea8a1af668a9584eb0fd996442cb573701%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+RUGBYPASSTV,https://live.catvod.com/live.php?id=Rugbypasstv&token=6b718a6df9c7259be4e4a47742b3047855cb1f51e5fad2429ea27abb16ac67b3%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+RTM_SPORTS HD,https://live.catvod.com/live.php?id=Rtmsport&token=90a793b24df443f9261607e6a95833cd383540ee306f8012a8365befc2e93707%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+ARENA,https://live.catvod.com/live.php?id=Arena&token=871a0980f335d9550f6b29b60b5a2ee822e13aa3cb95d14d43d928274db1075d%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+ARENA2,https://live.catvod.com/live.php?id=Arena2&token=20364b197b08c88334f46b1bb1a951106443a6a84f539ad746fe358cd7ce6240%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+BolaArena 1,https://live.catvod.com/live.php?id=Bolaarena1&token=38278aae40c4c87859145fd825712970252c5b803d488da52320458b57f3e1c7%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+BolaArena 2,https://live.catvod.com/live.php?id=Bolaarena2&token=14788b2df5a484becdc4bc716521688e26d2cbe9a781336bf495d44fce4c9326%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+Astro Beinsports 1,https://live.catvod.com/live.php?id=Astrobein1&token=0c3972016512b9ccc3e5d6ab22db9f6685de5962193c17d4fd4edaf8ca9d2161%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+Astro Beinsports 2,https://live.catvod.com/live.php?id=Astrobein2&token=f4c38c452f69a0e99ab992d6026e3a76cad625de9a6de6b9d5ab8c8611aa7c58%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+Astro Beinsports 3,https://live.catvod.com/live.php?id=Astrobein3&token=b9fec6ed1a0fce40220287c9d502d8b6d4aba2627427d407ff2c28e2c0bac9db%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+小公視,https://live.catvod.com/live.php?id=pts3_twn&token=9eafc000b95a4fcb524821a14237e3bc144f6c3421d2ef77e017559e2baaf464%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+DAZN1,https://live.catvod.com/live.php?id=dazn1_twn&token=87d7dbf766381b438a40a36642e36c461b70ac7b01b07b368df9af7ebe7c5733%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
+DAZN2,https://live.catvod.com/live.php?id=dazn2_twn&token=f2a7d82a06850fee0b0fe4f524d6c56a52fd3b4fef440d30521546ae1d1c2a3e%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
 
 
 
