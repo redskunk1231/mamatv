@@ -1323,6 +1323,16 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 
 港台频道,#genre#
 
+凤凰中文,https://migu.188766.xyz/?migutoken=07a3356cfa809c0268331d612dac2bc7&id=fhzw&pp=1
+凤凰中文,https://migu.188766.xyz/?migutoken=2fd0e223b2f2b3d4ede24f5c7c95f7b9&id=phoenixtv_hd&type=dy
+凤凰资讯,https://migu.188766.xyz/?migutoken=f5d105631d644091eb5d60796002edc4&id=fhzx&pp=1
+凤凰资讯,https://migu.188766.xyz/?migutoken=6201f7bd19f20e55f032a45c0b6b941f&id=phoenixinfo_hd&type=dy
+凤凰香港,https://migu.188766.xyz/?migutoken=26ddf2c1727b1816b99a9dd7bf2e60e7&id=fhhk&pp=1
+凤凰香港,https://migu.188766.xyz/?migutoken=27a52fee5d67de3dde38007e5cc2006b&id=hkphoenix_twn&type=dy
+翡翠台,https://migu.188766.xyz/?migutoken=f7e0e1534ddd62eb7419e5d56efc3c8c&id=jade_twn&type=dy
+翡翠台,https://migu.188766.xyz/?migutoken=2375d1d51d60c44791b6e59ef9905bd3&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
+无线新闻,https://migu.188766.xyz/?migutoken=57606a4715cd4c75aaec10ccb731adb9&id=inews_twn&type=dy
+
 翡翠台,https://live.catvod.com/catvod_com.php?id=jade_twn&token=9cf726c1ee5fdc91811deac7068e0481bb30e4b36107d177add159acd9e8d75b%3A1757904658
 翡翠台 backup,https://live.catvod.com/catvod_com.php?id=Jade_xue&token=a2999743363a664eef10b72e44e800f2534e8cc001b81655898d0664647ce0e9%3A1757904658
 iNews 新闻台,https://live.catvod.com/catvod_com.php?id=inews_twn&token=9c5b1e32a4a589e1683b1f8ad2c58ea1819a957bdd4b427ca160c91439f375d5%3A1757904658
