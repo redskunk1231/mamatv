@@ -338,7 +338,7 @@ CCTV怀旧剧场,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=834690701&sign=a26
 
 
 抗战经典影片,https://mgtv.ottiptv.cc/mg/617432318.m3u8?userid=834690701&sign=a6fc5093f0ac09772ee6654ba947939cc851a41324afaafe70af3ca92bda0d5d21f8b30bf555298881a135cefbbd23620c0d603725dfaa7354b9b7e29e4d1a5c32a8b831bacd9e47079422f144da11dd&auth_token=4b0e673c1d1040ab1bff6690d39cd304
-抗战经典影片,https://migu.188766.xyz/?migutoken=9e0ae039e218ef6255dc59e23f25728e&id=%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87&type=yy
+抗战经典影片,http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/717/202507241513_1753340553498_H32_1080.webp
 
 咪咕24小时体育台,https://mgtv.ottiptv.cc/mg/654102378.m3u8?userid=834690701&sign=b4f1b74b67c1ab9770fb3cafa8a98f8fd2a67733a06577647dbc6c9939cda68f11282a57ffe3584b04d821c1ad154195987dcb000836487afebc7eeef63c220de2bd7f481d955719c4b7fe1f1dbde43a&auth_token=4b0e673c1d1040ab1bff6690d39cd304
 
