@@ -43,6 +43,10 @@ CCTV6,https://migu.188766.xyz/?migutoken=1f20e7a34f869710e75aa26ff72cb265&id=CCT
 CCTV11,https://migu.188766.xyz/?migutoken=8b1d75b5b50dd70db5c70d3fe9859797&id=CCTV11&type=yy
 CCTV13,https://migu.188766.xyz/?migutoken=a54deeff33bba2a1c76cd12cc30f7136&id=CCTV13&type=yy
 
+CCTV6 电影,https://migu.188766.xyz/?migutoken=4f3888a53179312fb6eecad62d793367&id=CCTV6&type=yy
+CCTV11,https://migu.188766.xyz/?migutoken=625655a4ba25cf1294262d4e5d992b8f&id=CCTV11&type=yy
+CCTV13,https://migu.188766.xyz/?migutoken=a2513a4a29c714f98235267332d9d15e&id=CCTV13&type=yy
+
 
 
 
@@ -339,6 +343,8 @@ CCTV怀旧剧场,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=834690701&sign=a26
 
 抗战经典影片,https://mgtv.ottiptv.cc/mg/617432318.m3u8?userid=834690701&sign=a6fc5093f0ac09772ee6654ba947939cc851a41324afaafe70af3ca92bda0d5d21f8b30bf555298881a135cefbbd23620c0d603725dfaa7354b9b7e29e4d1a5c32a8b831bacd9e47079422f144da11dd&auth_token=4b0e673c1d1040ab1bff6690d39cd304
 抗战经典影片,http://wapx.cmvideo.cn:8080/publish/poms/image/5500/002/717/202507241513_1753340553498_H32_1080.webp
+抗战经典影片,https://migu.188766.xyz/?migutoken=7e18f5eab19b555770707c30480e261c&id=%E6%8A%97%E6%88%98%E7%BB%8F%E5%85%B8%E5%BD%B1%E7%89%87&type=yy
+
 
 咪咕24小时体育台,https://mgtv.ottiptv.cc/mg/654102378.m3u8?userid=834690701&sign=b4f1b74b67c1ab9770fb3cafa8a98f8fd2a67733a06577647dbc6c9939cda68f11282a57ffe3584b04d821c1ad154195987dcb000836487afebc7eeef63c220de2bd7f481d955719c4b7fe1f1dbde43a&auth_token=4b0e673c1d1040ab1bff6690d39cd304
 
@@ -354,12 +360,16 @@ CCTV怀旧剧场,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=834690701&sign=a26
 内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
 
 
+
+
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
 内蒙古经济生活,https://epg.pw/stream/84d6cddfeecc1983c80fb3222360e9838f5122e13c283e4fea1a84a76d648b61.m3u8
 内蒙古经济生活,http://10.11.43.21/PLTV/88888912/224/3221226113/10000100000000060000000000784886_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 内蒙古经济生活,http://1.24.190.98:10089/hls/34/index.m3u8
 内蒙古经济生活,http://1.26.25.110:9999/udp/239.125.1.74:4120
 内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
+
+
 
 
 呼市新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
@@ -1333,6 +1343,20 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 翡翠台,https://migu.188766.xyz/?migutoken=f7e0e1534ddd62eb7419e5d56efc3c8c&id=jade_twn&type=dy
 翡翠台,https://migu.188766.xyz/?migutoken=2375d1d51d60c44791b6e59ef9905bd3&id=%E7%BF%A1%E7%BF%A0%E5%8F%B0&pp=1
 无线新闻,https://migu.188766.xyz/?migutoken=57606a4715cd4c75aaec10ccb731adb9&id=inews_twn&type=dy
+
+凤凰中文,https://mgev.188766.xyz/?migutoken=b91ff655f48b45906ee301f866727c6d&id=fhzw&pp=1
+凤凰中文,https://migu.188766.xyz/?migutoken=230d5c979c732006a197126f8b139a0e&id=hk_fhzw&type=dy
+凤凰资讯,https://mgev.188766.xyz/?migutoken=8b2d3f5d5d363f6702e5258afc51b844&id=fhzx&pp=1
+凤凰资讯,https://migu.188766.xyz/?migutoken=048ad0f4dbb3637582acd42bdf64d9fc&id=hk_fhzx&type=dy
+凤凰香港,https://mgev.188766.xyz/?migutoken=dfb96b17133a5476b054b55259894a0b&id=fhhk&pp=1
+凤凰香港,https://migu.188766.xyz/?migutoken=65be56b90f4051c85272e601ef84d50c&id=hk_fhhk&type=dy
+翡翠台,https://migu.188766.xyz/?migutoken=dcc091ecefd330dda9faea8fbb817e5b&id=hk_fct&type=dy
+翡翠台4K,https://migu.188766.xyz/?migutoken=85bdd045b92197783812172f4e8ad164&id=hk_fct4k&type=dy
+无线新闻,https://migu.188766.xyz/?migutoken=07bf3d59f3b85ac350439c074abf4e16&id=hk_wxxw&type=dy
+Now新闻台,https://migu.188766.xyz/?migutoken=cc4932b96edb7006f3cde4b3d34b0570&id=hk_now&type=dy
+TVB Plus,https://migu.188766.xyz/?migutoken=ea3fd9077a34827804d3dac562b30708&id=hk_tvbp&type=dy
+明珠台,https://migu.188766.xyz/?migutoken=1e38b3729ea6caaea932577f71067792&id=hk_mzt&type=dy
+
 
 翡翠台,https://live.catvod.com/catvod_com.php?id=jade_twn&token=9cf726c1ee5fdc91811deac7068e0481bb30e4b36107d177add159acd9e8d75b%3A1757904658
 翡翠台 backup,https://live.catvod.com/catvod_com.php?id=Jade_xue&token=a2999743363a664eef10b72e44e800f2534e8cc001b81655898d0664647ce0e9%3A1757904658
