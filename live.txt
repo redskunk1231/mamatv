@@ -231,6 +231,7 @@ CCTV4,http://121.19.134.236:808/hls/4/index.m3u8
 
 
 CCTV5,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
+CCTV5,https://migu.188766.xyz/?migutoken=3ca4c7c86076eecc26c1ee0c8f3044f0&id=CCTV5&type=yy
 CCTV5,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 CCTV5,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/1.m3u8
 CCTV5,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010139/1.m3u8
@@ -243,7 +244,7 @@ CCTV5,https://live.catvod.com/catvod_com.php?id=cctv5&token=009bb39a4ac189625ac1
 
 
 
-
+CCTV5+,https://migu.188766.xyz/?migutoken=e9af0236866ebdb8e86dbb5081b5d4e8&id=CCTV5p&type=yy
 CCTV5+,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
 CCTV5+,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8?
 CCTV5+,http://[2409:8087:1a01:df::4077]:80/PLTV/88888888/224/3221225507/index.m3u8
@@ -263,7 +264,7 @@ CCTV6,https://live.ottiptv.cc/mcp/cctv6.m3u8?userid=834690701&sign=019368e6a1c6c
 CCTV6,https://mgtv.ottiptv.cc/mg/624878396.m3u8?userid=834690701&sign=9d1d053c02751c4c4a40cc2d217effa9ad03c5348181ae2cba687670fa8cd8be2d97a0328c72c5a49dcf12db7ffe3bf798e48ac44f2fab0b7a281f99b763c867d19efaf12b0950cded815947ed957f50&auth_token=3347db0e1f3fda99598b067b59d0895e
 CCTV6,https://mursor.ottiptv.cc/mcp/cctv6.m3u8?userid=834690701&sign=3b99df8231e4ccaf27afee7d65fd183ab24cc9e3871d05d35cf9f46f3018d2b75595f9a1a580e62ea4bc04de19c625b611718805b65ef19b257e142c9160118047e24fb3f9349eed75bd0063&auth_token=3347db0e1f3fda99598b067b59d0895e
 CCTV6,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
-CCTV6,http://php.jdshipin.com:8880/TVOD/gsyd.php?id=9900000006
+CCTV6,https://migu.188766.xyz/?migutoken=244b591ed493502b6955fff893e039d7&id=CCTV6&type=yy
 CCTV6,http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
 CCTV6,http://202.100.46.58:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV6,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225632/2/index.m3u8
@@ -297,7 +298,7 @@ CCTV10,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226189/1.m3u8
 CCTV10,http://121.19.134.236:808/hls/10/index.m3u8
 
 CCTV11,https://live.ottiptv.cc/mcp/cctv11.m3u8?userid=834690701&sign=e29c2a9f8f1076410203e261d52402c31ff03a9d4142bbd8e90678bd7685b7c4f0c13c3012f13ba4baf6ae155572f9a83b8ee421ddb4de427270089cea9b43470bad3c6d582fae9bbc9ece98eb&auth_token=4b0e673c1d1040ab1bff6690d39cd304
-CCTV11,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
+CCTV11,https://migu.188766.xyz/?migutoken=3b46787f030651169ff7dfa0acaa05c8&id=CCTV11&type=yy
 CCTV11,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
 CCTV11,http://[2409:8087:1a01:df::7005]/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226240/1.m3u8
 CCTV11,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
@@ -329,7 +330,7 @@ CCTV13,https://live.ottiptv.cc/mcp/cctv13.m3u8?userid=834690701&sign=b93ea832fa2
 CCTV13,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010093/1.m3u8
 CCTV13,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
 CCTV13,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-CCTV13,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226011/index.m3u8
+CCTV13,https://migu.188766.xyz/?migutoken=f9dfc2ca1d1629ab24a0bb2079590a6d&id=CCTV13&type=yy
 CCTV13,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8$5.5M_1080
 CCTV13,http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 CCTV13,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
@@ -360,6 +361,7 @@ CCTV怀旧剧场,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=834690701&sign=a26
 卫视,#genre#
 
 内蒙古新闻综合,http://10.11.43.21/PLTV/88888912/224/3221226109/10000100000000060000000000784890_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
+内蒙古新闻综合,http://play1-qk.nmtv.cn/live/1686560423879174.m3u8
 内蒙古新闻综合,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=173f71025a2de64458989cfb281a0a37&txTime=771E8800
 内蒙古新闻综合,https://epg.pw/stream/be7e252270432ee9f17312a39a1f303c3d89f55594ed1d36f9ba46cc61e7a1a5.m3u8
 内蒙古新闻综合,http://1.24.190.98:10089/hls/32/index.m3u8
@@ -370,6 +372,7 @@ CCTV怀旧剧场,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=834690701&sign=a26
 
 
 内蒙古经济生活,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
+内蒙古经济生活,http://play1-qk.nmtv.cn/live/1686562470947181.m3u8
 内蒙古经济生活,https://epg.pw/stream/84d6cddfeecc1983c80fb3222360e9838f5122e13c283e4fea1a84a76d648b61.m3u8
 内蒙古经济生活,http://10.11.43.21/PLTV/88888912/224/3221226113/10000100000000060000000000784886_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 内蒙古经济生活,http://1.24.190.98:10089/hls/34/index.m3u8
