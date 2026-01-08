@@ -62,7 +62,21 @@ CCTV11,https://live.catvod.com/live.php?id=cctv11
 CCTV13,https://live.catvod.com/live.php?id=cctv13
 
 
+//new source
 
+CCTV5,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd/index.m3u8?channel-id=
+CCTV6,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv6hd8m/index.m3u8?channel-id=
+CCTV8,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8?channel-id=
+CCTV11,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8?channel-id=
+CCTV13,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv13xwhd8m/index.m3u8?channel-id=
+
+
+//new source2
+
+CCTV5,http://120.210.193.151:8006/120000000058/G_CCTV-5-CQ/index.m3u8?channel-id=
+CCTV6,http://120.210.193.151:8006/120000000058/G_CCTV-6-CQ/index.m3u8?channel-id=
+CCTV11,http://120.210.193.151:8006/120000000058/G_CCTV-11-HQ/index.m3u8?channel-id=
+CCTV13.http://120.210.193.151:8006/120000000058/G_CCTV-13-CQ/index.m3u8?channel-id=
 
 
 //肥羊直播
@@ -363,6 +377,7 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 
 怀旧剧场,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=834690701&sign=66ecbcd79dc01c95993f5706d24dd2b8142b46db4580cbe6a045ab7a30b7bc94317f8e444d82357ab7e943bc206540dc34eb996f5267df88c0637f7967c1584c69e78853f0ac2f383664a1&auth_token=4b0e673c1d1040ab1bff6690d39cd304
 
+怀旧剧场,http://120.210.193.151:8006/120000001002/XMThjjc/1.m3u8?channel-id=
 
 怀旧剧场,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=834690701&sign=a263dc855fa9ef5c09078ff7123b13f94863bcd309abbe5a81d5729f8f599fa74af292a44178e8f6be9f4b2b20ddcc1f8bcd7a7550a7c42b6b4e2241277712ef6595acbcd14044cf7712ce&auth_token=4b0e673c1d1040ab1bff6690d39cd304
 
