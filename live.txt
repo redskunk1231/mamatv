@@ -793,7 +793,7 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 我爱我家,http://124.248.69.76:35455/yy/1382735557
 
 经典鬼片3000部,https://live.ottiptv.cc/yy/29460894
-夏洛特烦恼-国内电影-喜剧,https://mursor.ottiptv.cc/yy/1354936201
+夏洛特烦恼-国内电影-喜剧,https://live.ottiptv.cc/yy/1354936201
 【鹿鼎记】金庸经典,https://live.ottiptv.cc/yy/28265277
 
 鹿鼎记,https://live.ottiptv.cc/yy/1460463356
@@ -805,14 +805,19 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 
 鹿鼎记,http://luobo.bkpcp.top/yy/28265277
 鹿鼎记,https://live.ottiptv.cc/yy/28265277
+鹿鼎记,https://live.ottiptv.cc/yy/1382704650
 夏洛特烦恼,https://yylunbo.ottiptv.cc/yy/1354936201
 东北一家人,https://mursor.ottiptv.cc/douyu/7642724
 东北一家人,https://www.goodiptv.club/douyu/7642724
 寻秦记-穿越剧经典,https://live.ottiptv.cc/yy/1382749900
+寻秦记-穿越剧经典,https://live.ottiptv.cc/yy/1382851591
+寻秦记-穿越剧经典,https://live.ottiptv.cc/yy/1354658048
+
 武林外传,http://live.iill.top/yy.php?id=21092633
+武林外传,https://live.ottiptv.cc/yy/1355652820
 83射雕英雄传,https://mursor.ottiptv.cc/yy/1354210357
 天龙八部,http://jiaojirentv.top/2020/yy.php?id=1382736855
-寻秦记,https://mursor.ottiptv.cc/yy/1354658048
+寻秦记,https://live.ottiptv.cc/yy/1382851591
 三国演义【1994】,https://mursor.ottiptv.cc/yy/1354930932
 天龙八部,https://live.ottiptv.cc/yy/1351814644
 狂飙,https://live.https://live.ottiptv.cc/yy/1382754187
@@ -850,7 +855,7 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 新水浒传11版,http://diyp.zxxoo.work/huya/11342384
 新水浒传11版,http://cfss.cc/cdn/hy/11342384.flv
 新水浒传11版,http://159.75.85.63:35455/huya/11342384?cdn=hwcdn
-刑事侦缉档案I,https://mursor.ottiptv.cc/yy/1382851585
+刑事侦缉档案I,https://live.ottiptv.cc/yy/1382851585
 法证先锋,https://live.ottiptv.cc/yy/1354930939
 憨豆先生-经典喜剧,https://mursor.ottiptv.cc/yy/1354936239
 疯狂的外星人,https://vip.ffzy-online2.com/20230607/38938_95adfc88/index.m3u8
@@ -868,6 +873,7 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 【盗暮笔记】24h,https://mursor.ottiptv.cc/yy/1382702247
 我的体育老师,https://live.ottiptv.cc/yy/1382745169
 易中天品三国,https://live.ottiptv.cc/yy/1354931498
+易中天品三国,https://live.ottiptv.cc/yy/1461244449
 编辑部的故事,https://mursor.ottiptv.cc/yy/1354936120
 倚天屠龙记苏有朋版,http://live.iill.top/yy.php?id=1449856066
 北京爱情故事,https://mursor.ottiptv.cc/yy/1382744423
@@ -882,7 +888,7 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 编辑部的故事轮播,https://live.ottiptv.cc/yy/1354936120
 笑傲江湖2,http://live.iill.top/yy.php?id=1354282410
 周星星系列,https://live.ottiptv.cc/yy/1354888671
-寻秦记,http://live.iill.top/yy.php?id=1382851591
+寻秦记,https://live.ottiptv.cc/yy/1382749900
 隋唐英雄传,http://live.iill.top/yy.php?id=1352475619
 老三国,http://159.75.85.63:35455/huya/11602081?cdn=hwcdn
 新三国,http://159.75.85.63:35455/huya/11352944?cdn=txcdn
@@ -1243,13 +1249,14 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 火炬手,https://vd3.bdstatic.com/mda-jar0302925j1nwep/hd/mda-jar0302925j1nwep.mp4?pd=19&vt=1&playlist=%5B%22hd%22%5D
 
 星爷全集,#genre#
-致敬星爷致敬经典,https://yylunbo.ottiptv.cc/yy/1354889048
-周星驰搞笑在线，https://yylunbo.ottiptv.cc/yy/1351537467
-星爷经典-百看不厌,https://yylunbo.ottiptv.cc/yy/1382736808
-【周星驰】搞笑电影,https://yylunbo.ottiptv.cc/yy/38670875
-我是周粤驰,https://mursor.ottiptv.cc/huya/23864973
-星爷经典-百看不厌,https://mursor.ottiptv.cc/yy/1382736808
-周星星,https://mursor.ottiptv.cc/huya/11342412
+致敬星爷致敬经典,https://live.ottiptv.cc/yy/1354888671
+周星驰搞笑在线，https://live.ottiptv.cc/yy/1351537467
+星爷经典-百看不厌,https://live.ottiptv.cc/yy/1382736808
+【周星驰】搞笑电影,https://live.ottiptv.cc/yy/38670875
+我是周粤驰,https://live.ottiptv.cc/huya/23864973
+星爷经典,https://live.ottiptv.cc/huya/11342412
+星爷经典-百看不厌,https://live.ottiptv.cc/yy/1382736808
+周星星,https://live.ottiptv.cc/huya/11342412
 回魂夜,https://v3.dious.cc/20220401/y9ihZG1e/index.m3u8
 功夫,https://ukzy.ukubf4.com/20220407/j3bjFWpb/index.m3u8
 国产凌凌漆,https://ukzy.ukubf4.com/20220330/CVILs5nr/index.m3u8
@@ -1527,14 +1534,16 @@ DAZN2,https://live.catvod.com/live.php?id=dazn2_twn&token=f2a7d82a06850fee0b0fe4
 
 
 港剧循环播,#genre#
-橙記Orange,https://mursor.ottiptv.cc/douyu/4549169
+橙記Orange,https://goodiptv.club/douyu/4549169
 橙記Orange,https://live.ottiptv.cc/douyu/4549169
-粤语电影,https://mursor.ottiptv.cc/douyu/1226741
-疯狂尛瀦瀦,https://mursor.ottiptv.cc/douyu/4290711
-疯狂小潴潴,https://www.goodiptv.club/douyu/5522351
+新橙記Orange,https://live.ottiptv.cc/huya/30590779
+粤语电影,https://goodiptv.club/douyu/1226741
+疯狂尛瀦瀦,https://goodiptv.club/douyu/4290711
+疯狂小潴潴,https://goodiptv.club/douyu/5522351
 疯狂尛瀦瀦,https://www.goodiptv.club/douyu/4290711
 牛奶味的梦猪猪,https://www.goodiptv.club/douyu/5261342
-牛奶味的梦猪猪,https://mursor.ottiptv.cc/douyu/5261342
+牛奶味的梦猪猪,https://goodiptv.club/douyu/5261342
+港剧日记,https://live.ottiptv.cc/huya/23903130
 
 疯狂小潴潴,https://live.ottiptv.cc/douyu/5522351
 牛奶味的梦猪猪,https://live.ottiptv.cc/douyu/5261342
@@ -1542,25 +1551,26 @@ DAZN2,https://live.catvod.com/live.php?id=dazn2_twn&token=f2a7d82a06850fee0b0fe4
 橙記Orange,https://www.goodiptv.club/douyu/4549169
 粤语电影,https://www.goodiptv.club/douyu/1226741
 一起看港剧,https://www.goodiptv.club/douyu/5061550
-一起看港剧,https://mursor.ottiptv.cc/douyu/5061550
+一起看港剧,https://goodiptv.club/douyu/5061550
 一起看港剧,https://live.ottiptv.cc/douyu/5061550
 TVB爱情故事,https://mursor.ottiptv.cc/huya/23863818
 港剧职场日记,https://mursor.ottiptv.cc/huya/23903164
 TVB悬疑大片,https://mursor.ottiptv.cc/huya/23865072
 新橙記Orange,https://mursor.ottiptv.cc/huya/30590779
-车模颜值大赏,https://live.ottiptv.cc/douyu/10118209
-一起看港剧,https://live.ottiptv.cc/douyu/5061550
+车模颜值大赏,https://goodiptv.club/douyu/10118209
+一起看港剧,https://goodiptv.club/douyu/5061550
+TVB职场剧大全,https://live.ottiptv.cc/huya/23735153
 
-永远快乐的小美女,https://www.goodiptv.club/douyu/6091425
+永远快乐的小美女,https://goodiptv.club/douyu/6091425
 
-珍珠奶茶嗯哼哎哟,https://www.goodiptv.club/douyu/6566671
-小跟班丿瑶瑶,https://www.goodiptv.club/douyu/2935323
-小粤兒,https://www.goodiptv.club/douyu/5033502
-名侦探柯南之银色子弹,https://www.goodiptv.club/douyu/6484910
-丶丶丶九月,https://www.goodiptv.club/douyu/10338873
+珍珠奶茶嗯哼哎哟,https://goodiptv.club/douyu/6566671
+小跟班丿瑶瑶,https://goodiptv.club/douyu/2935323
+小粤兒,https://goodiptv.club/douyu/5033502
+名侦探柯南之银色子弹,https://goodiptv.club/douyu/6484910
+丶丶丶九月,https://goodiptv.club/douyu/10338873
 
-芒果酱Mangoo,https://www.goodiptv.club/douyu/138959
-飘洋过海来,https://www.goodiptv.club/douyu/9548850
+芒果酱Mangoo,https://goodiptv.club/douyu/138959
+飘洋过海来,https://goodiptv.club/douyu/9548850
 
 橙记人气港剧,http://zzy789.xyz/douyu1.php?id=4549169 # http://159.75.85.63:35455/douyu/4549169
 古装武侠剧场,http://zzy789.xyz/douyu1.php?id=338759 # http://159.75.85.63:35455/douyu/338759
@@ -1581,7 +1591,7 @@ TVB悬疑大片,https://mursor.ottiptv.cc/huya/23865072
 热门港剧✔原,http://zzy789.xyz/douyu1.php?id=5522351
 经典剧集✔原,http://zzy789.xyz/douyu1.php?id=6863367
 
-HK港鬼片(🚀),http://epg.112114.eu.org/douyu/8009547
+HK港鬼片(🚀),https://goodiptv.club/douyu/8009547
 
 
 
