@@ -69,6 +69,8 @@ CCTV6,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv
 CCTV8,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8?channel-id=
 CCTV11,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8?channel-id=
 CCTV13,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv13xwhd8m/index.m3u8?channel-id=
+CCTV11,http://182.114.50.84:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://182.114.50.84:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
 
 
 //new source2
