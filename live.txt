@@ -25,33 +25,6 @@ CCTV12,http://10.11.43.21/PLTV/88888912/224/3221226447/1000010000000006000000000
 CCTV13,http://10.11.43.21/PLTV/88888912/224/3221226678/382484600.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 
 
-//nm联通组播测试
-CCTV1,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000152
-CCTV2,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000477
-CCTV3,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000646
-CCTV5,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000648
-CCTV5+,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000153   
-CCTV11,http://10.13.32.101:8006/nmgd_hls/00000001000000050000000000000583
-
-//冰茶
-
-CCTV5,https://migu.188766.xyz/?migutoken=e6606b87371d5b2149fd46be26a568ed&id=CCTV5&type=yy
-CCTV5+,https://migu.188766.xyz/?migutoken=45f44416d9aa82df8dca51e0fffc3a21&id=CCTV5p&type=yy
-
-CCTV6,https://migu.188766.xyz/?migutoken=c4504f0473d687c68171fc83d3930d9b&id=CCTV6&type=yy
-CCTV8,https://migu.188766.xyz/?migutoken=c60f4a32d55ab820c75ffc02584f0aea&id=CCTV8&type=yy
-CCTV11,https://migu.188766.xyz/?migutoken=7f0179a6b908c020033f21f1adb09865&id=CCTV11&type=yy
-CCTV13,https://migu.188766.xyz/?migutoken=76040173373de134f5f7500a885ca552&id=CCTV13&type=yy
-
-
-
-CCTV6,https://migu.188766.xyz/?migutoken=4f3888a53179312fb6eecad62d793367&id=CCTV6&type=yy
-CCTV11,https://migu.188766.xyz/?migutoken=625655a4ba25cf1294262d4e5d992b8f&id=CCTV11&type=yy
-CCTV13,https://migu.188766.xyz/?migutoken=a2513a4a29c714f98235267332d9d15e&id=CCTV13&type=yy
-
-CCTV6,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226468/1.m3u8?
-CCTV11,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226334/1.m3u8?
-CCTV13,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?
 
 //catvod
 
@@ -793,23 +766,23 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 我爱我家,http://120.77.28.4:8648/yy.php?id=1382735557
 我爱我家,http://159.75.85.63:35455/yy/1382735557
 我爱我家,http://124.248.69.76:35455/yy/1382735557
-
+天道-9.2高分好剧,https://live.ottiptv.cc/yy/1382735574
 经典鬼片3000部,https://live.ottiptv.cc/yy/29460894
 夏洛特烦恼-国内电影-喜剧,https://live.ottiptv.cc/yy/1354936201
 【鹿鼎记】金庸经典,https://live.ottiptv.cc/yy/28265277
 
 鹿鼎记,https://live.ottiptv.cc/yy/1460463356
 鹿鼎记-高清全集,https://live.ottiptv.cc/yy/1382704650
-鹿鼎记-周星驰版,https://yylunbo.ottiptv.cc/yy/1354658049
+鹿鼎记-周星驰版,https://live.ottiptv.cc/yy/1354658049
 古惑仔,https://live.ottiptv.cc/yy/1458015189
 武林外传 超清,https://live.ottiptv.cc/yy/21092633
 武林外传,https://live.ottiptv.cc/yy/1355652820
-
+侏罗纪世界-国外科幻大片合集,https://live.ottiptv.cc/yy/1354930816
 鹿鼎记,http://luobo.bkpcp.top/yy/28265277
 鹿鼎记,https://live.ottiptv.cc/yy/28265277
 鹿鼎记,https://live.ottiptv.cc/yy/1382704650
-夏洛特烦恼,https://yylunbo.ottiptv.cc/yy/1354936201
-东北一家人,https://mursor.ottiptv.cc/douyu/7642724
+
+东北一家人,https://live.ottiptv.cc/douyu/7642724
 东北一家人,https://www.goodiptv.club/douyu/7642724
 寻秦记-穿越剧经典,https://live.ottiptv.cc/yy/1382749900
 寻秦记-穿越剧经典,https://live.ottiptv.cc/yy/1382851591
@@ -817,12 +790,12 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 
 武林外传,http://live.iill.top/yy.php?id=21092633
 武林外传,https://live.ottiptv.cc/yy/1355652820
-83射雕英雄传,https://mursor.ottiptv.cc/yy/1354210357
+83射雕英雄传,https://live.ottiptv.cc/yy/1354210357
 天龙八部,http://jiaojirentv.top/2020/yy.php?id=1382736855
 寻秦记,https://live.ottiptv.cc/yy/1382851591
-三国演义【1994】,https://mursor.ottiptv.cc/yy/1354930932
+三国演义【1994】,https://live.ottiptv.cc/yy/1354930932
 天龙八部,https://live.ottiptv.cc/yy/1351814644
-狂飙,https://live.https://live.ottiptv.cc/yy/1382754187
+狂飙,https://live.ottiptv.cc/yy/1382754187
 好先生,https://live.ottiptv.cc/yy/79382500
 神雕侠侣,https://live.ottiptv.cc/yy/1351762426
 老三国,http://jiaojirentv.top/2020/yy.php?id=1354930932
@@ -859,7 +832,7 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 新水浒传11版,http://159.75.85.63:35455/huya/11342384?cdn=hwcdn
 刑事侦缉档案I,https://live.ottiptv.cc/yy/1382851585
 法证先锋,https://live.ottiptv.cc/yy/1354930939
-憨豆先生-经典喜剧,https://mursor.ottiptv.cc/yy/1354936239
+憨豆先生-经典喜剧,https://live.ottiptv.cc/yy/1354936239
 疯狂的外星人,https://vip.ffzy-online2.com/20230607/38938_95adfc88/index.m3u8
 疯狂的赛车,https://vip.ffzy-play2.com/20221021/169_37d917eb/index.m3u8
 疯狂的石头,https://vip.ffzy-play2.com/20221021/170_91678c84/index.m3u8
@@ -871,14 +844,14 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 笑傲江湖吕颂贤版,http://159.75.85.63:35455/huya/23865142?cdn=hwcdn
 倚天屠龙记吴启华版,http://159.75.85.63:35455/huya/23734246?cdn=txcdn
 倚天屠龙记吴启华版,http://159.75.85.63:35455/huya/23734246?cdn=hwcdn
-爱情呼叫等待：相亲奇缘,https://mursor.ottiptv.cc/yy/1382851137
-【盗暮笔记】24h,https://mursor.ottiptv.cc/yy/1382702247
+爱情呼叫等待：相亲奇缘,https://live.ottiptv.cc/yy/1382851137
+【盗暮笔记】24h,https://live.ottiptv.cc/yy/1382702247
 我的体育老师,https://live.ottiptv.cc/yy/1382745169
 易中天品三国,https://live.ottiptv.cc/yy/1354931498
 易中天品三国,https://live.ottiptv.cc/yy/1461244449
-编辑部的故事,https://mursor.ottiptv.cc/yy/1354936120
+编辑部的故事,https://live.ottiptv.cc/yy/1354936120
 倚天屠龙记苏有朋版,http://live.iill.top/yy.php?id=1449856066
-北京爱情故事,https://mursor.ottiptv.cc/yy/1382744423
+北京爱情故事,https://live.ottiptv.cc/yy/1382744423
 法证先锋Ⅳ,https://live.ottiptv.cc/yy/1354932426
 法证先锋2,https://live.ottiptv.cc/yy/1382736870
 神雕侠侣,http://live.iill.top/yy.php?id=1351762426
@@ -1480,58 +1453,6 @@ E!,p3p://108.181.32.169:27540/645fab07000aed4ecf0c3f1353ef26e9
 EPIX,p3p://108.181.32.169:27540/645fab1400052294cf0c7060144638c8
 E! Entertainment,p3p://108.181.32.169:27540/6463a9740001391ddea5dc3e432509a2
 
-
-外网体育直播,#genre#
-
-Astro Premier League 1,https://live.catvod.com/live.php?id=go_assp1&token=863a88b2484fb927f53284d91db81c80133322f13b21a63fe4d41c64dc4061a9%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-Astro EPL 1 backup,https://live.catvod.com/live.php?id=go_assp1x&token=45fdd01df94f491f66bfdba2957dbbebd792ecd749c19f75cac91d2908f0b3ca%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-Astro Premier League 2,https://live.catvod.com/live.php?id=go_assp2&token=d078ed8cd1337fa161f4c0cc0dc7469007e391bed602b35b8541dbab23fe2274%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-Astro Grandstand,https://live.catvod.com/live.php?id=go_assp3&token=8189dc78fe2223333a4e6dc818c7bea5d2b7d9c9809d41642de0505274efb87c%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-Astro Football,https://live.catvod.com/live.php?id=go_assp4&token=95e6f7a489a8dbaccfc966e5135f1dd64033337495a082b75a604fe6087c6fec%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-Astro Sports Plus,https://live.catvod.com/live.php?id=go_sportsplus&token=dbf9636f0e082d3dd06893802b5dfebb855c283339acb4c43eed982ae048bbdb%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-Astro Badminton 1,https://live.catvod.com/live.php?id=go_badminton1&token=a12f6d8624bd1ca4d1d163b1f5f02779d66815993dd3ea6bb661f1f6e761032c%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-Astro Badminton 2,https://live.catvod.com/live.php?id=go_badminton2&token=1d972fc4a488a960f23d7264bbf219d758dc5a05e71d034c573852d53fd580f5%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-Astro W-Sports,https://live.catvod.com/live.php?id=go_assp5&token=65a36a8bb228d3b36c90c01337f7e69faea6765719e0ae257def1bdb0cc577c3%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-Supersports 1,https://live.catvod.com/live.php?id=Assp1&token=54014061d882f3043eb88f41817b656c5fdaacc07187af58806bca4a68ae0ddd%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-Supersports 2,https://live.catvod.com/live.php?id=Assp2&token=0c8d5ba6ec7a6fe8d89e486e49436762ec201def5a38825a729788c221429538%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-Supersports 3,https://live.catvod.com/live.php?id=Assp3&token=cf3b91b959a5ba56c2f03a351cfa72ffd2f3fbcaa5d3555e4cb24fd053c0b5be%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-Supersports 4,https://live.catvod.com/live.php?id=Assp4&token=520d254b82378a58409262cb52424b217286b724fe82ef2fbea02c425c767b29%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-WWE,https://live.catvod.com/live.php?id=Wwe&token=3328604f87fda2c50dde9deecee4791c0ef4f4b8dd259558e44894135fbf38d3%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-FIGHTSPORTS,https://live.catvod.com/live.php?id=Fs&token=63dc2c2771f9f4fed170f6822b378bad94060b062b71872d89ef80e6914ac320%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-NBATV,https://live.catvod.com/live.php?id=Nba&token=dbc32bd244a9e0e977ee25271271eccd1187040d247aa1b8aabf07b108b748a4%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-Astro Cricket,https://live.catvod.com/live.php?id=Acricket&token=0cdac84242c4565fa29a3daa88977d9c81c6fe712476012679dea33fcc4ea971%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-Astro Golf,https://live.catvod.com/live.php?id=Agolf&token=71ca6ae1a6370f9b83e675e1cda4e1dcdf0fb11eae0c50dfceacbf0e0bb6f79a%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-TNTSPORTS1,https://live.catvod.com/live.php?id=6fac0aaead&token=e2f0029a8e717edf27d035cd65b48c0835324eeeaaf2def1efaad237d8a1a4c8%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-TNTSPORTS2,https://live.catvod.com/live.php?id=d9a76a79cc&token=218d97f5828265da991628ca3054d98498a40349d6ec4d0d8ea28e942a706abc%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-TNTSPORTS3,https://live.catvod.com/live.php?id=5fea4d73db&token=be2f609606eda9b094753442fda43807b4e9e8171c1f538a3567401b5485c83d%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-TNTSPORTS4,https://live.catvod.com/live.php?id=tntsport4&token=3606bb8cc9859c14fc0affe2efb70d234aa4cdb40f6fcf958fba0c8ef69266ee%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-SONYTEN1,https://live.catvod.com/live.php?id=ten1_raj&token=d96f7d0b0ee55e0ed4a8b367fac4bcd17558b9ec1c2fa7a7af3271e089cdb639%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-SONYTEN2,https://live.catvod.com/live.php?id=ten2_raj&token=a5d57e342ba1d9e71d939834b368f482e7bdf00905c6f31fcbcd194d380ee7cf%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-SONYTEN3,https://live.catvod.com/live.php?id=ten3_raj&token=e585eab2c8057291648ce3ea5bf2dca5f2e7c52aefe4730905fd0480cda08a0f%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-SPOTV,https://live.catvod.com/live.php?id=go_spotv&token=92036b055bf67f5231dd7def3d1ead5909d462d8e741e636d81636ba59a57328%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-SPOTV2,https://live.catvod.com/live.php?id=go_spotv2&token=9ba329e53f8827d9e3c524e8dbaf29cbef3a1b3afcc37b1a9d0cc04865d79d6c%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-SKYSPORTS F1,https://live.catvod.com/live.php?id=tiankongf1&token=6b8b60f37cb69cfd1460a27dc85ae9589f17e2502ecaf5b403283fb31cb05750%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-SKYSPORTS Cricket,https://live.catvod.com/live.php?id=tiankongcricket&token=e552269b6980ae1923d22bf0993cfbc9e26cc513c7c6bb0789e709dc6050ad58%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-SKYSPORTS EPL,https://live.catvod.com/live.php?id=tiankongepl&token=f750a0e190adc3b71f246dbf2e872d8dc6299ce3576f84c59bf8aaeabd652ac9%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-SKYSPORTS Main Event,https://live.catvod.com/live.php?id=tiankongmain&token=0f70d9a9e5edd335cf71de2dfe00b0d3f14409b12d2fabe09872d47dbd14f644%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-SKYSPORTS News,https://live.catvod.com/live.php?id=tiankongnews&token=047d0001ba03962a73cfad884e47d0c0a1e674c2dfc90467716c635076779164%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-SKYSPORTS Mix,https://live.catvod.com/live.php?id=tiankongmix&token=b973392e6941a1681bfb7d28cf337d75f3d24655dd12f0701892139b0c787527%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-爱尔达体育1台,https://live.catvod.com/live.php?id=eltasport_twn&token=49a9c68061fe4ee9689e536328cb21fc34c64eaf93757b42020f526ec6f1cee6%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-爱尔达体育2台,https://live.catvod.com/live.php?id=eltasport2_twn&token=7d413416d9ff749b49d533a2008bcad0b918c5dc9b2cd562705d927ed0ac5156%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-爱尔达体育3台,https://live.catvod.com/live.php?id=eltasport3_twn&token=2d230800b2cf83a756dfbb34729d7e2a473f387a442d07e4f7f1833672772569%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-爱尔达体育4台,https://live.catvod.com/live.php?id=eltasports4_twn&token=0b7d2d736f66e6c19f93960a26d9a1ea8a1af668a9584eb0fd996442cb573701%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-RUGBYPASSTV,https://live.catvod.com/live.php?id=Rugbypasstv&token=6b718a6df9c7259be4e4a47742b3047855cb1f51e5fad2429ea27abb16ac67b3%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-RTM_SPORTS HD,https://live.catvod.com/live.php?id=Rtmsport&token=90a793b24df443f9261607e6a95833cd383540ee306f8012a8365befc2e93707%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-ARENA,https://live.catvod.com/live.php?id=Arena&token=871a0980f335d9550f6b29b60b5a2ee822e13aa3cb95d14d43d928274db1075d%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-ARENA2,https://live.catvod.com/live.php?id=Arena2&token=20364b197b08c88334f46b1bb1a951106443a6a84f539ad746fe358cd7ce6240%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-BolaArena 1,https://live.catvod.com/live.php?id=Bolaarena1&token=38278aae40c4c87859145fd825712970252c5b803d488da52320458b57f3e1c7%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-BolaArena 2,https://live.catvod.com/live.php?id=Bolaarena2&token=14788b2df5a484becdc4bc716521688e26d2cbe9a781336bf495d44fce4c9326%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-Astro Beinsports 1,https://live.catvod.com/live.php?id=Astrobein1&token=0c3972016512b9ccc3e5d6ab22db9f6685de5962193c17d4fd4edaf8ca9d2161%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-Astro Beinsports 2,https://live.catvod.com/live.php?id=Astrobein2&token=f4c38c452f69a0e99ab992d6026e3a76cad625de9a6de6b9d5ab8c8611aa7c58%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-Astro Beinsports 3,https://live.catvod.com/live.php?id=Astrobein3&token=b9fec6ed1a0fce40220287c9d502d8b6d4aba2627427d407ff2c28e2c0bac9db%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-小公視,https://live.catvod.com/live.php?id=pts3_twn&token=9eafc000b95a4fcb524821a14237e3bc144f6c3421d2ef77e017559e2baaf464%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-DAZN1,https://live.catvod.com/live.php?id=dazn1_twn&token=87d7dbf766381b438a40a36642e36c461b70ac7b01b07b368df9af7ebe7c5733%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
-DAZN2,https://live.catvod.com/live.php?id=dazn2_twn&token=f2a7d82a06850fee0b0fe4f524d6c56a52fd3b4fef440d30521546ae1d1c2a3e%3A1760948150%3AMjAzLjE3NS4xNC40MA%3D%3D
 
 
 
