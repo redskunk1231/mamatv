@@ -26,33 +26,6 @@ CCTV13,http://10.11.43.21/PLTV/88888912/224/3221226678/382484600.smil/01.m3u8?fm
 
 
 
-//catvod
-
-CCTV5,https://live.catvod.com/live.php?id=cctv5
-CCTV5+,https://live.catvod.com/live.php?id=cctv5plus
-CCTV6,https://live.catvod.com/live.php?id=cctv6
-CCTV11,https://live.catvod.com/live.php?id=cctv11
-CCTV13,https://live.catvod.com/live.php?id=cctv13
-
-
-//new source
-
-CCTV5,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv5hd/index.m3u8?channel-id=
-CCTV6,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv6hd8m/index.m3u8?channel-id=
-CCTV8,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv8hd8m/index.m3u8?channel-id=
-CCTV11,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv11/index.m3u8?channel-id=
-CCTV13,http://120.210.193.151:8006/120000001003/live/program/_ahbyfh-1_/live/cctv13xwhd8m/index.m3u8?channel-id=
-CCTV11,http://182.114.50.84:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
-CCTV13,http://182.114.50.84:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
-
-
-//new source2
-
-CCTV5,http://120.210.193.151:8006/120000000058/G_CCTV-5-CQ/index.m3u8?channel-id=
-CCTV6,http://120.210.193.151:8006/120000000058/G_CCTV-6-CQ/index.m3u8?channel-id=
-CCTV11,http://120.210.193.151:8006/120000000058/G_CCTV-11-HQ/index.m3u8?channel-id=
-CCTV13.http://120.210.193.151:8006/120000000058/G_CCTV-13-CQ/index.m3u8?channel-id=
-
 
 //肥羊直播
 
