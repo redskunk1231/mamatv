@@ -296,6 +296,31 @@ CCTV11,http://1.25.139.206:9901/tsfile/live/1033_1.m3u8?key=txiptv
 
 CCTV13,http://1.25.139.206:9901/tsfile/live/1035_1.m3u8?key=txiptv
 
+//wangsou
+CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
+CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
+CCTV4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
+CCTV4,http://dms.yryyj.site:8188/udp/239.76.246.154:1234
+CCTV4,http://dms.yryyj.site:8188/udp/239.76.245.195:1234
+CCTV5,http://gmxw.7766.org:808/hls/93/index.m3u8
+CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
+CCTV5,http://dms.yryyj.site:8188/udp/239.76.246.168:1234
+CCTV5,http://dms.yryyj.site:8188/udp/239.76.246.155:1234
+CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
+CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
+CCTV5+,http://111.56.90.5/000000000000/1000000005000265016/1.m3u8
+CCTV5+,http://111.56.90.5/000000000000/1000000001000020505/1.m3u8
+CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
+CCTV6,http://dms.yryyj.site:8188/udp/239.76.246.156:1234
+
+
+CCTV11,http://dms.yryyj.site:8188/udp/239.76.245.251:1234
+
+
+CCTV13,https://event.pull.hebtv.com/jishi/cp1.m3u8
+CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+
+
 
 CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
@@ -441,6 +466,7 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 怀旧剧场,http://113.26.59.83:5893/rtp/239.1.1.95:8095
 怀旧剧场,http://183.188.109.57:8888/rtp/226.0.2.224:9704
 怀旧剧场,http://223.10.11.86:885/rtp/239.1.1.95:8095
+怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 
 
 卫视,#genre#
