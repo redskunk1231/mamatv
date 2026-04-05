@@ -287,6 +287,16 @@ CCTV12,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240017_1/encoder/0/pla
 CCTV13,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240126_1/encoder/0/playlist.m3u8
 
 
+//nmjd
+CCTV5,http://1.25.139.206:9901/tsfile/live/1025_1.m3u8?key=txiptv
+CCTV5+,http://1.25.139.206:9901/tsfile/live/1037_1.m3u8?key=txiptv
+CCTV6,http://1.25.139.206:9901/tsfile/live/1027_1.m3u8?key=txiptv
+
+CCTV11,http://1.25.139.206:9901/tsfile/live/1033_1.m3u8?key=txiptv
+
+CCTV13,http://1.25.139.206:9901/tsfile/live/1035_1.m3u8?key=txiptv
+
+
 CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
@@ -427,6 +437,10 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 怀旧剧场,http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 怀旧剧场,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&line=1
+怀旧剧场,http://1.70.33.59:8085/rtp/239.1.1.95:8095
+怀旧剧场,http://113.26.59.83:5893/rtp/239.1.1.95:8095
+怀旧剧场,http://183.188.109.57:8888/rtp/226.0.2.224:9704
+怀旧剧场,http://223.10.11.86:885/rtp/239.1.1.95:8095
 
 
 卫视,#genre#
@@ -825,6 +839,9 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 我爱我家,https://live.ottiptv.cc/yy/1356212303
 我爱我家,https://live.metshop.top/yy/1382735557
 我爱我家,http://luobo.bkpcp.top/yy/1356212303
+我爱我家,https://lunbo.freetv.top/yy/1382851580
+我爱我家,https://lunbo.freetv.top/yy/1356212303
+我爱我家,https://lunbo.freetv.top/yy/1382735557
 我爱我家,http://jiaojirentv.top/2020/yy.php?id=1382735557
 我爱我家,http://159.75.85.63:35455/yy.php?id=1382735557
 我爱我家,http://live.iill.top/yy.php?id=1382735557
