@@ -29,19 +29,6 @@ CCTV13,http://10.11.43.21/PLTV/88888912/224/3221226678/382484600.smil/01.m3u8?fm
 
 //肥羊直播
 
-CCTV5,https://mgtv.ottiptv.cc/mg/641886683.m3u8?userid=834690701&sign=e3fbdb330a8ebf5f9e7b2e8e79e6286042da40a07da81b6cf3942ed6c7acf6a7b122faaec89adb16edafaeb126de776997bf3957b10b3d08441985ab49defded98e70cb2f91a51c16dd0e268314a4883&auth_token=4b0e673c1d1040ab1bff6690d39cd304
-
-CCTV5,https://mgtv.ottiptv.cc/mg/641886683.m3u8?userid=834690701&sign=735ce75ef138cb182232765f558862e90ad9788de8655ece798404588b1b249fc0e1c0898f9d7e4c12806c484b1a664d3009a11e05f954f204bdb4af978aa2a6df041af389505733d2b6f3ab5ef5b0a8&auth_token=4b0e673c1d1040ab1bff6690d39cd304
-
-CCTV5+,https://mgtv.ottiptv.cc/mg/641886773.m3u8?userid=834690701&sign=e245feddfa4bd752254a668049a7da735fb6406363c4f6bda52a3077881451fad9b0322f97379b92958dbcd6dd47e5a08e1cbe646683f7b8ab3ddc99f58600c96e7a5ad3012bb806fc7fbb97f06e3104&auth_token=4b0e673c1d1040ab1bff6690d39cd304
-
-CCTV6,https://mgtv.ottiptv.cc/mg/624878396.m3u8?userid=834690701&sign=bb472a91693d03a5b7a92bd9e7fa69753f25fc6e19e2ed3f86f1daa7e0fbd9a9d8976e0089da81196d7e6cc311dce21236ce15a604153fa346c777106b25806466c63c9aa2962addfd947a301d40126b&auth_token=4b0e673c1d1040ab1bff6690d39cd304
-
-CCTV8,https://mgtv.ottiptv.cc/mg/624878356.m3u8?userid=834690701&sign=1058f166926e3a48a62fb6b7d3902f02649127fd0b3af8e5673ab8707473881c731b7c795647b9530664cceafe8088b7889f5187bd5a3700bb95e4ac493996f2450405f361e3a829997eeaca6c93c360&auth_token=4b0e673c1d1040ab1bff6690d39cd304
-
-CCTV11,https://mgtv.ottiptv.cc/mg/667987558.m3u8?userid=834690701&sign=eda6c7c5dfa6fb2f2eb14afaeecf5a711db86e8f7f4669f4a63dd2905f3cf8f3628bc3f424129c71b8a337aa7587c8f9f75cb002e53295b6856ab35b19fca0ae52bc6344d301cb44921afed1c750ba27&auth_token=4b0e673c1d1040ab1bff6690d39cd304
-
-CCTV13,https://mgtv.ottiptv.cc/mg/608807423.m3u8?userid=834690701&sign=d8381df4b69ff6b3dd6078efd213fd14507e12eeb69e1b5878eb99e66dc43569d6ccb67d41d9702d632e8d7fa8742fc1dc1a243f4aa4f7a09fa2e5438100907015248cccc809f1d1901bd605bea9f575&auth_token=4b0e673c1d1040ab1bff6690d39cd304
 
 CCTV11,https://live.catvod.com/catvod_com.php?id=cctv11&token=62922a408b618773b9e39e5b19695df1ae73363e75c6e7f60123b7a51917e742%3A1757904658
 CCTV13,https://live.catvod.com/catvod_com.php?id=cctv13&token=977155f38082859f2fa82296fe116a64840119cc50287ea970412e25c7ae75ff%3A1757904658
@@ -51,68 +38,8 @@ CCTV5+,https://live.ottiptv.cc/mcp/cctv5p.m3u8?userid=834690701&sign=0975619ed07
 
 CCTV6,https://live.ottiptv.cc/mcp/cctv6.m3u8?userid=834690701&sign=303b03ff7a1939d1b49113ace34799353c1d56c53bedc0177cd648e270f5cca4d6a683cd286bbae3518fd0c16932967097a3183a0ee44a52188532b1241a5409244229cea32317e59a9c89f7&auth_token=4b0e673c1d1040ab1bff6690d39cd304
 
-CCTV11,https://live.ottiptv.cc/mcp/cctv11.m3u8?userid=834690701&sign=24429ea4b7ce6877fc9fd9fd6c58e774aebd80fc317412048188d3ea2fd326b69c86cf9710365eb26a6b121eb251e56c1daedbee41a76c2371e3774a78f3c3eeebbd7908707dddcaba31049586&auth_token=4b0e673c1d1040ab1bff6690d39cd304
 
 CCTV13,https://live.ottiptv.cc/mcp/cctv13.m3u8?userid=834690701&sign=6708832febec39cce136568d1345d1b2dfb42c881c65fcf9292e52170a9d215f84a4562f1e0299add92607215ca54d56cb6db5edb275e6881f9fd927213a06ff5279fc38eda73c7ed18f42043d&auth_token=4b0e673c1d1040ab1bff6690d39cd304
-
-//catcatvod
-CCTV5,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV5&line=1
-CCTV5,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV5&line=2
-CCTV5,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV5&line=3
-CCTV5,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV5&line=4
-CCTV5,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV5&line=5
-CCTV5,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV5&line=6
-CCTV5,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV5&line=7
-CCTV5,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV5&line=8
-CCTV5,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV5&line=9
-CCTV5,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV5&line=10
-CCTV5,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV5&line=11
-CCTV5,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV5&line=12
-CCTV5,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV5&line=13
-CCTV5+,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV5%2B&line=1
-CCTV5+,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV5%2B&line=2
-CCTV5+,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV5%2B&line=3
-CCTV5+,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV5%2B&line=4
-CCTV6,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV6&line=1
-CCTV6,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV6&line=2
-CCTV6,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV6&line=3
-CCTV6,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV6&line=4
-CCTV6,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV6&line=5
-CCTV6,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV6&line=6
-CCTV6,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV6&line=7
-CCTV6,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV6&line=8
-CCTV6,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV6&line=9
-CCTV6,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV6&line=10
-CCTV6,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV6&line=11
-CCTV6,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV6&line=12
-CCTV6,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV6&line=13
-CCTV6,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV6&line=14
-CCTV6,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV6&line=15
-CCTV11,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV11&line=1
-CCTV11,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV11&line=2
-CCTV11,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV11&line=3
-CCTV11,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV11&line=4
-CCTV11,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV11&line=5
-CCTV11,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV11&line=6
-CCTV11,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV11&line=7
-CCTV11,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV11&line=8
-
-CCTV13,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV13&line=1
-CCTV13,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV13&line=2
-CCTV13,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV13&line=3
-CCTV13,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV13&line=4
-CCTV13,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV13&line=5
-CCTV13,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV13&line=6
-CCTV13,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV13&line=7
-CCTV13,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV13&line=8
-CCTV13,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV13&line=9
-CCTV13,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV13&line=10
-CCTV13,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV13&line=11
-CCTV13,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV13&line=12
-CCTV13,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV13&line=13
-CCTV13,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV13&line=14
-CCTV13,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV13&line=15
-CCTV13,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV13&line=16
 
 //mcp
 CCTV5,https://live.ottiptv.cc/mcp/cctv5.m3u8?userid=834690701&sign=b67bc3c392f4dbe4ab1e0f65038d2a5700066a15aab9b5da932ba71fdf4cc23cd15fca9dde038b388fa274004ab823fd5da5e20c973eedad14a91189f2251bb9cdeb66b6a6d8c518893a14a4&auth_token=4b0e673c1d1040ab1bff6690d39cd304
@@ -122,13 +49,6 @@ CCTV6,https://live.ottiptv.cc/mcp/cctv6.m3u8?userid=834690701&sign=450acde316cf4
 CCTV11,https://live.ottiptv.cc/mcp/cctv11.m3u8?userid=834690701&sign=0ef29e82cf0988fd5ffbaa654e813a340416baa10191cd5cf1a12709ae808c602382447b221e0f7d3219bde72bbdbeb1d93cb3183ffec0048afe339ccc6dd4011f4436aada932f2da70ca653b1&auth_token=4b0e673c1d1040ab1bff6690d39cd304
 
 CCTV13,https://live.ottiptv.cc/mcp/cctv13.m3u8?userid=834690701&sign=7d9c48e15894bb9c9a77857bf42e6482475531e57873b5add9db90d2aecb9c8776bfb6dc693ab7a2e1aff89d795dafb35db853c08891f94779046cd3f4a752fafb824e109bfc80e2d7ce2cdbd8&auth_token=4b0e673c1d1040ab1bff6690d39cd304
-
-
-
-
-
-
-
 
 
 //nm联通单播测试
@@ -232,59 +152,27 @@ CCTV13,http://10.11.33.83/PLTV/88888912/224/3221226678/382484600.smil/01.m3u8?fm
 CCTV1,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 CCTV1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk33
 
-CCTV6,http://123.123.74.59:9003//hls/6/index.m3u8
-CCTV6,http://117.169.124.36:6610/ysten-businessmobile/live/cctv-6/1.m3u8
+
 CCTV11,http://huashetou.fun:35455/gaoma/cctv11.m3u8
 CCTV11,http://home.kuaidi521.com:35455/gaoma/cctv11.m3u8
 CCTV13,http://3501776.xyz:35455/gaoma/cctv13.m3u8
 CCTV13,http://36.105.100.208:35455/gaoma/cctv13.m3u8
 
-//new tv
-CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-
-CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-
-CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-
-CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
-
-CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
-
-
-//nmg单播
-CCTV5,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240246_1/encoder/0/playlist.m3u8
-CCTV5+,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240128_1/encoder/0/playlist.m3u8
-CCTV6,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240247_1/encoder/0/playlist.m3u8
-CCTV11,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240016_1/encoder/0/playlist.m3u8
-CCTV12,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240017_1/encoder/0/playlist.m3u8
-CCTV13,http://1.180.237.9/live.aishang.ctlcdn.com/00000110240126_1/encoder/0/playlist.m3u8
-
-
-//nmjd
-CCTV5,http://1.25.139.206:9901/tsfile/live/1025_1.m3u8?key=txiptv
-CCTV5+,http://1.25.139.206:9901/tsfile/live/1037_1.m3u8?key=txiptv
-CCTV6,http://1.25.139.206:9901/tsfile/live/1027_1.m3u8?key=txiptv
-
-CCTV11,http://1.25.139.206:9901/tsfile/live/1033_1.m3u8?key=txiptv
-
-CCTV13,http://1.25.139.206:9901/tsfile/live/1035_1.m3u8?key=txiptv
 
 //wangsou
 CCTV4,http://74.91.26.218:82/live/cctv4hd.m3u8
 CCTV4,http://38.75.136.137:98/gslb/dsdqpub/cctv4k.m3u8?auth=testpub
 CCTV4,http://38.75.136.137:98/gslb/dsdqbv/cctv4hd.m3u8?auth=test20251009
-CCTV4,http://dms.yryyj.site:8188/udp/239.76.246.154:1234
-CCTV4,http://dms.yryyj.site:8188/udp/239.76.245.195:1234
+
 CCTV5,http://gmxw.7766.org:808/hls/93/index.m3u8
 CCTV5,http://38.75.136.137:98/gslb/dsdqpub/cctv5hd.m3u8?auth=testpub
-CCTV5,http://dms.yryyj.site:8188/udp/239.76.246.168:1234
-CCTV5,http://dms.yryyj.site:8188/udp/239.76.246.155:1234
+
 CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV5+,http://74.91.26.218:82/live/cctv5p.m3u8
 CCTV5+,http://111.56.90.5/000000000000/1000000005000265016/1.m3u8
 CCTV5+,http://111.56.90.5/000000000000/1000000001000020505/1.m3u8
 CCTV5+,http://120.76.248.139/live/bfgd/4200000246.m3u8
-CCTV6,http://dms.yryyj.site:8188/udp/239.76.246.156:1234
+
 
 
 CCTV11,http://dms.yryyj.site:8188/udp/239.76.245.251:1234
@@ -295,8 +183,6 @@ CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 
 
 
-CCTV2,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
-CCTV2,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
 CCTV2,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
@@ -428,18 +314,11 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 
 怀旧剧场,https://live.ottiptv.cc/mcp/hjjc.m3u8?userid=834690701&sign=66ecbcd79dc01c95993f5706d24dd2b8142b46db4580cbe6a045ab7a30b7bc94317f8e444d82357ab7e943bc206540dc34eb996f5267df88c0637f7967c1584c69e78853f0ac2f383664a1&auth_token=4b0e673c1d1040ab1bff6690d39cd304
 
-怀旧剧场,http://120.210.193.151:8006/120000001002/XMThjjc/1.m3u8?channel-id=
-
 怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
 怀旧剧场,http://dassby.qqff.top:99/live/怀旧剧场/index.m3u8
 怀旧剧场,http://www.lizhinas.top:1009/rtp/239.252.219.90:5140
-怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
-怀旧剧场,https://iptv.catvod.com/live.php?token=2a88376d7b6a8f2d8a85875715a68115567413e7805931832058476057d1d884&id=CCTV%E6%80%80%E6%97%A7%E5%89%A7%E5%9C%BA&line=1
-怀旧剧场,http://1.70.33.59:8085/rtp/239.1.1.95:8095
-怀旧剧场,http://113.26.59.83:5893/rtp/239.1.1.95:8095
-怀旧剧场,http://183.188.109.57:8888/rtp/226.0.2.224:9704
-怀旧剧场,http://223.10.11.86:885/rtp/239.1.1.95:8095
-怀旧剧场,http://38.75.136.137:98/gslb/dsdqpub/hjjc.m3u8?auth=testpub
+
+
 
 
 卫视,#genre#
