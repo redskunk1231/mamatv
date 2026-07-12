@@ -27,7 +27,28 @@ CCTV13,http://10.11.43.21/PLTV/88888912/224/3221226678/382484600.smil/01.m3u8?fm
 
 
 
-//肥羊直播
+//new
+
+CCTV1,https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
+CCTV2,https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
+CCTV3,https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
+CCTV4,https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
+
+
+CCTV6,https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
+
+CCTV8,https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
+CCTV11,https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
+CCTV13,https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
+
+//genre
+CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
+CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
+CCTV6,http://107.150.60.122/live/cctv6hd.m3u8
+CCTV11,http://107.150.60.122/live/cctv11hd.m3u8
+CCTV13,http://107.150.60.122/live/cctv13hd.m3u8
+
+
 
 
 CCTV11,https://live.catvod.com/catvod_com.php?id=cctv11&token=62922a408b618773b9e39e5b19695df1ae73363e75c6e7f60123b7a51917e742%3A1757904658
@@ -343,7 +364,6 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 
 
 
-呼市新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
 呼市新闻综合,http://10.11.43.21/PLTV/88888912/224/3221226585/10000100000000060000000001126204_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 
 
@@ -380,6 +400,11 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 青海卫视,http://10.11.43.21/PLTV/88888912/224/3221226675/426211956.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 甘肃卫视,http://10.11.43.21/PLTV/88888912/224/3221226626/382482472.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 陕西卫视,http://10.11.43.21/PLTV/88888912/224/3221226677/426212062.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
+
+湖南卫视,http://107.150.60.122/live/hnwshd.m3u8
+东方卫视,http://107.150.60.122/live/dfwshd.m3u8
+浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
+江苏卫视,http://107.150.60.122/live/jswshd.m3u8
 
 
 东方卫视,https://mgtv.ottiptv.cc/mg/651632648.m3u8?userid=834690701&sign=0cc7c2f61cb3c03c7d3105651ac3ea3c098e7083c215c8e9ab42e1290949ac1ee2eca5196aabbd2c1f2bef0283076f4847d875aa6a73533ac4705145cc7f24d5777ce4601fbb3cea02ba4c8ad3a2826e&auth_token=4b0e673c1d1040ab1bff6690d39cd304
