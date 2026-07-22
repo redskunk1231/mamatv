@@ -770,7 +770,7 @@ CCTV13,http://[2409:8087:74f0:22::4]:6410/270000001128/9900000510/index.m3u8?cha
 侏罗纪世界-国外科幻大片合集,https://live.ottiptv.cc/yy/1354930816
 鹿鼎记,http://luobo.bkpcp.top/yy/28265277
 鹿鼎记,https://live.ottiptv.cc/yy/28265277
-鹿鼎记,https://live.ottiptv.cc/yy/1382704650
+破案港剧,https://live.ottiptv.cc/yy/1350670730
 
 东北一家人,https://live.ottiptv.cc/douyu/7642724
 东北一家人,https://www.goodiptv.club/douyu/7642724
