@@ -374,6 +374,10 @@ CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 呼市新闻综合,https://livestream-bt.nmtv.cn/nmtv/2331general.m3u8?txSecret=4d7342ca5cd74480526ab6d292247aff&txTime=771E8800
 
 
+深圳卫视4k,http://101.35.240.114:88/live.php?id=深圳卫视4K
+江苏卫视4K,http://101.35.240.114:88/live.php?id=江苏卫视4K
+浙江卫视4K,http://101.35.240.114:88/live.php?id=浙江卫视4K
+湖南卫视4K,http://101.35.240.114:88/live.php?id=湖南卫视4K
 
 安徽卫视,http://10.11.43.21/PLTV/88888912/224/3221226480/10000100000000060000000000873020_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 北京卫视,http://10.11.43.21/PLTV/88888912/224/3221226462/10000100000000060000000000871722_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
@@ -412,7 +416,6 @@ CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 东方卫视,http://107.150.60.122/live/dfwshd.m3u8
 浙江卫视,http://107.150.60.122/live/zjwshd.m3u8
 江苏卫视,http://107.150.60.122/live/jswshd.m3u8
-
 
 东方卫视,https://mgtv.ottiptv.cc/mg/651632648.m3u8?userid=834690701&sign=0cc7c2f61cb3c03c7d3105651ac3ea3c098e7083c215c8e9ab42e1290949ac1ee2eca5196aabbd2c1f2bef0283076f4847d875aa6a73533ac4705145cc7f24d5777ce4601fbb3cea02ba4c8ad3a2826e&auth_token=4b0e673c1d1040ab1bff6690d39cd304
 江苏卫视,https://mgtv.ottiptv.cc/mg/623899368.m3u8?userid=834690701&sign=24eadc5d2272105217997c09fc19f4e1395c3d668b6115eef666e4911e50b6191d49a085ff31924f4c341db525ec96e77b91ff5034da93a007dd823f6722bf0436ed4ca54fde51657e1d4340d143cbc6&auth_token=4b0e673c1d1040ab1bff6690d39cd304
