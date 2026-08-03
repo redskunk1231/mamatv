@@ -375,9 +375,10 @@ CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 
 
 深圳卫视4k,http://101.35.240.114:88/live.php?id=深圳卫视4K
-江苏卫视4K,http://101.35.240.114:88/live.php?id=江苏卫视4K
+江苏卫视4K,http://101.35.240.114:88/live.php?id=江苏卫视4K#http://8.138.7.223/tv/jsws4k.php
 浙江卫视4K,http://101.35.240.114:88/live.php?id=浙江卫视4K
 湖南卫视4K,http://101.35.240.114:88/live.php?id=湖南卫视4K
+东方卫视4K,http://bp-resource-dfl.bestv.cn/148/3/video.m3u8
 
 安徽卫视,http://10.11.43.21/PLTV/88888912/224/3221226480/10000100000000060000000000873020_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 北京卫视,http://10.11.43.21/PLTV/88888912/224/3221226462/10000100000000060000000000871722_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
