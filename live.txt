@@ -80,12 +80,6 @@ CCTV13,http://wfenf.x3322.net:7788/608807423
 梨园频道,http://wfenf.x3322.net:7788/961930369
 梨园频道,http://47.104.178.59:3566/961930369
 梨园频道,http://1.94.31.214/php/hntv.php?id=hnly
-河南曲艺,http://1.94.31.214/php/hntv.php?id=jczy
-戏剧影视,http://xatv-yt.xiancity.cn/live/4/index.m3u8
-
-
-
-
 
 CCTV11,https://live.catvod.com/catvod_com.php?id=cctv11&token=62922a408b618773b9e39e5b19695df1ae73363e75c6e7f60123b7a51917e742%3A1757904658
 CCTV13,https://live.catvod.com/catvod_com.php?id=cctv13&token=977155f38082859f2fa82296fe116a64840119cc50287ea970412e25c7ae75ff%3A1757904658
