@@ -1,6 +1,5 @@
 央视,#genre#
 
-
 CCTV1,http://10.11.43.21/PLTV/88888912/224/3221226446/10000100000000060000000000870185_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 
 CCTV2,http://10.11.43.21/PLTV/88888912/224/3221226445/10000100000000060000000000870187_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
@@ -11,10 +10,8 @@ CCTV5,http://10.11.43.21/PLTV/88888912/224/3221226423/10000100000000060000000000
 
 CCTV5+,http://10.11.43.21/PLTV/88888912/224/3221226077/10000100000000060000000000662662_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 
-
 CCTV6,http://10.11.43.21/PLTV/88888912/224/3221226426/10000100000000060000000000808425_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 CCTV8,http://10.11.43.21/PLTV/88888912/224/3221226444/10000100000000060000000000808423_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
-
 
 CCTV9,http://10.11.43.21/PLTV/88888912/224/3221226443/10000100000000060000000000870186_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 CCTV10,http://10.11.43.21/PLTV/88888912/224/3221226454/10000100000000060000000000870188_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
@@ -24,16 +21,12 @@ CCTV11,http://10.11.43.21/PLTV/88888912/224/3221226102/1000010000000006000000000
 CCTV12,http://10.11.43.21/PLTV/88888912/224/3221226447/10000100000000060000000000870190_0.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 CCTV13,http://10.11.43.21/PLTV/88888912/224/3221226678/382484600.smil/01.m3u8?fmt=ts2hls&icpid=88888912&from=19&hms_devid=1424&online=1702564791
 
-
-
-
 //new
 
 CCTV1,https://php.jdshipin.com/TVOD/iptv.php?id=cctv1
 CCTV2,https://php.jdshipin.com/TVOD/iptv.php?id=cctv2
 CCTV3,https://php.jdshipin.com/TVOD/iptv.php?id=cctv3
 CCTV4,https://php.jdshipin.com/TVOD/iptv.php?id=cctv4
-
 
 CCTV6,https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
 
@@ -47,9 +40,6 @@ CCTV5+,http://107.150.60.122/live/cctv5p.m3u8
 CCTV6,http://107.150.60.122/live/cctv6hd.m3u8
 CCTV11,http://107.150.60.122/live/cctv11hd.m3u8
 CCTV13,http://107.150.60.122/live/cctv13hd.m3u8
-
-
-
 
 //new2
 CCTV5,https://cdn.qd.je/163189/cctv5
@@ -233,17 +223,11 @@ CCTV13,https://event.pull.hebtv.com/jishi/cp1.m3u8
 CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 
 
-
-
-
-
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4,http://39.134.24.161/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8?
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
 CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
-CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226191/index.m3u8
 CCTV4,http://121.19.134.236:808/hls/4/index.m3u8
 
 
