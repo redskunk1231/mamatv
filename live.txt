@@ -64,12 +64,6 @@ CCTV11,http://wfenf.x3322.net:7788/667987558
 
 CCTV13,http://wfenf.x3322.net:7788/608807423
 
-老故事,http://wfenf.x3322.net:7788/884121956
-老故事,http://47.104.178.59:3566/884121956
-
-梨园频道,http://wfenf.x3322.net:7788/961930369
-梨园频道,http://47.104.178.59:3566/961930369
-梨园频道,http://1.94.31.214/php/hntv.php?id=hnly
 
 CCTV11,https://live.catvod.com/catvod_com.php?id=cctv11&token=62922a408b618773b9e39e5b19695df1ae73363e75c6e7f60123b7a51917e742%3A1757904658
 CCTV13,https://live.catvod.com/catvod_com.php?id=cctv13&token=977155f38082859f2fa82296fe116a64840119cc50287ea970412e25c7ae75ff%3A1757904658
