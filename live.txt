@@ -769,8 +769,6 @@ CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 好先生电视剧,https://www.goodiptv.club/douyu/9650792
 好先生电视剧,https://live.ottiptv.cc/douyu/9650792
 武林外传轮播,http://wab201.win:35455/yy/1355652820
-征服孙红雷,https://www.goodiptv.club/douyu/2726977
-
 征服孙红雷,https://live.ottiptv.cc/douyu/2726977
 人在囧途,https://vip.ffzy-play.com/20221018/1953_2d6ba500/index.m3u8
 人在囧途之泰囧,https://vip.ffzy-play.com/20221018/1951_47e1adc8/index.m3u8
@@ -818,6 +816,7 @@ CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 笑傲江湖2,http://live.iill.top/yy.php?id=1354282410
 周星星系列,https://live.ottiptv.cc/yy/1354888671
 寻秦记,https://live.ottiptv.cc/yy/1382749900
+百家讲坛――之明太祖朱元璋,https://live.ottiptv.cc/yy/135493614
 隋唐英雄传,http://live.iill.top/yy.php?id=1352475619
 老三国,http://159.75.85.63:35455/huya/11602081?cdn=hwcdn
 新三国,http://159.75.85.63:35455/huya/11352944?cdn=txcdn
@@ -978,7 +977,7 @@ CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 黄飞鸿之一:壮志凌云,https://cdn4.yzzy-tv-cdn.com/20220617/21900_8ceba9f5/index.m3u8
 黄飞鸿之壮志凌云,http://jsmov2.a.yximgs.com/bs3/video-hls/5189554175568165120_hlsb.m3u8
 
-
+83射雕英雄传,https://live.ottiptv.cc/yy/1354210357
 英雄本色1,https://vip.ffzy-play7.com/20221115/4617_be0491ea/index.m3u8
 英雄本色2,https://vip.ffzy-play7.com/20221115/4807_eeca808f/index.m3u8
 异形寄生-起源,https://api.heimuer.app/play/3e9be3a5080c46449dbc355c9cb8baec.m3u8
@@ -1279,8 +1278,9 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 星爷全集,#genre#
 
 周星驰搞笑在线，https://live.ottiptv.cc/yy/1351537467
-
+周星驰-搞笑电影,https://live.ottiptv.cc/yy/38670875
 我是周粤驰,https://live.ottiptv.cc/huya/23864973
+周星驰-星爷来了,https://live.ottiptv.cc/yy/1382627144
 星爷经典,https://live.ottiptv.cc/huya/11342412
 星爷经典-百看不厌,https://live.ottiptv.cc/yy/1382736808
 周星星,https://live.ottiptv.cc/huya/11342412
