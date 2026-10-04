@@ -33,6 +33,7 @@ CCTV6,https://php.jdshipin.com/TVOD/iptv.php?id=cctv6
 CCTV8,https://php.jdshipin.com/TVOD/iptv.php?id=cctv8
 CCTV11,https://php.jdshipin.com/TVOD/iptv.php?id=cctv11
 CCTV13,https://php.jdshipin.com/TVOD/iptv.php?id=cctv13
+CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 
 //genre
 CCTV5,http://107.150.60.122/live/cctv5hd.m3u8
@@ -892,7 +893,7 @@ CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
 寻秦记,http://live.iill.top/yy.php?id=1382749900
 寻秦记,https://live.ottiptv.cc/yy/1382749900
 寻秦记,https://live.ottiptv.cc/yy/1354658048
-
+扫黄先锋,https://live.metshop.top/huya/29465855
 黑冰,http://live.iill.top/yy.php?id=1354932427
 天道,http://live.iill.top/yy.php?id=1382735574
 上海滩80版,http://live.iill.top/yy.php?id=1382745184
@@ -1145,9 +1146,9 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 【七龍珠改】超级赛亚人孙捂空 ,http://182.40.120.191/test-txdwk.flv.huya.com/src/1524418081-1524418081-6547325803326078976-3048959618-10057-A-0-1.m3u8
 编辑部的故事，欢乐喜剧~,http://182.40.120.183/test-txdwk.flv.huya.com/src/1099531752782-1099531752782-86436242601803776-2199063629020-10057-A-0-1.m3u8
 【樱桃小丸子】我家很穷,http://182.40.120.241/test-txdwk.flv.huya.com/src/1250011-1250011-5368756364640256-2789253858-10057-A-0-1.m3u8
-
+陀枪师姐,https://live.metshop.top/huya/29465857
 易中天品三国,http://182.40.120.194/test-txdwk.flv.huya.com/src/1524434067-1524434067-6547394462673272832-3048991590-10057-A-0-1.m3u8
-
+野蛮亲家,https://live.metshop.top/huya/23863796
 楚汉骄雄,https://huyazhibo.de5.net/?id=29465854
 天龙八部,https://huyazhibo.de5.net/?id=29981376
 封神榜,https://huyazhibo.de5.net/?id=29465849
@@ -1274,6 +1275,7 @@ si神来了系列 好怕怕,http://182.40.120.194/test-txdwk.flv.huya.com/src/14
 
 星爷全集,#genre#
 周星驰,https://live.ottiptv.cc/huya/30631741
+周星,http://live.metshop.top/huya/11336587?cdn=alicdn
 我是周粤驰,https://live.ottiptv.cc/huya/23864973
 周星驰搞笑在线，https://live.ottiptv.cc/yy/1351537467
 周星驰-搞笑电影,https://live.ottiptv.cc/yy/38670875
